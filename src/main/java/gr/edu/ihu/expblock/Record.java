@@ -18,7 +18,7 @@ public class Record {
     public String surname;
     public String town;
     public String poBox;
-    public String origin;
+    public int origin;
     public int evictions = 0;
     public int survivals = 0;
     public String bKey = "";

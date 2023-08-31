@@ -10,6 +10,8 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.SplittableRandom;
 import java.util.stream.IntStream;
 import org.apache.commons.lang3.ArrayUtils;
@@ -40,6 +42,8 @@ public class ExpBlock {
     IntStream rS;
     int[] r;
     int noRandoms = 5000;
+
+    public static Map<String, String> ground = new HashMap<String, String>();
 
     public ExpBlock(double epsilon, double q, int b) {
         try {
@@ -115,7 +119,7 @@ public class ExpBlock {
             Block block = arr[i];
             if (block != null) {
                 if (block.key.equals(key)) {
-                    int mp = block.put(rec, w, currentRound, writer);
+                    int mp = block.put(rec, w, currentRound, writer,ground);
                     this.matchingPairsNo = this.matchingPairsNo + mp;
                     blockExists = true;
                     break;
@@ -127,7 +131,7 @@ public class ExpBlock {
         if (!blockExists) {
             Block newBlock = new Block(key, this.q);
             this.occupied++;
-            int mp = newBlock.put(rec, w, currentRound, writer);
+            int mp = newBlock.put(rec, w, currentRound, writer, ground);
             if (emptyPos != -1) {
                 arr[emptyPos] = newBlock;
             } else {
@@ -144,7 +148,7 @@ public class ExpBlock {
         long elapsedTime = stopTime - startTime;
     }
 
-    public static Record prepare(String[] lineInArray) {
+    public static Record prepare(String[] lineInArray, int d) {
         String name = lineInArray[2];
         String surname = lineInArray[1];
         String address = lineInArray[3];
@@ -157,7 +161,20 @@ public class ExpBlock {
         rec.surname = surname;
         rec.town = town;
         rec.poBox = poBox;
-        rec.origin = id.charAt(0) + "";
+        rec.origin = d;//id.charAt(0) + "";
+        // if(d==1){
+        //     ground.put(id," ");
+        //     //System.out.println("---"+id);
+        // }else
+        // {
+        //     String datasetA=ground.get(id);
+        //     if (datasetA!=null){
+        //         System.out.println("aaaaaaaaaaa---- "+ datasetA);
+                
+        //     }
+
+        // }
+        
         //System.out.println(id+" "+name+" "+surname+" "+town+" "+rec.origin);               
         return rec;
     }
@@ -170,11 +187,28 @@ public class ExpBlock {
         long startTime = System.currentTimeMillis();
         long startTimeCycle = System.currentTimeMillis();
         try {
-            CSVReader readerA = new CSVReader(new FileReader("c:\\data\\test_voters_A.txt"));
-            CSVReader readerB = new CSVReader(new FileReader("c:\\data\\test_voters_B.txt"));
+            CSVReader readerA = new CSVReader(new FileReader("./dataset//test_voters_A.txt"));
+            CSVReader readerB = new CSVReader(new FileReader("./dataset//test_voters_B.txt"));
+            CSVReader groundFile = new CSVReader(new FileReader("./dataset//ground_voters.txt"));
 
             String[] lineInArray1;
             String[] lineInArray2;
+
+            while (true){
+                lineInArray1 = groundFile.readNext();
+                if (lineInArray1 != null) {
+                    if (lineInArray1.length >0) {
+                        String idA = lineInArray1[0];
+                        String idB = lineInArray1[1];
+                        //System.out.println("ids "+ idA +" --- "+idB);
+                        ground.put(idA,idB);
+                    }
+                }
+                if ((lineInArray1 == null)) {
+                    break;
+                }
+            }
+
             int c = 0;
             while (true) {
                 lineInArray1 = readerA.readNext();
@@ -183,7 +217,7 @@ public class ExpBlock {
                         String surname = lineInArray1[1];
                         recNoA++;
                         //System.out.println("Working on "+recNoA+" record from A.");
-                        Record rec1 = prepare(lineInArray1);
+                        Record rec1 = prepare(lineInArray1,1);
                         e.put(rec1);
                     }
                 }
@@ -194,7 +228,7 @@ public class ExpBlock {
                         String surname2 = lineInArray2[1];
                         recNoB++;
                         //System.out.println("Working on "+recNoB+" record from B.");                                                        
-                        Record rec2 = prepare(lineInArray2);
+                        Record rec2 = prepare(lineInArray2,2);
                         e.put(rec2);
                     }
                 }

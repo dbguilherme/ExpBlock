@@ -75,7 +75,12 @@ public class Block {
         }
     }*/
 
-    public int put(Record rec, int w, int round, FileWriter writer) {
+    public void groundtruth(){
+
+
+
+    }
+    public int put(Record rec, int w, int round, FileWriter writer, HashMap<String, String> ground) {
         //Do the matching
         int matchingPairsNo = 0;
         Random r = new Random();
@@ -84,13 +89,14 @@ public class Block {
         for (int i = 0; i < arr.size(); i++) {
             Record rec1 = arr.get(i);
 
-            if (!rec1.origin.equals(rec.origin)) { //Compare only records which orginate from different data sources
+            //if (!rec1.origin.equals(rec.origin)) { 
+                //Compare only records which orginate from different data sources
 
                 this.comparisonsNo++;
                 if ((editDistance(rec1.surname, rec.surname) <= 2) && (editDistance(rec1.name, rec.name) <= 2)) {
                     //Report a match
                     //System.out.println("A matching pair identified.");
-                    if (rec.getIdNo().equals(rec1.getIdNo())) {                       
+                    //if (rec.getIdNo().equals(rec1.getIdNo())) {                       
                         //System.out.println("A truly matching pair identified.");
                         String s = rec1.id + " " + rec1.surname + " " + rec1.name + " " + rec1.town + " " + rec1.poBox + " matched with " + rec.id + " " + rec.surname + " " + rec.name + " " + rec.town + " " + rec.poBox;
                         try {
@@ -99,9 +105,9 @@ public class Block {
                             ex.printStackTrace();
                         }
                         matchingPairsNo++;
-                    }
+                    //}
                 }
-            }
+            //}
         }
 
         if (arr.size() == w) {

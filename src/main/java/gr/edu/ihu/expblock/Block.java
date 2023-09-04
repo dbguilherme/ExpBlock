@@ -25,6 +25,10 @@ public class Block {
     double activity = 0;
     int comparisonsNo = 0;
     double q = 0.0;
+    int VPPairsNo = 0;
+    int FNPairs = 0;
+    int FPPairsNo=0;
+    int VNPairsNo=0;
     
     public Block(String key, double q) {
         this.key = key;
@@ -75,41 +79,67 @@ public class Block {
         }
     }*/
 
-    public void groundtruth(){
-
-
-
-    }
-    public int put(Record rec, int w, int round, FileWriter writer, HashMap<String, String> ground) {
+ 
+    public void put(Record rec, int w, int round, FileWriter writer, HashMap<String, String> ground) {
         //Do the matching
-        int matchingPairsNo = 0;
-        Random r = new Random();
-            
+        VPPairsNo =FNPairs = FPPairsNo= VNPairsNo=0;    
+        
+        Random r = new Random();            
 
         for (int i = 0; i < arr.size(); i++) {
             Record rec1 = arr.get(i);
 
-            //if (!rec1.origin.equals(rec.origin)) { 
+
+            if (rec1.origin!=rec.origin) { 
                 //Compare only records which orginate from different data sources
 
+                String key,value;
+                if (rec1.origin==1){
+                    key=rec1.id;
+                    value=rec.id;
+                }else{    
+                    key=rec.id;
+                    value=rec1.id;
+                }
                 this.comparisonsNo++;
-                if ((editDistance(rec1.surname, rec.surname) <= 2) && (editDistance(rec1.name, rec.name) <= 2)) {
+                //if ((editDistance(rec1.surname, rec.surname) <= 2) && (editDistance(rec1.name, rec.name) <= 2)) {
+                if ((editDistance(rec1.title, rec.title) <= 2) && (editDistance(rec1.title, rec.title) <= 2)) {
                     //Report a match
                     //System.out.println("A matching pair identified.");
                     //if (rec.getIdNo().equals(rec1.getIdNo())) {                       
-                        //System.out.println("A truly matching pair identified.");
+                       // System.out.println("A truly matching pair identified.");
+                        
+                        //System.out.println("key "+key + " value "+ ground.get(key)  + " " +value);
+                        String keyB =ground.get(key);
+                        if (keyB!=null)
+                            if (ground.get(key).equals(value)){
+                            //System.out.print("----key "+key + " value "+ value);
+                            VPPairsNo++;
+                            }else{
+                            FPPairsNo++; 
+                            }
                         String s = rec1.id + " " + rec1.surname + " " + rec1.name + " " + rec1.town + " " + rec1.poBox + " matched with " + rec.id + " " + rec.surname + " " + rec.name + " " + rec.town + " " + rec.poBox;
                         try {
                             writer.write(s + "\r\n");
                         } catch (Exception ex) {
                             ex.printStackTrace();
                         }
-                        matchingPairsNo++;
+                        //matchingPairsNo++;
                     //}
+                }else{
+                   //System.out.println("----key "+key + " value "+ ground.get(key));
+                    String keyB =ground.get(key);
+                    if (keyB!=null){
+                        if (keyB.equals(value)){
+                            //System.out.println("----key "+key + " value "+ value);
+                            FNPairs++;
+                        }
+                     }
                 }
-            //}
-        }
-
+            }           
+        } 
+       
+        
         if (arr.size() == w) {
             ArrayList<Record> newArr = new ArrayList<Record>();
             int evicted = 0;
@@ -130,7 +160,7 @@ public class Block {
 
         this.recNo++;
         this.lastRoundUsed = round;
-        return matchingPairsNo;
+        //return matchingPairsNo;
     }
 
     public void setDegree(int avg, int currentRound) {

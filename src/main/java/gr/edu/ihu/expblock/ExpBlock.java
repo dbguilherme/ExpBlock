@@ -35,6 +35,9 @@ public class ExpBlock {
     public double xi = .08;
     public int currentRound = 1;
     public int matchingPairsNo = 0;
+    public int FPPairsNo = 0;
+    public int TPPairsNo = 0;
+    
     public int trulyMatchingPairsNo = 1000000;
     public MinHash minHash = new MinHash();
     public static FileWriter writer;
@@ -43,7 +46,7 @@ public class ExpBlock {
     int[] r;
     int noRandoms = 5000;
 
-    public static Map<String, String> ground = new HashMap<String, String>();
+    public static HashMap<String, String> ground = new HashMap<String, String>();
 
     public ExpBlock(double epsilon, double q, int b) {
         try {
@@ -119,8 +122,9 @@ public class ExpBlock {
             Block block = arr[i];
             if (block != null) {
                 if (block.key.equals(key)) {
-                    int mp = block.put(rec, w, currentRound, writer,ground);
-                    this.matchingPairsNo = this.matchingPairsNo + mp;
+                    block.put(rec, w, currentRound, writer,ground);
+                    this.TPPairsNo = this.TPPairsNo + block.VPPairsNo;
+                    this.FPPairsNo = this.FPPairsNo + block.FPPairsNo;
                     blockExists = true;
                     break;
                 }
@@ -131,7 +135,7 @@ public class ExpBlock {
         if (!blockExists) {
             Block newBlock = new Block(key, this.q);
             this.occupied++;
-            int mp = newBlock.put(rec, w, currentRound, writer, ground);
+            newBlock.put(rec, w, currentRound, writer, ground);
             if (emptyPos != -1) {
                 arr[emptyPos] = newBlock;
             } else {
@@ -142,55 +146,61 @@ public class ExpBlock {
                     }
                 }
             }
-            this.matchingPairsNo = this.matchingPairsNo + mp;
+            this.matchingPairsNo = this.matchingPairsNo + newBlock.VPPairsNo;
         }
         long stopTime = System.nanoTime();
         long elapsedTime = stopTime - startTime;
     }
 
     public static Record prepare(String[] lineInArray, int d) {
-        String name = lineInArray[2];
-        String surname = lineInArray[1];
-        String address = lineInArray[3];
-        String town = lineInArray[4];
-        String poBox = lineInArray[5];
+        // String name = lineInArray[2];
+        // String surname = lineInArray[1];
+        // String address = lineInArray[3];
+       // String town = lineInArray[4];
+        //String poBox = lineInArray[5];
+        //id,title,authors,venue,year
+
+        String title = lineInArray[1];
+        String authors = lineInArray[2];
+        String Fauthor = (authors).split(",")[0];
+        String temp[]=Fauthor.split(" ");
+        if (temp.length>1)
+            Fauthor=temp[temp.length-1];
+        String venue = lineInArray[3];
+        String year = lineInArray[4];
+   
+
         String id = lineInArray[0];
         Record rec = new Record();
         rec.id = id;
-        rec.name = name;
-        rec.surname = surname;
-        rec.town = town;
-        rec.poBox = poBox;
+        rec.name = authors;
+        rec.title = title;
+        rec.venue = venue;
+        rec.Fauthor=Fauthor;
+        rec.year = year;
+        //rec.town = town;
+        //rec.poBox = poBox;
         rec.origin = d;//id.charAt(0) + "";
-        // if(d==1){
-        //     ground.put(id," ");
-        //     //System.out.println("---"+id);
-        // }else
-        // {
-        //     String datasetA=ground.get(id);
-        //     if (datasetA!=null){
-        //         System.out.println("aaaaaaaaaaa---- "+ datasetA);
-                
-        //     }
-
-        // }
+    
         
-        //System.out.println(id+" "+name+" "+surname+" "+town+" "+rec.origin);               
+        System.out.println(Fauthor + " "+ year );               
         return rec;
     }
 
     public static void main(String[] args) {
-        ExpBlock e = new ExpBlock(0.1, 2.0 / 3, 1000);
+        ExpBlock e = new ExpBlock(0.05, 1.0 / 3, 1000);
         System.out.println("Running ExpBlock using b=" + e.b + " w=" + e.w);
         int recNoA = 0;
         int recNoB = 0;
         long startTime = System.currentTimeMillis();
         long startTimeCycle = System.currentTimeMillis();
         try {
-            CSVReader readerA = new CSVReader(new FileReader("./dataset//test_voters_A.txt"));
-            CSVReader readerB = new CSVReader(new FileReader("./dataset//test_voters_B.txt"));
-            CSVReader groundFile = new CSVReader(new FileReader("./dataset//ground_voters.txt"));
-
+            // CSVReader readerA = new CSVReader(new FileReader("./dataset//test_voters_A.txt"));
+            // CSVReader readerB = new CSVReader(new FileReader("./dataset//test_voters_B.txt"));
+            // CSVReader groundFile = new CSVReader(new FileReader("./dataset//ground_voters.txt"));
+            CSVReader readerA = new CSVReader(new FileReader("./dataset/dblp-scholar/DBLP1.csv"));
+            CSVReader readerB = new CSVReader(new FileReader("./dataset/dblp-scholar/Scholar.csv"));
+            CSVReader groundFile = new CSVReader(new FileReader("./dataset/dblp-scholar/DBLP-Scholar_perfectMapping.csv"));
             String[] lineInArray1;
             String[] lineInArray2;
 
@@ -204,40 +214,43 @@ public class ExpBlock {
                         ground.put(idA,idB);
                     }
                 }
+                
                 if ((lineInArray1 == null)) {
                     break;
                 }
             }
 
-            int c = 0;
+           // int c = 0;
             while (true) {
                 lineInArray1 = readerA.readNext();
+                //System.out.println("Working on "+recNoA+" record from A." +lineInArray1);
                 if (lineInArray1 != null) {
-                    if (lineInArray1.length == 6) {
-                        String surname = lineInArray1[1];
+                    //if (lineInArray1.length == 6) {
+                        //String surname = lineInArray1[1];
                         recNoA++;
-                        //System.out.println("Working on "+recNoA+" record from A.");
+                        //System.out.println("Working on "+recNoA+" record from A." +lineInArray1[0]);
                         Record rec1 = prepare(lineInArray1,1);
                         e.put(rec1);
-                    }
+                   // }
                 }
+
                 lineInArray2 = readerB.readNext();
                 if (lineInArray2 != null) {
                     //String[] lineInArray2 = readerB.readNext();
-                    if (lineInArray2.length == 6) {
-                        String surname2 = lineInArray2[1];
+                  //  if (lineInArray2.length == 6) {
+                        //String surname2 = lineInArray2[1];
                         recNoB++;
                         //System.out.println("Working on "+recNoB+" record from B.");                                                        
                         Record rec2 = prepare(lineInArray2,2);
                         e.put(rec2);
-                    }
+                 //   }
                 }
 
-                if ((recNoA + recNoB) % 100000 == 0) {
+                if ((recNoA + recNoB) % 10000 == 0) {
                     long stopTimeCycle = System.currentTimeMillis();
                     long elapsedTime = stopTimeCycle - startTimeCycle;
                     System.out.println("====== processed " + (recNoA + recNoB) + " records in " + (elapsedTime / 1000) + " seconds.");
-                    System.out.println("====== identified " + e.matchingPairsNo + " matching pairs.");
+                    System.out.println("====== identified " + e.TPPairsNo + " matching pairs.");
                     startTimeCycle = System.currentTimeMillis();
                 }
                 if ((lineInArray1 == null) && (lineInArray2 == null)) {
@@ -251,7 +264,8 @@ public class ExpBlock {
             System.out.println(" ==================== processed " + (recNoA + recNoB) + " records in total.");
             System.out.println(" ==================== processed " + (recNoA) + " records from A.");
             System.out.println(" ==================== processed " + (recNoB) + " records from B.");
-            System.out.println(" ==================== identified " + e.matchingPairsNo + " in total. Recall = " + (e.matchingPairsNo * 1.0 / e.trulyMatchingPairsNo));
+            System.out.println(" ==================== identified " + e.TPPairsNo + " in total. Recall = " + (e.TPPairsNo * 1.0 / e.trulyMatchingPairsNo));
+            System.out.println(" ==================== identified " + e.FPPairsNo + " in total. Precision = " + (e.FPPairsNo * 1.0 / e.trulyMatchingPairsNo));
         } catch (Exception ex) {
             ex.printStackTrace();
             try {

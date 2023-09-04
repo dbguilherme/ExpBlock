@@ -1,0 +1,1087 @@
+id null authors null null matched with ﻿id null authors null null
+journals/sigmod/ChienTZ01 null S Chien, V Tsotras, C Zaniolo null null matched with cjBpI3TcSWsJ null SY Chien, VJ Tsotras, C Zaniolo null null
+9fcJjh5vHn8J null P Drew, B Hamidzadeh, K Karlapalem, ACY Kean, DL   null null matched with journals/sigmod/DrewHKKLLLSW95 null P Drew, B Hamidzadeh, K Karlapalem, A Kean, D Lee, Q Li, F Lochovsky, C Shum, B Wüthrich null null
+conf/sigmod/KrishnamurthyBN99 null V Krishnamurthy, S Banerjee, A Nori null null matched with qS4jhfgPbm8J null V Krishnamurthy, S Banerjee, A Nori null null
+journals/sigmod/Fong97 null J Fong null null matched with rgJU30QjbhkJ null J Fong null null
+OuM0E0BhEXIJ null S Chaudhuri, G Weikum null null matched with conf/vldb/ChaudhuriW00 null S Chaudhuri, G Weikum null null
+journals/sigmod/BilirisP96 null A Biliris, E Panagos null null matched with fu9j50Kk4Y4J null A Biliris, E Panagos null null
+69kmXg9nRZkJ null L Do, P Drew, W Jin, V Jumani, D Van Rossum null null matched with conf/vldb/DoDJJR98 null L Do, P Drew, W Jin, V Jumani, D Rossum null null
+ButmJWjGXusJ null C Mina null null matched with conf/vldb/Mina98 null C Mina null null
+aovCRhocZUcJ null P Bonnet, A Beaufour, MB Dydensborg, M Leopold null null matched with journals/sigmod/BonnetBDL03 null P Bonnet, A Beaufour, M Dydensborg, M Leopold null null
+conf/sigmod/LiBCS00 null C Li, L Bergman, V Castelli, J Smith null null matched with 4abl38Q9iH4J null CS Li, LD Bergman, YC Chang, V Castelli, JR Smith null null
+L4k3lAWc-JgJ null JU Kietz, U Reimer, M Staudt null null matched with conf/vldb/KietzRS97 null J Kietz, U Reimer, M Staudt null null
+conf/sigmod/ShklarSKT95 null L Shklar, A Sheth, V Kashyap, S Thatte null null matched with 4IaWCBK6dMQJ null L Shklar, A Sheth, V Kashyap, S Thatte null null
+Y799jSppkKEJ null R Agrawal, KI Lin, HS Sawhney, K Shim null null matched with conf/vldb/AgrawalLSS95 null R Agrawal, K Lin, H Sawhney, K Shim null null
+46FVYbhr0WoJ null D Chatziantoniou, KA Ross null null matched with conf/vldb/ChatziantoniouR96 null D Chatziantoniou, K Ross null null
+lDTPyBMtHVwJ null AY Levy null null matched with conf/vldb/Levy96 null A Levy null null
+conf/vldb/GoodmanRS94 null N Goodman, S Rozen, L Stein null null matched with 8CCHAKnGJ1EJ null N Goodman, S Rozen null null
+sAYCyUcugbYJ null S Chaudhuri, P Ganesan, V Narasayya null null matched with conf/vldb/ChaudhuriGN03 null S Chaudhuri, P Ganesan, V Narasayya null null
+conf/sigmod/KotidisR99 null Y Kotidis, N Roussopoulos null null matched with qzjtGDo7OuMJ null Y Kotidis, N Roussopoulos null null
+xCbXlJHLR48J null P Buneman, M Grohe, C Koch null null matched with conf/vldb/KochBG03 null P Buneman, M Grohe, C Koch null null
+l7glyH7ltuQJ null F Tian, DJ DeWitt null null matched with conf/vldb/TianD03 null F Tian, D DeWitt null null
+0ZQnv8tOzBwJ null G Cormode, D Srivastava null null matched with conf/vldb/CormodeKMS03 null G Cormode, F Korn, S Muthukrishnan, D Srivastava null null
+conf/sigmod/DattaDRTV01 null A Datta, K Dutta, K Ramamritham, H Thomas, D VanderMeer null null matched with qK-N8yVLSWUJ null A Datta, K Dutta, K Ramamritham, H Thomas, D   null null
+conf/vldb/ChanI99 null C Chan, Y Ioannidis null null matched with QV20-69j6YYJ null CY Chan, YE Ioannidis null null
+conf/vldb/DiaoLCT00 null Y Diao, H Lu, S Chen, Z Tian null null matched with lzbvXZxLKJIJ null Y Diao, H Lu, S Chen, Z Tian null null
+fz4PKDuWGmoJ null S Helmer, G Moerkotte null null matched with journals/vldb/HelmerM03 null S Helmer, G Moerkotte null null
+VWbm4EeeFNMJ null R Fileto, L Liu, C Pu, ED Assad, CB Medeiros null null matched with journals/vldb/FiletoLPAM03 null R Fileto, L Liu, C Pu, E Assad, C Medeiros null null
+journals/sigmod/Zhang95 null J Zhang null null matched with f86VsMJZ9gAJ null J Zhang null null
+conf/sigmod/LeeKC99 null J Lee, D Kim, C Chung null null matched with c-5n9qQKLaEJ null JH Lee, DH Kim, CW Chung null null
+BKUtItHoTX8J null D Konopnicki, O Shmueli null null matched with journals/tods/KonopnickiS98 null D Konopnicki, O Shmueli null null
+conf/vldb/WeberSNSS03 null R Weber, C Schuler, P Neukomm, H Schuldt, H Schek null null matched with wjrZrNrZl4kJ null R Weber, C Schuler, P Neukomm, H Schuldt, HJ Schek null null
+journals/tods/MamoulisP01 null N Mamoulis, D Papadias null null matched with Rg8V7NSK9tMJ null N Mamoulis, D Papadias null null
+DSF-ukHbE64J null J Claussen, A Kemper, D Kossmann, C Wiesner null null matched with journals/vldb/ClaussenKKW00 null J Claußen, A Kemper, D Kossmann, C Wiesner null null
+conf/vldb/BrownS95 null P Brown, M Stonebraker null null matched with F-v-VG2RBQoJ null P Brown, M Stonebraker null null
+conf/vldb/EicklerGK95 null A Eickler, C Gerlhof, D Kossmann null null matched with 63QhLG57QssJ null A Eickler, CA Gerlhof null null
+conf/vldb/JagadishLS99 null H Jagadish, L Lakshmanan, D Srivastava null null matched with 5d1R2mD-7MkJ null HV Jagadish, LVS Lakshmanan, D Srivastava null null
+conf/sigmod/AcharyaGP00 null S Acharya, P Gibbons, V Poosala null null matched with WGWZ2cNZW2YJ null S Acharya, PB Gibbons, V Poosala null null
+conf/sigmod/ZhaoDN97 null Y Zhao, P Deshpande, J Naughton null null matched with YwLoGdTgG-sJ null Y Zhao, PM Deshpande, JF Naughton null null
+journals/vldb/ChidlovskiiB00 null B Chidlovskii, U Borghoff null null matched with ysC3V2Lu3M8J null B Chidlovskii, UM Borghoff null null
+conf/vldb/SchmidtWKCMB02 null A Schmidt, F Waas, M Kersten, M Carey, I Manolescu, R Busse null null matched with CvGGYMrKR2sJ null A Schmidt, F Waas, ML Kersten, MJ Carey, I   null null
+conf/vldb/SeshadriLR97 null P Seshadri, M Livny, R Ramakrishnan null null matched with kIzNmOrszKoJ null P Seshadri, M Livny, R Ramakrishnan null null
+conf/vldb/BouganimNPW03 null L Bouganim, F Ngoc, P Pucheral, L Wu null null matched with 5oXuo8dJ6qAJ null L Bouganim, FD Ngoc, P Pucheral, L Wu null null
+conf/vldb/HoelS95 null E Hoel, H Samet null null matched with hwBMsP8-fXcJ null EG Hoel, H Samet null null
+conf/vldb/Ganguly98 null S Ganguly null null matched with a8cB2S6Td-sJ null S Ganguly null null
+conf/sigmod/RundensteinerWYD02 null E Rundensteiner, M Ward, J Yang, P Doshi null null matched with 7MfXAAdBQ2EJ null EA Rundensteiner, MO Ward, J Yang, PR Doshi null null
+conf/vldb/WiesnerK01 null A Kemper, C Wiesner null null matched with UrDwK2S7QVwJ null A Kemper, C Wiesner null null
+conf/vldb/JensenL01 null C Jensen, D Lomet null null matched with yUDkYbmDTXIJ null CS Jensen, DB Lomet null null
+conf/sigmod/Tajima96 null K Tajima null null matched with IZSzLlgi8tUJ null K Tajima null null
+conf/sigmod/NgLHM99 null R Ng, L Lakshmanan, J Han, T Mah null null matched with YemauUgIzlcJ null R Ng, LVS Lakshmanan, J Han, T Mah null null
+journals/sigmod/Bernstein98 null P Bernstein null null matched with AYEI8XDoY9wJ null PA Bernstein null null
+journals/sigmod/Snodgrass94 null R Snodgrass null null matched with SYVDufoTe_IJ null RT Snodgrass null null
+journals/sigmod/SnodgrassAABCDEGJKKKLLRSSS94 null R Snodgrass, I Ahn, G Ariav, D Batory, J Clifford, C Dyreson, R Elmasri, F Grandi, C Jensen, W Käfer, N Kline, K Kulkarni, T Leung, N Lorentzos, J Roddick, A Segev, M Soo, S Sripada null null matched with 64iWa-ZiPRcJ null RT Snodgrass null null
+conf/vldb/SenkulKT02 null P Senkul, M Kifer, I Toroslu null null matched with g7HDbO4GCN4J null P Senkul, M Kifer, IH Toroslu null null
+conf/vldb/TreschPL95 null M Tresch, N Palmer, A Luniewski null null matched with 1rPUqMFsS3AJ null M Tresch, N Palmer, A Luniewski null null
+journals/vldb/PottingerH01 null R Pottinger, A Halevy null null matched with Kv3ZFRUKCogJ null R Pottinger, A Halevy null null
+journals/sigmod/GrayG97 null J Gray, G Graefe null null matched with fFCqy9V5XNgJ null J Gray, G Graefe null null
+conf/vldb/ArgePRSV98 null L Arge, O Procopiuc, S Ramaswamy, T Suel, J Vitter null null matched with H-AQePr2evUJ null L Arge, O Procopiuc null null
+journals/sigmod/Qian96b null X Qian null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D245909%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null X Qian null null
+conf/vldb/Garcia-MolinaLY98 null H Garcia-Molina, W Labio, J Yang null null matched with lWVWAhlsyYYJ null H Garcia-Molina, W Labio, J Yang null null
+conf/vldb/BouguettayaEMO01 null A Bouguettaya, A Elmagarmid, B Medjahed, M Ouzzani null null matched with n-tA57d7ydcJ null A Bouguettaya, AK Elmagarmid, B Medjahed, M   null null
+journals/sigmod/Gaffney96 null J Gaffney null null matched with uaT2hY6421UJ null J Gaffney null null
+journals/sigmod/RamamrithamSSTX96 null K Ramamritham, R Sivasankaran, J Stankovic, D Towsley, M Xiong null null matched with kezAM71rts0J null K Ramamritham, R Sivasankaran, JA Stankovic, DT   null null
+conf/vldb/Sarawagi00 null S Sarawagi null null matched with z5DmAoBjsjAJ null S Sarawagi null null
+conf/vldb/HuangJR97 null Y Huang, N Jing, E Rundensteiner null null matched with nBHS2BTx-GkJ null YW Huang, N Jing, EA Rundensteiner null null
+conf/vldb/NatsevCSLV01 null A Natsev, Y Chang, J Smith, C Li, J Vitter null null matched with 2CYtbbiwv-AJ null A Natsev, YC Chang, JR Smith, CS Li, JS Vitter null null
+conf/sigmod/KrollW94 null B Kröll, P Widmayer null null matched with zd_8s13rNRoJ null B Kroell, P Widmayer null null
+conf/vldb/LakshmiZ98 null M Lakshmi, S Zhou null null matched with QmXB6EKu-pYJ null S Lakshmi, S Zhou null null
+conf/vldb/OzsuLON01 null S Lin, M Özsu, V Oria, R Ng null null matched with qqdXmdgAaMgJ null S Lin, V Oria, R Ng null null
+conf/vldb/CarneyCZRCS03 null D Carney, U Çetintemel, A Rasin, S Zdonik, M Cherniack, M Stonebraker null null matched with JubkWSUFbbcJ null D Carney, U Cetintemel, A Rasin, S Zdonik, M   null null
+conf/vldb/BertinoBFS96 null E Bertino, C Bettini, E Ferrari, P Samarati null null matched with s0v9B-K8owEJ null E Bertino, C Bettini, E Ferrari, P Samarati null null
+conf/vldb/ArunJ98 null G Arun, A Joshi null null matched with 1dqeMksCm74J null G Arun, A Joshi null null
+journals/sigmod/DogacAOD95 null A Dogac, M Altinel, C Ozkan, I Durusoy null null matched with oUOuTMrB0esJ null A Dogac, M Altinel, C Ozkan, I Durusoy null null
+conf/vldb/LernerS03 null A Lerner, D Shasha null null matched with KtkbM7ohXrEJ null A Lerner, D Shasha null null
+conf/vldb/CareyKSSS00 null M Carey, J Kiernan, J Shanmugasundaram, E Shekita, S Subramanian null null matched with fRo4fx_Q6gIJ null MJ Carey, J Kiernan, J Shanmugasundaram, EJ   null null
+conf/vldb/GinisHKMT97 null E Hughes, R Ginis, B Thuraisingham, P Krupp, J Maurer null null matched with GBVvAWWCTcgJ null E Hughes, R Ginis, B Thuraisingham, P Krupp, J   null null
+conf/vldb/Chawathe99 null S Chawathe null null matched with 1-mxxSvIMB8J null SS Chawathe null null
+conf/vldb/JosifovskiR99 null V Josifovski, T Risch null null matched with rR9r4Kuzq-4J null V Josifovski, T Risch null null
+conf/vldb/ChristodoulakisTZ97 null S Christodoulakis, P Triantafillou, F Zioga null null matched with lojHMj5xWEwJ null S Christodoulakis, P Triantafillou, F Zioga null null
+journals/sigmod/RosenthalSMBTL95 null A Rosenthal, L Seligman, C McCollum, B Blaustein, B Thuraisingham, E Lafferty null null matched with -_FyboGgZkkJ null A Rosenthal, L Seligman, C McCollum, B Blaustein,   null null
+conf/vldb/RiedelGF98 null E Riedel, G Gibson, C Faloutsos null null matched with f2N_DxLirWIJ null E Riedel, G Gibson, C Faloutsos null null
+conf/vldb/MartinC94 null B Martin, R Cattell null null matched with Ur6-XAMj3tIJ null BE Martin, RGG Cattell null null
+conf/vldb/DiaoF03 null Y Diao, M Franklin null null matched with Crt1JZ1eEj0J null Y Diao, M Franklin null null
+conf/vldb/AgarwalADGNRS96 null S Agarwal, R Agrawal, P Deshpande, A Gupta, J Naughton, R Ramakrishnan, S Sarawagi null null matched with E4fU9kpfXQsJ null S Agarwal, R Agrawal, P Deshpande, A Gupta, JF   null null
+journals/vldb/FerrariAABC02 null E Ferrari, N Adam, V Atluri, E Bertino, U Capuozzo null null matched with 74D4YiDcxfcJ null E Ferrari, NR Adam, V Atluri, E Bertino, U   null null
+conf/vldb/MengLYWCR98 null W Meng, K Liu, C Yu, X Wang, Y Chang, N Rishe null null matched with EcpPzbn2EaIJ null W Meng, KL Liu, CT Yu, X Wang, Y Chang, N Rishe null null
+conf/vldb/HammelP02 null L Hammel, J Patel null null matched with SU2XS1MVb40J null L Hammel, JM Patel null null
+conf/sigmod/ForlizziGNS00 null L Forlizzi, R Güting, E Nardelli, M Schneider null null matched with jW1JUC-AQXoJ null L Forlizzi, RH Guting, E Nardelli, M Schneider null null
+journals/sigmod/Lomet98 null D Lomet null null matched with xLM0YVcccUgJ null D Lomet null null
+conf/sigmod/DuSD95 null W Du, M Shan, U Dayal null null matched with Vl7gY6FsOOYJ null W Du, U Dayal null null
+conf/vldb/SchaeferBBJ00 null E Schaefer, J Becker, A Boehmer, M Jarke null null matched with url:http://portal.acm.org/citation.cfm%3Fid%3D645926.671845 null E Schaefer, JD Becker, A Boehmer, M Jarke null null
+conf/sigmod/ShahC01 null M Shah, S Chandrasekaran null null matched with 2wGOv6yh4yIJ null MA Shah, S Chandrasekaran null null
+conf/vldb/WienerN95 null J Wiener, J Naughton null null matched with Y1lEnVPl6d8J null JL Wiener, JF Naughton null null
+conf/sigmod/ChenJDTW00 null J Chen, D DeWitt, F Tian, Y Wang null null matched with fg5EE6R7xYwJ null J Chen, DJ DeWitt, F Tian, Y Wang null null
+conf/sigmod/GangulyGMS96 null S Ganguly, P Gibbons, Y Matias, A Silberschatz null null matched with 05ZgvGyhSC0J null S Ganguly, PB Gibbons, Y Matias, A Silberschatz null null
+conf/vldb/JagadishMN99 null H Jagadish, J Madar, R Ng null null matched with RPWDtUmq6_QJ null HV Jagadish, J Madar, RT Ng null null
+conf/sigmod/TrisoliniLN99 null S Trisolini, M Lenzerini, D Nardi null null matched with cFMtMf7bLzIJ null S Trisolini null null
+journals/sigmod/Snodgrass02b null R Snodgrass null null matched with KENWBobILMwJ null RT Snodgrass null null
+conf/vldb/ChanFFGR02 null C Chan, W Fan, P Felber, M Garofalakis, R Rastogi null null matched with ZFI7XBuonJAJ null CY Chan, W Fan, P Felber, MN Garofalakis, R   null null
+conf/vldb/Schek00 null H Schek null null matched with yMjJam38N8sJ null HJ Schek null null
+journals/sigmod/Aberer02 null K Aberer null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D604274%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null K Aberer null null
+journals/sigmod/Aberer02a null K Aberer null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D604274%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null K Aberer null null
+journals/sigmod/Aberer02b null K Aberer null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D604274%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null K Aberer null null
+journals/sigmod/Aberer02c null K Aberer null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D604274%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null K Aberer null null
+journals/sigmod/NorrieBSW94 null M Norrie, S Blott, H Schek, G Weikum null null matched with q6YVJJgD1uQJ null MC Norrie, S Blott, HJ Schek, G Weikum null null
+conf/sigmod/ShanmugasundaramNSR99 null J Shanmugasundaram, A Nithrakashyap, R Sivasankaran, K Ramamritham null null matched with eQjFv7QxsQQJ null J Shanmugasundaram, A Nithrakashyap, R   null null
+journals/sigmod/Ahlberg96 null C Ahlberg null null matched with 4bBje8qkHVgJ null C Ahlberg null null
+conf/vldb/OoiGT98 null B Ooi, C Goh, K Tan null null matched with LJdSx1Di81MJ null BC Ooi, CH Goh, KL Tan null null
+journals/sigmod/Qian96 null X Qian null null matched with NiswbODuzhAJ null X Qian null null
+conf/sigmod/Freeston95 null M Freeston null null matched with Fr8CPbK-IFIJ null M Freeston null null
+conf/vldb/BaralisW94 null E Baralis, J Widom null null matched with q-td2YANr18J null E Baralis, J Widom null null
+journals/sigmod/JainH94 null R Jain, A Hampapur null null matched with iQMUP3fkvo4J null R Jain, A Hampapur null null
+conf/sigmod/LeeKOTM00 null M Lee, M Kitsuregawa, B Ooi, K Tan, A Mondal null null matched with C8RLbWKCgicJ null ML Lee, M Kitsuregawa, BC Ooi, KL Tan, A Mondal null null
+conf/vldb/Fecteau95 null G Fecteau null null matched with LhjvKpDcJKUJ null G Fecteau null null
+conf/sigmod/KotidisR98 null Y Kotidis, N Roussopoulos null null matched with CpHJwU8o-BkJ null Y Kotidis, N Roussopoulos null null
+journals/vldb/BraumandlKKKKSS01 null R Braumandl, M Keidl, A Kemper, D Kossmann, A Kreutz, S Seltzsam, K Stocker null null matched with dURGvGhlWbsJ null R Braumandl, M Keidl, A Kemper, D Kossmann, A   null null
+conf/vldb/Schnase00 null J Schnase null null matched with OdaRU442nm0J null JL Schnase null null
+journals/sigmod/UrbanDG96 null S Urban, S Dietrich, F Golshani null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D381892%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null SD Urban, SW Dietrich, F Golshani null null
+conf/vldb/Mohan96 null N Mohan null null matched with wYwNJy4GsEYJ null N Mohan null null
+conf/vldb/Gentili01 null M Gentili null null matched with 2j1dalv3kCEJ null M Gentili null null
+conf/vldb/Galindo-LegariaPK94 null C Galindo-Legaria, A Pellenkoft, M Kersten null null matched with 47fE4F2kahEJ null C Galindo-Legaria, A Pellenkoft, ML Kersten null null
+conf/vldb/AgrawalS94 null R Agrawal, R Srikant null null matched with P0age7qyZacJ null R Agrawal, R Srikant null null
+journals/sigmod/FrewD97 null J Frew, J Dozier null null matched with 5jMT1PENhSIJ null J Frew, J Dozier null null
+conf/sigmod/LabioWGG00 null W Labio, J Wiener, H Garcia-Molina, V Gorelik null null matched with EhR3fz7f7vcJ null W Labio, JL Wiener, H Garcia-Molina, V Gorelik null null
+conf/vldb/CochranePM96 null R Cochrane, H Pirahesh, N Mattos null null matched with NRLEnDsPlOkJ null R Cochrane, H Pirahesh, NM Mattos null null
+journals/sigmod/SantucciT96 null G Santucci, L Tarantino null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D245898%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null G Santucci, L Tarantino null null
+conf/vldb/ManolopoulosT01 null A Nanopoulos, Y Theodoridis, Y Manolopoulos null null matched with hr5OGCJqc2MJ null A Nanopoulos, Y Theodoridis, Y Manolopoulos null null
+journals/sigmod/Cardelli01 null L Cardelli null null matched with UYAoi4DYOXUJ null L Cardelli null null
+conf/vldb/LimWPVP02 null L Lim, M Wang, S Padmanabhan, J Vitter, R Parr null null matched with 9kl_hTyQtmQJ null L Lim, M Wang, S Padmanabhan, JS Vitter, R Parr null null
+journals/sigmod/EisenbergM98 null A Eisenberg, J Melton null null matched with -RAYAJbKLNUJ null A Eisenberg, J Melton null null
+conf/vldb/BerckenS01 null J Bercken, B Seeger null null matched with BJ8i-uzFQi4J null J Van den Bercken, B Seeger null null
+conf/vldb/BaulierBKS98 null J Baulier, S Blott, H Korth, A Silberschatz null null matched with dNK16sHm9eUJ null J Baulier, S Blott, HF Korth, A Silberschatz null null
+conf/vldb/RossS97 null K Ross, D Srivastava null null matched with -rTWS2erFQcJ null KA Ross, D Srivastava null null
+conf/vldb/ChienVZTZ02 null S Chien, Z Vagena, D Zhang, V Tsotras, C Zaniolo null null matched with uUmeAkW_FFUJ null SY Chien, Z Vagena, D Zhang, VJ Tsotras, C Zaniolo null null
+conf/vldb/Guting94 null R Güting null null matched with 584tvD8f6AAJ null RH Gueting null null
+conf/vldb/ChenJLP03 null Z Chen, H Jagadish, L Lakshmanan, S Paparizos null null matched with BGcx_nZKM4wJ null Z Chen, HV Jagadish, LVS Lakshmanan, S Paparizos null null
+conf/vldb/Dyreson96 null C Dyreson null null matched with AfM_N94rVD0J null C Dyreson null null
+journals/tods/FormicaGM98 null A Formica, H Gröger, M Missikoff null null matched with PtcmzsfKYrsJ null A Formica, HD Groger, M Missikoff null null
+conf/sigmod/AmbiteABKMMMPT98 null J Ambite, N Ashish, G Barish, C Knoblock, S Minton, P Modi, I Muslea, A Philpot, S Tejada null null matched with iE-UE2bDGZ8J null JL Ambite, N Ashish, G Barish, CA Knoblock, S   null null
+conf/vldb/AlonsoHST97 null G Alonso, C Hagen, H Schek, M Tresch null null matched with iRJV85kKVgwJ null G Alonso, C Hagen, HJ Schek, M Tresch null null
+conf/sigmod/NestorovAM98 null S Nestorov, S Abiteboul, R Motwani null null matched with 5icRoG_Vmc0J null S Nestorov null null
+conf/vldb/MillinerBP95 null S Milliner, A Bouguettaya, M Papazoglou null null matched with kYl-9cV8gloJ null S Milliner, A Bouguettaya, MP Papazoglou null null
+journals/sigmod/Qian95a null X Qian null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D212022%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null X Qian null null
+conf/vldb/CareyK98 null M Carey, D Kossmann null null matched with MCuFKbwcWIIJ null MJ Carey, D Kossmann null null
+conf/sigmod/HellersteinA00 null R Avnur, J Hellerstein null null matched with Gsb6dnkFBMoJ null R Avnur, JM Hellerstein null null
+conf/sigmod/AdaliSS99 null S Adali, M Sapino, V Subrahmanian null null matched with Cbwq3JSxrSAJ null S Adah, ML Sapino, VS Subrahmanian null null
+conf/vldb/Shmueli01 null O Shmueli null null matched with rEwEqoAns-gJ null O Shmueli null null
+conf/vldb/FlorescuLSY99 null D Florescu, A Levy, D Suciu, K Yagoub null null matched with aUElZKC-txIJ null D Florescu, A Levy, D Suciu, K Yagoub null null
+journals/sigmod/AlonsoCIM95 null R Alonso, Y Chang, L Iftode, V Mani null null matched with 5LlePa4wQmEJ null R Alonso, YL Chang, L Iftode null null
+conf/sigmod/MerialdoAMMP00 null P Merialdo, P Atzeni, M Magnante, G Mecca, M Pecorone null null matched with Qq0WheHyVv8J null P Merialdo, P Atzeni, M Magnante, G Mecca, M   null null
+conf/vldb/Bar-YossefBCFW00 null Z Bar-Yossef, A Berg, S Chien, J Fakcharoenphol, D Weitz null null matched with -gm97JzyHJsJ null Z Bar-Yossef, A Berg, S Chien, J Fakcharoenphol, D  null null
+conf/vldb/ChengGKLLQS99 null Q Cheng, J Gryz, F Koo, T Leung, L Liu, X Qian, K Schiefer null null matched with p4Q8x9UmngkJ null Q Cheng, J Gryz, F Koo, TYC Leung, L Liu, X Qian,   null null
+conf/vldb/KoschBBHHLRT01 null H Kosch, L Böszörményi, A Bachlechner, C Hanin, C Hofbauer, M Lang, C Riedler, R Tusch null null matched with xvNBOkc3UkcJ null H Kosch, C Hanin, C Hofbauer, M Lang, C Riedler, R  null null
+conf/vldb/ChristopheBPV00 null C Bobineau, L Bouganim, P Pucheral, P Valduriez null null matched with 8DRB_dYz2CgJ null C Bobineau, L Bouganim, P Pucheral, P Valduriez null null
+conf/vldb/MuntzR94 null A Muntz, C Ramiller null null matched with o9DfGI9zsloJ null AH Muntz, CT Ramiller null null
+conf/vldb/YanA94 null T Yan, J Annevelink null null matched with 8j5i7YJQnNAJ null TW Yan, J Annevelink null null
+conf/vldb/LevyRO96 null A Levy, A Rajaraman, J Ordille null null matched with e_vUPQi8-xIJ null AY Levy, A Rajaraman, JJ Ordilleâ?¦ null null
+journals/vldb/IoannidisNSS97 null Y Ioannidis, R Ng, K Shim, T Sellis null null matched with if5vzPT-qIAJ null YE Ioannidis, RT Ng, K Shim, TK Sellis null null
+conf/vldb/PossP03 null M Pöss, D Potapov null null matched with DYZlq4rntjwJ null M Poess, D Potapov null null
+conf/vldb/LudasaherGM00 null B Ludäscher, A Gupta, M Martone null null matched with H4hHa7dQdSAJ null B Ludascher, A Gupta, ME Martone null null
+conf/vldb/PitouraC99 null E Pitoura, P Chrysanthis null null matched with 6VU-VxcDsFsJ null E Pitoura, PK Chrysanthis null null
+conf/sigmod/GarofalakisGRSS00 null M Garofalakis, A Gionis, R Rastogi, S Seshadri, K Shim null null matched with 5uvR4kU1UOoJ null M Garofalakis, A Gionis, R Rastogi, S Seshadri, K   null null
+conf/vldb/PanRAMOHAMV02 null A Pan, J Raposo, M Álvarez, P Montoto, V Orjales, J Hidalgo, L Ardao, A Molano, Á Viña null null matched with F9Fe5NfpK6MJ null A Pan, J Raposo, M Alvarez, P Montoto, V Orjales,   null null
+conf/sigmod/FlorescuLMS99 null D Florescu, A Levy, I Manolescu, D Suciu null null matched with h0uuqAstOPUJ null D Florescu, A Levy null null
+journals/sigmod/Qian94 null X Qian null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D187462%26type%3Dpdf%26coll%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null X Qian null null
+journals/vldb/BonifatiCP01 null A Bonifati, S Ceri, S Paraboschi null null matched with FLTKBG-bw7sJ null A Bonifati, S Ceri, S Paraboschi null null
+journals/sigmod/SilberschatzZ97 null A Silberschatz, S Zdonik null null matched with 7JRwRy6VapMJ null A Silberschatz null null
+conf/vldb/MeccaCM01 null V Crescenzi, G Mecca, P Merialdo null null matched with Ph7ZpmdNOPEJ null V Crescenzi, G Mecca, P Merialdoâ?¦ null null
+journals/tods/FraternaliT95 null P Fraternali, L Tanca null null matched with 8k0tS22xvPcJ null P Fraternali, L Tanca null null
+conf/sigmod/HellersteinN96 null J Hellerstein, J Naughton null null matched with _hDCldPyum0J null JM Hellerstein, JF Naughton null null
+conf/vldb/Cluet03 null S Cluet null null matched with faRBjw1op8YJ null S Cluet null null
+journals/tods/Kuo96 null D Kuo null null matched with p--jtVlva8AJ null D Kuo null null
+conf/sigmod/Olson95 null M Olson null null matched with nJycrIdh5E4J null MA Olson null null
+conf/sigmod/VitterW99 null J Vitter, M Wang null null matched with P5oJUiow7lsJ null JS Vitter null null
+conf/vldb/PottingerB03 null R Pottinger, P Bernstein null null matched with Q6pHDaV3sG4J null RA Pottinger, PA Bernstein null null
+conf/vldb/SakuraiYUK00 null Y Sakurai, M Yoshikawa, S Uemura, H Kojima null null matched with K2xCMgImpVkJ null Y Sakurai, M Yoshikawa, S Uemura, H Kojima null null
+conf/sigmod/LeeWMS01 null S Lee, K Whang, Y Moon, I Song null null matched with OFXL5KsJiWcJ null SH Lee, KY Whang, YS Moon, IY Song null null
+conf/vldb/Pogue98 null A Pogue null null matched with bYLjqg3pPNgJ null A Pogue null null
+conf/sigmod/KeoghCMP01 null E Keogh, K Chakrabarti, S Mehrotra, M Pazzani null null matched with QTzuiNlMnR4J null E Keogh, K Chakrabarti, S Mehrotra, M Pazzani null null
+conf/sigmod/WynblattN01 null J Navas, M Wynblatt null null matched with PVUtZWBcxlAJ null JC Navas, M Wynblatt null null
+conf/vldb/Banerjee00 null S Banerjee null null matched with owfPKT5ip68J null S Banerjee null null
+journals/vldb/RahmB01 null E Rahm, P Bernstein null null matched with OmmFvfvPT6MJ null E Rahm, PA Bernstein null null
+journals/sigmod/AndlerHEMBE96 null S Andler, J Hansson, J Eriksson, J Mellin, M Berndtsson, B Eftring null null matched with oNYOKYvjoKgJ null S Andler, J Hansson, J Eriksson, J Mellin, M   null null
+conf/vldb/Taylor00 null R Taylor null null matched with Af_4cNCu3MwJ null R Taylor null null
+journals/sigmod/BurtonM98 null B Burton, V Marek null null matched with LOXd8JPfhpwJ null BF Burton, VW Marek null null
+conf/vldb/SeifertS02 null A Seifert, M Scholl null null matched with 1VEHUogTMZMJ null A Seifert, MH Scholl null null
+conf/vldb/KoudasMJ99 null H Jagadish, N Koudas, S Muthukrishnan null null matched with dRemTC899xcJ null HV Jagadish, N Koudas, S Muthukrishnan null null
+conf/sigmod/TomasicABKNR97 null A Tomasic, R Amouroux, P Bonnet, O Kapitskaia, H Naacke, L Raschid null null matched with 6CpWnsUqJNIJ null A Tomasic, R Amouroux, P Bonnet, O Kapitskaia, H   null null
+conf/vldb/AgrawalSX01 null R Agrawal, A Somani, Y Xu null null matched with bpWvAVOZLbwJ null R Agrawal, A Somani, Y Xu null null
+conf/sigmod/LabioZWGGW97 null W Labio, Y Zhuge, J Wiener, H Gupta, H Garcia-Molina, J Widom null null matched with uzpyy9XRpgYJ null WJ Labio, Y Zhuge, JL Wiener, H Gupta, H Garcia-  null null
+conf/vldb/ShaferAM96 null J Shafer, R Agrawal, M Mehta null null matched with 5HHRNLsy0sAJ null J Shafer, R Agrawal, M Mehta null null
+journals/sigmod/Suciu01 null D Suciu null null matched with _vOvQUzSV-gJ null D Suciu null null
+conf/vldb/GohOST99 null C Goh, B Ooi, D Sim, K Tan null null matched with hK5EOo-Z7JMJ null CH Goh, BC Ooi, D Sim, KL Tan null null
+journals/sigmod/HalkidiBV02 null M Halkidi, Y Batistakis, M Vazirgiannis null null matched with GHjgDrEbqM4J null M Halkidi, Y Batistakis, M Vazirgiannis null null
+conf/vldb/Johnson99 null T Johnson null null matched with B3PwhNu8Y6IJ null T Johnson null null
+conf/sigmod/JarkeQBLMS99 null M Jarke, C Quix, G Blees, D Lehmann, G Michalk, S Striel null null matched with nSKzTBqurCwJ null M Jarke, C Quix, G Blees, D Lehmann, G Michalk null null
+conf/vldb/PfoserJT00 null D Pfoser, C Jensen, Y Theodoridis null null matched with 0IeLWfNYZEYJ null D Pfoser, CS Jensen, Y Theodoridis null null
+conf/vldb/HaasKWY97 null L Haas, D Kossmann, E Wimmers, J Yang null null matched with U09WdB3GIK4J null LM Haas, D Kossmann, EL Wimmers, J Yang null null
+conf/sigmod/GibbsBT94 null S Gibbs, C Breiteneder, D Tsichritzis null null matched with iS9rQqelSjMJ null S Gibbs, C Breiteneder, D Tsichritzis null null
+conf/sigmod/Cohen98a null W Cohen null null matched with qfD_kxYt-dsJ null WW Cohen null null
+conf/vldb/RamanH01 null V Raman, J Hellerstein null null matched with 8PPmw6A0XfkJ null V Raman, JM Hellerstein null null
+conf/vldb/LongS03 null X Long, T Suel null null matched with zU4MULiFRrYJ null X Long, T Suel null null
+conf/vldb/Cuppens96 null F Cuppens null null matched with 8_HtXom0CVgJ null F Cuppens null null
+conf/sigmod/LiS98 null B Li, D Shasha null null matched with Vxg-4KP7FfEJ null B Li null null
+conf/vldb/YangG01 null B Yang, H Garcia-Molina null null matched with xQYKEHCggZQJ null B Yang, H Garcia-Molina null null
+journals/sigmod/MeltonE01 null J Melton, A Eisenberg null null matched with 619anaISuGEJ null J Melton null null
+conf/vldb/AmbiteKKMST01 null J Ambite, C Knoblock, M Kolahdouzan, M Muslea, C Shahabi, S Thakkar null null matched with 9bzGIloFctIJ null JL Ambite, CA Knoblock, MR Kolahdouzan, M Muslea,   null null
+journals/vldb/EyalM01 null A Eyal, T Milo null null matched with ntrSSBumclMJ null A Eyal, T Milo null null
+conf/vldb/Sterling98 null W Sterling null null matched with LlP2Fn3bzUMJ null W Sterling null null
+conf/sigmod/Lomet00 null D Lomet null null matched with FiPJDs_jm54J null DB Lomet null null
+conf/vldb/Atal96 null S Atal null null matched with PaW8zjiNR9cJ null S Atal null null
+conf/vldb/WuFSP00 null L Wu, C Faloutsos, K Sycara, T Payne null null matched with XojbAfbtdvcJ null L Wu, C Faloutsos, KP Sycara, TR Payne null null
+conf/vldb/CareyCNVDRSM99 null M Carey, D Chamberlin, S Narayanan, B Vance, D Doole, S Rielau, R Swagerman, N Mattos null null matched with JpMllVmmnkAJ null MJ Carey, DD Chamberlin, S Narayanan, B Vance, D   null null
+journals/sigmod/Neven02 null F Neven null null matched with xAXF0HSF4h8J null F Neven null null
+conf/vldb/GilbertKMS01 null A Gilbert, Y Kotidis, S Muthukrishnan, M Strauss null null matched with 9rDLhwM_4mYJ null AC Gilbert, Y Kotidis, S Muthukrishnan, M Strauss null null
+conf/sigmod/GingrasLSPS97 null F Gingras, L Lakshmanan, I Subramanian, D Papoulis, N Shiri null null matched with hlbdfqaXdkAJ null F Gingras, LVS Lakshmanan, IN Subramanian, D   null null
+conf/vldb/KemmeA00 null B Kemme, G Alonso null null matched with -McZOyw__qQJ null B Kemme, G Alonso null null
+conf/sigmod/CrescenziMM02 null V Crescenzi, G Mecca, P Merialdo null null matched with pI0WktymowwJ null V Crescenzi null null
+journals/sigmod/GriffinK98 null T Griffin, B Kumar null null matched with Qvl2bcDAyqEJ null T Griffin, B Kumar null null
+conf/sigmod/AchyutuniON96 null K Achyutuni, E Omiecinski, S Navathe null null matched with eRSkDzxP1JcJ null KJ Achyutuni, E Omiecinski, SB Navathe null null
+journals/sigmod/Wade96 null A Wade null null matched with AYtrcxExrbkJ null AE Wade null null
+conf/sigmod/SzalayGTKMRSv02 null A Szalay, J Gray, A Thakar, P Kunszt, T Malik, J Raddick, C Stoughton, J vandenBerg null null matched with 1tKWKmyczaYJ null AS Szalay, J Gray, A Thakar, PZ Kunszt, T Malik, J  null null
+conf/vldb/SeshadriLR96 null P Seshadri, M Livny, R Ramakrishnan null null matched with -Pmsximl_moJ null P Seshadri, M Livny, R Ramakrishnan null null
+journals/sigmod/Grohe02 null M Grohe null null matched with jzwiskpRLOUJ null M Grohe null null
+conf/vldb/AmsalegFG95 null L Amsaleg, M Franklin, O Gruber null null matched with -9bXTTM_M4cJ null L Amsaleg, M Franklin null null
+conf/sigmod/BohannonMR01 null P Bohannon, P McIlroy, R Rastogi null null matched with ChD3-mp23f8J null P Bohannon, R Rastogi null null
+conf/vldb/HaberIL95 null E Haber, Y Ioannidis, M Livny null null matched with UM1ZozyrJnIJ null EM Haber, YE Ioannidis, M Livny null null
+conf/vldb/Lesk94 null M Lesk null null matched with nL5wl20jB-kJ null M Lesk null null
+conf/vldb/GoyalHSS95 null B Goyal, J Haritsa, S Seshadri, V Srinivasan null null matched with 2sGH4SLcdL4J null B Goyal, JR Haritsa, S Seshadri, V Srinivasan null null
+journals/tods/ChakrabartiKMP02 null K Chakrabarti, E Keogh, S Mehrotra, M Pazzani null null matched with eHY42LnL_lsJ null K Chakrabarti, E Keogh, S Mehrotra, M Pazzani null null
+conf/vldb/LingLL00 null S Lee, T Ling, H Li null null matched with yKnPPSNrDb0J null SY Lee, TW Ling, HG Li null null
+conf/vldb/SistlaYLL95 null A Sistla, C Yu, C Liu, K Liu null null matched with HtTNmhCJY-oJ null AP Sistla, C Yu, C Liu, K Liu null null
+conf/sigmod/ChaudhuriDY95 null S Chaudhuri, U Dayal, T Yan null null matched with aaQEdfkjWN8J null S Chaudhuri, U Dayal, TW Yan null null
+conf/vldb/ShahabiFKF00 null C Shahabi, A Faisal, F Kashani, J Faruque null null matched with ln1yHhG7gdgJ null C Shahabi, A Faisal, FB Kashani, J Faruque null null
+conf/vldb/GravanoG97 null L Gravano, H Garcia-Molina null null matched with CduLyvAaxVsJ null L Gravano, H Garcia-Molina null null
+conf/vldb/HaasNSS95 null P Haas, J Naughton, S Seshadri, L Stokes null null matched with x70Y3qaTL40J null PJ Haas, JF Naughton, S Seshadri, L Stokes null null
+journals/vldb/BernsteinPS00 null P Bernstein, S Pal, D Shutt null null matched with 08d5th2jiqcJ null PA Bernstein, S Pal, D Shutt null null
+journals/vldb/ChuaCL03 null C Cecil, R Chiang, E Lim null null matched with MY0lTfhxnr4J null CEH Chua, RHL Chiang, EP Lim null null
+journals/sigmod/YaoG02 null Y Yao, J Gehrke null null matched with ARLe7W8EvDoJ null Y Yao, J Gehrke null null
+conf/sigmod/IoannidisL94 null Y Ioannidis, Y Lashkari null null matched with dDHNsS9sisEJ null YE Ioannidis null null
+conf/vldb/ChenDZ03 null Y Chen, S Davidson, C Hara, Y Zheng null null matched with cCpHMzAXRnsJ null Y Chen, S Davidson, C Hara, Y Zheng null null
+conf/vldb/CotterB00 null G Cotter, B Bauldock null null matched with SJ6PiY04ebMJ null GA Cotter, BT Bauldock null null
+journals/vldb/LaurentLSV01 null D Laurent, J Lechtenbörger, N Spyratos, G Vossen null null matched with TTIgIh9uC_YJ null D Laurent, J LechtenbÃ¶rger, N Spyratos, G Vossen null null
+conf/vldb/GhoshPSH02 null A Ghosh, J Parikh, V Sengar, J Haritsa null null matched with 2dlOojuSNeIJ null A Ghosh, J Parikh, VS Sengar, JR Haritsa null null
+conf/sigmod/BeyerR99 null K Beyer, R Ramakrishnan null null matched with 6Cdfxiuibd0J null K Beyer, R Ramakrishnan null null
+journals/sigmod/MattosD94 null N Mattos, L DeMichiel null null matched with HhUCea7De6YJ null N Mattos, LG DeMichiel null null
+conf/sigmod/GehrkeKS01 null J Gehrke, F Korn, D Srivastava null null matched with f6JFkfhawW8J null J Gehrke, F Korn, D Srivastava null null
+journals/sigmod/KaradimitriouT97 null K Karadimitriou, J Tyler null null matched with SrCBkHnIFL8J null K Karadimitriou, JM Tyler null null
+conf/vldb/LiC94 null W Li, C Clifton null null matched with O0rvK0GFmBEJ null WS Li, C Clifton null null
+conf/vldb/GoldmanSVG98 null R Goldman, N Shivakumar, S Venkatasubramanian, H Garcia-Molina null null matched with pweOUtA2iTAJ null R Goldman, N Shivakumar, S Venkatasubramanian, H   null null
+journals/sigmod/Chaudhri95 null A Chaudhri null null matched with DY6x1fDAy9EJ null AB Chaudhri null null
+conf/vldb/JarkeKL00 null M Jarke, T List, J Köller null null matched with 6c3XQZ-_HDUJ null M Jarke, T List, J KÃ¶ller null null
+conf/vldb/DingGS00 null J Ding, L Gravano, N Shivakumar null null matched with I5fV3jpcrmAJ null J Ding, L Gravano, N Shivakumar null null
+conf/vldb/SindoniTABFGMPPT01 null G Sindoni, L Tininini, A Ambrosetti, C Bedeschi, S Francisci, O Gargano, R Molinaro, M Paolucci, P Patteri, P Ticca null null matched with 0zdXnl9cQysJ null G Sindoni, P Ticca, L Tininini, A Ambrosetti, C   null null
+conf/vldb/SheikholeslamiCZ98 null G Sheikholeslami, S Chatterjee, A Zhang null null matched with btydMRJMBqoJ null G Sheikholeslami, S Chatterjee, A Zhang null null
+conf/vldb/GaoS03 null D Gao, R Snodgrass null null matched with BEpwgIQR6r4J null D Gao, RT Snodgrass null null
+conf/vldb/GilbertKMS02 null A Gilbert, Y Kotidis, S Muthukrishnan, M Strauss null null matched with kxGdQhvpi_sJ null AC Gilbert, Y Kotidis, S Muthukrishnan, M Strauss null null
+conf/vldb/Chiueh94 null T Chiueh null null matched with nOF-SuSEaaEJ null T Chiueh null null
+conf/vldb/KalusD95 null C Kalus, P Dadam null null matched with r1xwwqWr2K0J null C Kalus, P Dadam null null
+conf/vldb/CooperSFHS01 null B Cooper, N Sample, M Franklin, G Hjaltason, M Shadmon null null matched with PAfEdPwJ8tgJ null B Cooper, N Sample, MJ Franklin, GR Hjaltason, M   null null
+conf/vldb/StathatosRB97 null K Stathatos, N Roussopoulos, J Baras null null matched with JH2hiRXPJcEJ null K Stathatos, N Roussopoulos, JS Baras null null
+conf/vldb/Draluk01 null V Draluk null null matched with xQzrilMR-QQJ null V Draluk null null
+conf/vldb/Mohan01 null C Mohan null null matched with tAO-l_SkmSwJ null C Mohan null null
+conf/sigmod/HjaltasonS98 null G Hjaltason, H Samet null null matched with 3mwWUz_ORNYJ null GR Hjaltason, H Samet null null
+journals/sigmod/BhargavaAP95 null B Bhargava, M Annamalai, E Pitoura null null matched with Sql66UDiVnwJ null B Bhargava, M Annamalai, E Pitoura null null
+journals/sigmod/LightstoneLZ02 null S Lightstone, G Lohman, D Zilio null null matched with 7TYVQTwq9FIJ null S Lightstone, G Lohman, D Zilio null null
+conf/vldb/LevyMS94 null A Levy, I Mumick, Y Sagiv null null matched with l-QHiSxClXcJ null AY Levy, IS Mumick, Y Sagiv null null
+conf/sigmod/GunopulosKTD00 null D Gunopulos, G Kollios, V Tsotras, C Domeniconi null null matched with ASfROcKWFmgJ null D Gunopulos, G Kollios, VJ Tsotras, C Domeniconi null null
+journals/sigmod/DadamK97 null P Dadam, W Klas null null matched with 9Ai_9dZChG4J null P Dadam, W Klas null null
+journals/sigmod/BerraNT95 null P Berra, K Nwosu, B Thuraisingham null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D202670%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null PB Berra null null
+conf/vldb/HoelS94 null E Hoel, H Samet null null matched with Id1cvsQURBAJ null EG Hoel, H Samet null null
+journals/sigmod/Kim02 null H Kim null null matched with 1PPb2Y8X7rAJ null HD Kim null null
+conf/vldb/BrodieC99 null M Brodie, S Chaudhuri null null matched with 80T8-ddj8OsJ null ML Brodie, S Chaudhuri null null
+conf/sigmod/SistlaW95 null A Sistla, O Wolfson null null matched with KO3FcQ57_rkJ null AP Sistla, O Wolfson null null
+journals/sigmod/Datta94 null A Datta null null matched with PPH2NlobSwsJ null A Datta null null
+journals/sigmod/RoantreeS02 null M Roantree, A Smeaton null null matched with xfrOR_G4_UoJ null M Roantree, AF Smeaton null null
+conf/vldb/AndreiV01 null M Andrei, P Valduriez null null matched with Ms4IJoI6-34J null M Andrei null null
+conf/vldb/KornLKF98 null F Korn, A Labrinidis, Y Kotidis, C Faloutsos null null matched with ewsBMN0qVa4J null F Korn, A Labrinidis, Y Kotidis, C Faloutsos null null
+conf/sigmod/BraumandlKK99 null R Braumandl, A Kemper, D Kossmann null null matched with 4fjXoCHhe1kJ null R Braumandl, A Kemper, D Kossmann null null
+conf/vldb/BernsteinHSSZ97 null P Bernstein, B Harry, P Sanders, D Shutt, J Zander null null matched with L2c8XblCSicJ null PA Bernstein, B Harry, P Sanders null null
+journals/tods/CaldersNW02 null T Calders, R Ng, J Wijsen null null matched with DSl0gT8EgR0J null T Calders, RT Ng, J Wijsen null null
+conf/vldb/ChakrabartiDAR97 null S Chakrabarti, B Dom, R Agrawal, P Raghavan null null matched with QyBDbs7EpmsJ null S Chakrabarti, B Dom, R Agrawal, P Raghavan null null
+conf/vldb/GuptaHQ95 null A Gupta, V Harinarayan, D Quass null null matched with VCSbj6MwKlgJ null A Gupta, V Harinarayan, D Quass null null
+journals/sigmod/HalkidiBV02a null M Halkidi, Y Batistakis, M Vazirgiannis null null matched with SFs0XOMPphIJ null M Halkidi, Y Batistakis null null
+conf/vldb/LahiriSCMC01 null T Lahiri, V Srihari, W Chan, N MacNaughton, S Chandrasekaran null null matched with MbzMAsLHlfEJ null T Lahiri, V Srihari, W Chan, N Macnaughton, S   null null
+conf/sigmod/BunemanDHS96 null P Buneman, S Davidson, G Hillebrand, D Suciu null null matched with rNVPCLfguuMJ null P Buneman, S Davidson, G Hillebrand, D Suciu null null
+conf/sigmod/ColletC95 null C Collet, T Coupaye null null matched with vP27NkXI4MEJ null C Collet, T Coupaye null null
+journals/sigmod/RiekertMW97 null W Riekert, R Mayer-Föll, G Wiest null null matched with M-3MGd3wPcsJ null WF Riekert, R Mayer-Foell, G Wiest null null
+conf/vldb/HristidisGP03 null V Hristidis, L Gravano, Y Papakonstantinou null null matched with B2rShDD99xwJ null V Hristidis null null
+conf/vldb/DiwanRSS96 null A Diwan, S Rane, S Seshadri, S Sudarshan null null matched with HjDa9on7LzoJ null AA Diwan, S Rane, S Seshadri, S Sudarshan null null
+conf/vldb/WangSG03 null T Wang, S Santini, A Gupta null null matched with T1TgIax4zVcJ null T Wang, S Santini, A Gupta null null
+journals/sigmod/AbererCH02 null K Aberer, P Cudré-Mauroux, M Hauswirth null null matched with ulDBbXl-6Q4J null K Aberer, M Hauswirth null null
+conf/vldb/MaedaT01 null Y Maeda, M Toyama null null matched with dipeGpTdsoQJ null Y Maeda, M Toyama null null
+conf/vldb/ChoenniV00 null S Choenni null null matched with R1j3CdeOlwsJ null S Choenni null null
+conf/vldb/AlsabtiRS97 null K Alsabti, S Ranka, V Singh null null matched with nqOZsUydoQkJ null K Alsabti, S Ranka, V Singh null null
+conf/vldb/CatozziR95 null J Catozzi, S Rabinovici null null matched with 8ftKLh07LM0J null J Catozzi, S Rabinovici null null
+conf/sigmod/GodfreySE98 null M Godfrey, T Mayr, P Seshadri, T Eicken null null matched with f5cqkpUXl0kJ null M Godfrey, T Mayr, P Seshadri, T Von Eicken null null
+conf/vldb/RosenthalS94 null A Rosenthal, L Seligman null null matched with NFUWsBXtCncJ null A Rosenthal, LJ Seligman null null
+conf/vldb/LeeL96 null S Lee, T Ling null null matched with tuVp_18tFv8J null SY Lee, TW Ling null null
+journals/sigmod/Lee95 null B Lee null null matched with ozmSjoqqFtwJ null BS Lee null null
+conf/sigmod/AgrawalASY97 null D Agrawal, A Abbadi, A Singh, T Yurek null null matched with 3nxl8d4c0t4J null D Agrawal, A El Abbadi, A Singh, T Yurek null null
+conf/vldb/HaasKU99 null L Haas, D Kossmann, I Ursu null null matched with jteJcGoGxnMJ null LM Haas null null
+conf/sigmod/GodfreyGXZ01 null P Godfrey, J Gryz, C Zuzarte null null matched with LNnvt5TpBhkJ null P Godfrey, J Gryz, C Zuzarte null null
+conf/sigmod/GraySEBW94 null J Gray, P Sundaresan, S Englert, K Baclawski, P Weinberger null null matched with SG9kpHg_arUJ null J Gray, P Sundaresan, S Englert null null
+journals/sigmod/KiyokiKH94 null Y Kiyoki, T Kitagawa, T Hayama null null matched with xT3mwY4t5kEJ null Y Kiyoki, T Kitagawa, T Hayama null null
+conf/vldb/DarEGP98 null S Dar, G Entin, S Geva, E Palmon null null matched with D6gxih90YU4J null S Dar, G Entin, S Geva, E Palmon null null
+conf/vldb/GarofalakisOS97 null M Garofalakis, B Özden, A Silberschatz null null matched with dW_pRNemQfsJ null MN Garofalakis null null
+journals/tods/BaralisW00 null E Baralis, J Widom null null matched with 4RrNbX-RjpsJ null E Baralis, J Widom null null
+conf/sigmod/TheobaldW02 null A Theobald, G Weikum null null matched with w5_HkketH-wJ null A Theobald, G Weikum null null
+conf/vldb/CarusoCGLM00 null F Caruso, M Cochinwala, U Ganapathy, G Lalk, P Missier null null matched with 1Xo59nOfVKoJ null F Caruso, M Cochinwala, U Ganapathy, G Lalk, P   null null
+conf/vldb/GalanisWJD03 null L Galanis, Y Wang, S Jeffery, D DeWitt null null matched with JvthmGX_uoQJ null L Galanis, Y Wang, SR Jeffery, DJ DeWitt null null
+conf/vldb/GardarinGT95 null G Gardarin, J Gruser, Z Tang null null matched with uMkO2KGQJwwJ null G Gardarin, JR Gruser, ZH Tang null null
+journals/vldb/HjaltasonS02 null G Hjaltason, H Samet null null matched with FH41DtWf_jAJ null GR Hjaltason, H Samet null null
+conf/vldb/ReuterCGSW95 null A Reuter, S Ceri, J Gray, B Salzberg, G Weikum null null matched with url:http://portal.acm.org/citation.cfm%3Fid%3D645921.673318 null A Reuter, S Ceri, J Gray, B Salzberg, G Weikum null null
+conf/vldb/BrightR02 null L Bright, L Raschid null null matched with lovlkpxUzUsJ null L Bright, L Raschid null null
+journals/sigmod/StolfoLCFE01 null S Stolfo, W Lee, P Chan, W Fan, E Eskin null null matched with lvIPWxkN4YAJ null SJ Stolfo, W Lee, PK Chan, W Fan, E Eskin null null
+conf/vldb/CareyD96 null M Carey, D DeWitt null null matched with 5xe-dQqXfI8J null MJ Carey, DJ DeWitt null null
+conf/sigmod/BaruGLMPVC99 null C Baru, A Gupta, B Ludäscher, R Marciano, Y Papakonstantinou, P Velikhov, V Chu null null matched with wTXunETZhPwJ null CK Brau, A Gupta, B LudÃ¤her, R Marciano, Y   null null
+conf/sigmod/AdelbergGW97 null B Adelberg, H Garcia-Molina, J Widom null null matched with zZo47Z-jVX4J null B Adelberg, H Garcia-Molina, J Widom null null
+conf/vldb/ChandrasekaranF02 null S Chandrasekaran, M Franklin null null matched with nqosSM46lCkJ null S Chandrasekaran, MJ Franklin null null
+journals/sigmod/RamanathanH97 null S Ramanathan, J Hodges null null matched with EID4UO0Kv04J null S Ramanathan, J Hodges null null
+conf/sigmod/Jamil99 null H Jamil null null matched with z5EfiutEfScJ null HM Jamil null null
+conf/vldb/Mohan99 null C Mohan null null matched with 4N472VSotmMJ null C Mohan null null
+conf/vldb/KumarKA97 null S Kumar, E Kwang, D Agrawal null null matched with EhTWppk6No8J null S Kumar, EK Kwang, D Agrawal null null
+conf/vldb/LeeLWS97 null J Lee, Y Lee, K Whang, I Song null null matched with 3k61gi_ld_UJ null JH Lee, YK Lee, KY Whang null null
+conf/vldb/SeidlK97 null T Seidl, H Kriegel null null matched with LZGFMX7pdCkJ null T Seidl, HP Kriegel null null
+conf/vldb/OrensteinK95 null J Orenstein, D Kamber null null matched with Trw6DEZeqTsJ null J Orenstein null null
+conf/vldb/Celis96 null P Celis null null matched with Bg5vcyRBKd8J null P Celis null null
+conf/sigmod/CatarciS94 null T Catarci, G Santucci null null matched with ga4l4QhCXU4J null T Catarci, G Santucci null null
+conf/vldb/AbiteboulAAACHHMMMMSTV99 null S Abiteboul, V Aguilera, S Ailleret, B Amann, S Cluet, B Hills, F Hubert, J Mamou, A Marian, L Mignet, T Milo, C Santos, B Tessier, A Vercoustre null null matched with zHCrzBCoweAJ null S Abiteboul null null
+conf/vldb/AtzeniMM97 null P Atzeni, G Mecca, P Merialdo null null matched with sARbiNQPPWQJ null P Atzeni, G Mecca, P Merialdo null null
+journals/vldb/ShegalovGW01 null G Shegalov, M Gillmann, G Weikum null null matched with _6ErNQyZwXsJ null G Shegalov, M Gillmann, G Weikum null null
+conf/sigmod/WangSSZZW00 null J Wang, X Wang, D Shasha, B Shapiro, K Zhang, X Zheng, Q Ma, Z Weinberg null null matched with CaplZan57x4J null JTL Wang, X Wang, D Shasha, BA Shapiro, K Zhang null null
+journals/tods/LakshmananLN03 null L Lakshmanan, C Leung, R Ng null null matched with g8e0xiRUkIwJ null LVS Lakshmanan, CKS Leung, RT Ng null null
+conf/sigmod/IvesFFLW99 null Z Ives, D Florescu, M Friedman, A Levy, D Weld null null matched with yrnhcMqsUVoJ null ZG Ives, D Florescu, M Friedman, A Levy, DS Weld null null
+conf/sigmod/MayrS99 null T Mayr, P Seshadri null null matched with 1lRZz4bZvxEJ null T Mayr, P Seshadri null null
+journals/sigmod/LaenderRST02 null A Laender, B Ribeiro-Neto, A Silva, J Teixeira null null matched with paQAZ2KXFgAJ null AHF Laender, BA Ribeiro-Neto, JS Teixeira null null
+conf/vldb/BerckenS01 null J Bercken, B Seeger null null matched with fhbW320LsusJ null J den Bercken, B Seeger null null
+conf/vldb/LabrinidisR01 null A Labrinidis, N Roussopoulos null null matched with 3Ozte0ucNJAJ null A Labrinidis, N Roussopoulos null null
+conf/vldb/MillerHH00 null R Miller, L Haas, M Hernández null null matched with Rqg_slyUMYMJ null RJ Miller, LM Haas, MA HernÃ¡ndez null null
+conf/vldb/PacittMS99 null E Pacitti, P Minet, E Simon null null matched with jJyGKE2N34gJ null E Pacitti, P Minet, E Simon null null
+conf/sigmod/Brewer98 null E Brewer null null matched with k4UNrsGeUuAJ null EA Brewer null null
+conf/sigmod/ChenCPPSTM00 null C Chen, M Cochinwala, C Petrone, M Pucci, S Samtani, P Santa, M Mesiti null null matched with Ab6MIDVDzhAJ null CM Chen, M Cochinwala, C Petrone, M Pucci, S   null null
+conf/vldb/AmirKN01 null A Amir, R Kashi, N Netanyahu null null matched with dEwdHTZZYWYJ null A Amir, R Kashi, NS Netanyahu null null
+conf/vldb/ChavdaW97 null M Chavda, P Wood null null matched with E9AsPVyCDlMJ null M Chavda, PT Wood null null
+conf/vldb/NaumannLF99 null F Naumann, U Leser, J Freytag null null matched with MEQuU1E4vdoJ null F Naumann, U Leser, JC Freytag null null
+conf/vldb/FaloutsosG96 null C Faloutsos, V Gaede null null matched with vwcVawlOJn0J null C Faloutsos, V Gaede null null
+conf/sigmod/OlstonWACELSS98 null C Olston, A Woodruff, A Aiken, M Chu, V Ercegovac, M Lin, M Spalding, M Stonebraker null null matched with UTYa5uf9zSIJ null C Olston, A Woodruff, A Aiken, M Chu, V Ercegovac,  null null
+conf/vldb/ChienTZ01 null S Chien, V Tsotras, C Zaniolo null null matched with eWCz_YJFqjcJ null SY Chien, VJ Tsotras, C Zaniolo null null
+journals/sigmod/AndersonS94 null J Anderson, M Stonebraker null null matched with aDk2IS_xwToJ null JT Anderson, M Stonebraker null null
+conf/vldb/AmmannJR95 null P Ammann, S Jajodia, I Ray null null matched with x-H7BqZ0Hw8J null P Ammann, S Jajodia, I Ray null null
+journals/vldb/SakuraiYUK02 null Y Sakurai, M Yoshikawa, S Uemura, H Kojima null null matched with 7J-RvgQd8SMJ null Y Sakurai, M Yoshikawa, S Uemura, H Kojima null null
+conf/sigmod/HinneburgK99 null A Hinneburg, D Keim null null matched with C9imFvgrSvAJ null A Hinneburg, DA Keim null null
+conf/vldb/BrownG01 null L Brown, L Gruenwald null null matched with aJoPVuDNDSsJ null L Brown null null
+conf/vldb/OlstonW00 null C Olston, J Widom null null matched with R_hYW6eIUuYJ null C Olston, J Widom null null
+conf/sigmod/BorkarDS01 null V Borkar, K Deshmukh, S Sarawagi null null matched with 8zFEVer1rBUJ null VR Borkar, K Deshmukh, S Sarawagi null null
+journals/sigmod/NormanZT96 null M Norman, T Zurek, P Thanisch null null matched with rPFgPOAANuQJ null MG Norman, T Zurek, P Thanisch null null
+journals/sigmod/Richey95 null J Richey null null matched with 2p2A5_qGf5cJ null J Richey null null
+conf/sigmod/Galindo-LegariaJ01 null C Galindo-Legaria, M Joshi null null matched with BSlaDX5r0HQJ null CA Galindo-Legaria, M Joshi null null
+conf/vldb/GutierrezPST94 null A Gutiérrez, P Pucheral, H Steffen, J Thévenin null null matched with VUU_DceCRXAJ null A Gutierrez, P Pucheral, H Steffen, JM Thevenin null null
+conf/vldb/EvangelidisLS95 null G Evangelidis, D Lomet, B Salzberg null null matched with EbGZKQPyH_4J null G Evangelidis, D Lomet, B Salzberg null null
+conf/vldb/ChienVZTZ02 null S Chien, Z Vagena, D Zhang, V Tsotras, C Zaniolo null null matched with SgUc7R0GR6QJ null SY Chein, Z Vagena, D Zhang, VJ Tsotras, C Zanilo null null
+conf/vldb/ChenCFGJMTW99 null W Chen, J Chow, Y Fuh, J Grandbois, M Jou, N Mattos, B Tran, Y Wang null null matched with Hq3W65us8dkJ null W Chen, JH Chow, YC Fuh, J Grandbois, M Jou, NM   null null
+conf/vldb/ShatdalKN94 null A Shatdal, C Kant, J Naughton null null matched with 27-P8X0mjfcJ null A Shatdal, C Kant, JF Naughton null null
+conf/vldb/PardonA00 null G Pardon, G Alonso null null matched with k7G60pXtD58J null G Pardon, G Alonso null null
+conf/vldb/Spintzik95 null H Spintzik null null matched with QcD01ZjsNcIJ null H Spintzik null null
+conf/vldb/SellisRF97 null T Sellis, N Roussopoulos, C Faloutsos null null matched with moT0ba0vRKcJ null TK Sellis, N Roussopoulos, C Faloutsos null null
+conf/vldb/SakuraiYKU01 null Y Sakurai, M Yoshikawa, R Kataoka, S Uemura null null matched with OQMYc3S0Ny8J null Y Sakurai, M Yoshikawa, R Kataoka, S Uemura null null
+conf/vldb/Mihalisin98 null T Mihalisin null null matched with FuzSLPzjrokJ null T Mihalisin null null
+conf/vldb/MogiK95 null K Mogi, M Kitsuregawa null null matched with 39DBh8H18iEJ null K Mogi, M Kitsuregawa null null
+journals/sigmod/ShahMFH01 null M Shah, S Madden, M Franklin, J Hellerstein null null matched with 7b-nJDMGtwUJ null MA Shah, JM Hellerstein null null
+conf/vldb/AdiBEY00 null A Adi, D Botzer, O Etzion, T Yatzkar-Haham null null matched with RkjggE7xhN0J null A Adi, D Botzer, O Etzion, T Yatzkar-Haham null null
+conf/sigmod/Doherty98 null C Doherty null null matched with 7aUag74jtdIJ null CG Doherty null null
+conf/vldb/LinR98 null L Lin, T Risch null null matched with 9qhYcGzQxC4J null L Lin, T Risch null null
+conf/vldb/AnanthakrishnaCG02 null R Ananthakrishna, S Chaudhuri, V Ganti null null matched with FFKP2GRm2LEJ null R Ananthakrishna, S Chaudhuri, V Ganti null null
+conf/vldb/Galindo-LegariaJWW03 null C Galindo-Legaria, M Joshi, F Waas, M Wu null null matched with 3fCNsAXb9RAJ null CA Galindo-Legaria, MM Joshi, F Waas, MC Wu null null
+conf/vldb/AksoyZF01 null D Aksoy, M Franklin, S Zdonik null null matched with A92KQRVdZaoJ null D Aksoy, MJ Franklin, S Zdonik null null
+journals/sigmod/HuangKL02 null S Huang, I Kwan, C Li null null matched with yyUMt1X2WXcJ null SM Huang, I Kwan, CH Li null null
+conf/sigmod/AgrawalCN01 null S Agrawal, S Chaudhuri, V Narasayya null null matched with 2Ua-pWTof_YJ null S Agrawal, S Chaudhuri, V Narasayya null null
+conf/vldb/RamakrishnanGRSWZ95 null R Ramakrishnan, H Garcia-Molina, G Rossbach, A Silberschatz, G Wiederhold, J Zijlstra null null matched with url:http://portal.acm.org/citation.cfm%3Fid%3D645921.756661 null R Ramakrishnan, H Garcia-Molina, G Rossbach, A   null null
+conf/sigmod/DeshpandeGR01 null A Deshpande, M Garofalakis, R Rastogi null null matched with knAoAIpo7hYJ null A Deshpande, M Garofalakis, R Rastogi null null
+conf/sigmod/GoelI96 null P Goel, B Iyer null null matched with hD6w1eBfjWcJ null P Goel, B Iyer null null
+conf/vldb/Novaretti01 null S Novaretti null null matched with tZtnFoH5lY0J null S Novaretti null null
+journals/sigmod/DoanPK95 null D Doan, N Paton, A Kilgour null null matched with c0TSepqRwwMJ null DK Doan, NW Paton, A Kilgour null null
+journals/sigmod/CiliaB02 null M Cilia, A Buchmann null null matched with Y1HVgTopekIJ null M Cilia, AP Buchmann null null
+conf/vldb/NipplM98 null C Nippl, B Mitschang null null matched with C5jVmNqIE4IJ null C Nippl, B Mitschang null null
+conf/sigmod/AboulnagaC99 null A Aboulnaga, S Chaudhuri null null matched with WWaxLMIptTMJ null A Aboulnaga, S Chaudhuri null null
+conf/vldb/Wadler01 null P Wadler null null matched with url:http://portal.acm.org/citation.cfm%3Fid%3D645927.672033 null P Wadler null null
+conf/vldb/LakshmananJN00 null T Johnson, L Lakshmanan, R Ng null null matched with 1n7AY641YyAJ null T Johnson, LVS Lakshmanan, RT Ng null null
+conf/vldb/EicklerKK97 null A Eickler, A Kemper, D Kossmann null null matched with PCFJuVxYxtwJ null A Eickler, A Kemper, D Kossmann null null
+conf/sigmod/ShenoyHSBBS00 null P Shenoy, J Haritsa, S Sudarshan, G Bhalotia, M Bawa, D Shah null null matched with SipDBj3SOb4J null P Shenoy, JR Haritsa, S Sudarshan, G Bhalotia, M   null null
+conf/sigmod/GillmannWSWW00 null M Gillmann, J Weißenfels, G Shegalov, W Wonner, G Weikum null null matched with L61_1TEGBLYJ null M Gillmann, J Weissenfels, G Shegalov, W Wonner, G  null null
+journals/sigmod/SpynsMJ02 null P Spyns, R Meersman, M Jarrar null null matched with jD6nDNmhP3AJ null P Spyns, R Meersman null null
+conf/vldb/IdrisGC94 null N Idris, W Gray, R Churchhouse null null matched with Xf7TnMxlGTkJ null NB Idris, WA Gray, RF Churchhouse null null
+journals/sigmod/TomasicS97 null A Tomasic, E Simon null null matched with -MNdDpWC-sgJ null A Tomasic, E Simon null null
+conf/sigmod/BrinDG95 null S Brin, J Davis, H Garcia-Molina null null matched with 7mNCkZ7D-R8J null S Brin, J Davis, H Garcia-Molina null null
+conf/vldb/MohanBWSZ00 null C Mohan, R Barber, S Watts, A Somani, M Zaharioudakis null null matched with zCY0pFken7wJ null C Mohan, R Barber, S Watts, A Somani, M   null null
+conf/sigmod/PalmerF00 null C Palmer, C Faloutsos null null matched with cnNLe97Pd2sJ null CR Palmer null null
+journals/sigmod/Lomet01 null D Lomet null null matched with fI5o4MfWwzIJ null D Lomet null null
+conf/vldb/CasatiDGS01 null D Grigori, F Casati, U Dayal, M Shan null null matched with bFnDGrZ_4voJ null D Grigori null null
+conf/vldb/HsuLOMTX02 null W Hsu, M Lee, B Ooi, P Mohanty, K Teo, C Xia null null matched with Px35BrWc6_EJ null W Hsu, ML Lee, BC Ooi, PK Mohanty, KL Teo, C Xia null null
+conf/sigmod/LiskovACDGGMMS96 null B Liskov, A Adya, M Castro, M Day, S Ghemawat, R Gruber, U Maheshwari, A Myers, L Shrira null null matched with Ey7Mbh6IdQIJ null B Liskov, A Adya, M Castro, S Ghemawat, R Gruber,   null null
+journals/tods/ParsonsW00 null J Parsons, Y Wand null null matched with Z5rWzHBxtEEJ null J Parsons, Y Wand null null
+journals/sigmod/SureSS02 null Y Sure, S Staab, R Studer null null matched with v0tY6g0DHMcJ null Y Sure, S Staab null null
+conf/vldb/CarinoJ98 null F Cariño, M Jahnke null null matched with LF2aUSIWko4J null F Carino, M Jahnke null null
+conf/vldb/CiacciaPZ97 null P Ciaccia, M Patella, P Zezula null null matched with cnDPbkX4F2cJ null P Ciaccia null null
+conf/vldb/StaudtJ96 null M Staudt, M Jarke null null matched with 6moFnThDHW0J null M Staudt, M Jarke null null
+conf/vldb/NathDKGKS03 null S Nath, A Deshpande, Y Ke, P Gibbons, B Karp, S Seshan null null matched with pF6EW_yKYyYJ null S Nath, A Deshpande, Y Ke, PB Gibbons, B Karp, S   null null
+conf/vldb/SarawagiBKM02 null S Sarawagi, A Bhamidipaty, A Kirpal, C Mouli null null matched with G9DGYRD0cnMJ null S Sarawagi, A Bhamidipaty, A Kirpal, C Mouli null null
+conf/vldb/Toivonen96 null H Toivonen null null matched with ut53pjEsmxEJ null H Toivonen null null
+conf/vldb/AgrawalSX02 null R Agrawal, R Srikant, Y Xu null null matched with a1CLM5GoVtYJ null R Agrawal, R Srikant, Y Xu null null
+conf/sigmod/AggarwalPWYP99 null C Aggarwal, C Procopiuc, J Wolf, P Yu, J Park null null matched with G3dX_RTA26MJ null CC Aggarwal, C Procopiuc, JL Wolf, PS Yu, JS Park null null
+conf/vldb/GrumbachRS00 null S Grumbach, P Rigaux, L Segoufin null null matched with iQ3Zi3crc9wJ null S Grumbach, P Rigaux, L Segoufin null null
+conf/vldb/Ladin00 null D Liles null null matched with kPTa4IiS_sgJ null D Liles null null
+conf/vldb/FrohnLU94 null J Frohn, G Lausen, H Uphoff null null matched with xpreqF8k7N4J null J Frohn, G Lausen, H Uphoff null null
+conf/sigmod/AnnamalaiCD00 null M Annamalai, R Chopra, S DeFazio null null matched with 0Igfv6jL3jwJ null M Annamalai, R Chopra, S DeFazio, S Mavris null null
+conf/vldb/Huyn01 null N Huyn null null matched with SbL4xw4mCewJ null N Huyn null null
+conf/vldb/BrownCC94 null E Brown, J Callan, W Croft null null matched with oayI0FKl-nQJ null EW Brown, JP Callan, WB Croft null null
+conf/sigmod/TaoP02 null Y Tao, D Papadias null null matched with fDWfHiQ6BR4J null Y Tao, D Papadias null null
+conf/sigmod/SeshadriP97 null P Seshadri, M Paskin null null matched with f9POLlECN2gJ null P Seshadri, M Paskin null null
+conf/vldb/ChaudhuriN97 null S Chaudhuri, V Narasayya null null matched with hAqEljGAcFsJ null S Chaudhuri, V Narasayya null null
+journals/vldb/CuiW03 null Y Cui, J Widom null null matched with SaOd6rDz5ZgJ null Y Cui, J Widom null null
+journals/sigmod/Fong95 null J Fong null null matched with zw3-t-veNvAJ null J Fong null null
+conf/vldb/KriegelPS00 null H Kriegel, M Pötke, T Seidl null null matched with VSQ0v1UlIvoJ null HP Kriegel, M Poetke, T Seidl null null
+journals/sigmod/Ulusoy95 null Ö Ulusoy null null matched with uMYecZGSCv4J null O Ulusoy null null
+conf/sigmod/ChawatheRGW96 null S Chawathe, A Rajaraman, H Garcia-Molina, J Widom null null matched with ilCT5UFnHxgJ null SS Chawathe, A Rajaraman, H Garcia-Molina, J Widom null null
+journals/sigmod/GatziuKBF98 null S Gatziu, A Koschel, G Bültzingsloewen, H Fritschi null null matched with YERfAnxw2RcJ null S Gatziu, A Koschel, H Fritschi null null
+conf/vldb/JohnsonA00 null S Amer-Yahia, T Johnson null null matched with EPVkQkFM2osJ null S Amer-Yahia, T Johnson null null
+conf/sigmod/ChoSG00 null J Cho, N Shivakumar, H Garcia-Molina null null matched with ilJdCU_qODkJ null J Cho, N Shivakumar, H Garcia-Molina null null
+journals/vldb/BraumandlCKK00 null R Braumandl, J Claußen, A Kemper, D Kossmann null null matched with snWxBtd7kK8J null R Braumandl, J Claussen, A Kemper, D Kossmann null null
+conf/vldb/Sullivan96 null M Sullivan null null matched with zGRQ_2im_9MJ null M Sullivan null null
+conf/vldb/HellersteinNP95 null J Hellerstein, J Naughton, A Pfeffer null null matched with AC19Z_yOCTUJ null JM Hellerstein, JF Naughton, A Pfeffer null null
+conf/vldb/Bernstein94 null P Bernstein null null matched with TqLyg1wbo5UJ null PA Bernstein null null
+conf/sigmod/BettiniWBJ95 null C Bettini, X Wang, E Bertino, S Jajodia null null matched with c57d3rgd3IcJ null C Bettini, XS Wang, E Bertino, S Jajodia null null
+conf/vldb/HelalL00 null A Helal, H Li null null matched with LPapCvY4RFkJ null A Helal, H Li null null
+conf/vldb/Kotidis01 null Y Kotidis null null matched with lRL4LmMtwnYJ null Y Kotidis null null
+conf/sigmod/DoanDH01 null A Doan, P Domingos, A Halevy null null matched with Lv0bggWzgeoJ null A Doan, P Domingos, AY Halevy null null
+conf/vldb/ScheuermannSV96 null P Scheuermann, J Shim, R Vingralek null null matched with kxebBNLKWl4J null P Scheuermann, J Shim, R Vingralek null null
+conf/sigmod/BozkayaO97 null T Bozkaya, Z Özsoyoglu null null matched with gIZvbo_lu2IJ null T Bozkaya, M Ozsoyoglu null null
+conf/vldb/BohannonLRSSS97 null R Rastogi, S Seshadri, P Bohannon, D Leinbaugh, A Silberschatz, S Sudarshan null null matched with GzK2N5eQ0pQJ null R Rastogi, S Seshadri, P Bohannon, DW Leinbaugh, A  null null
+conf/vldb/LeeHJT03 null M Lee, W Hsu, C Jensen, B Cui, K Teo null null matched with BSE2se70OMYJ null ML Lee, W Hsu, CS Jensen, B Cui, KL Teo null null
+journals/sigmod/Gallagher94 null L Gallagher null null matched with PVm9r7wHzDAJ null L Gallagher null null
+conf/vldb/FukudaMMT96 null T Fukuda, Y Morimoto, S Morishita, T Tokuyama null null matched with B8_0dK37qcsJ null T Fukuda, Y Morimoto null null
+conf/sigmod/HanKS97 null J Han, K Koperski, N Stefanovic null null matched with nD_Yjp9TNuIJ null J Han, K Koperski, N Stefanovic null null
+journals/tods/BeneventanoBS03 null D Beneventano, S Bergamaschi, C Sartori null null matched with rRH6Z1oP78cJ null D Beneventano, S Bergamaschi, C Sartori null null
+journals/vldb/ChandrasekaranF03 null S Chandrasekaran, M Franklin null null matched with b9r9U3OwrkcJ null S Chandrasekaran, MJ Franklin null null
+journals/sigmod/Bertram94 null M Bertram null null matched with qaSgL5tVq1AJ null M Bertram null null
+journals/sigmod/Jarke95 null M Jarke null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D202671%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null M Jarke null null
+conf/sigmod/LoR96 null M Lo, C Ravishankar null null matched with em5eiGpRZFkJ null ML Lo, CV Ravishankar null null
+conf/vldb/RohmBSS02 null U Röhm, K Böhm, H Schek, H Schuldt null null matched with YMcmy4FOXi8J null U Roehm, K Boehm, HJ Schek, H Schuldt null null
+conf/vldb/TanSHCR01 null L Shou, J Chionh, Z Huang, Y Ruan, K Tan null null matched with hPcNG0tPwgIJ null L Shou, J Chionh, Z Huang, Y Ruan, KL Tan null null
+conf/vldb/KounevB02 null S Kounev, A Buchmann null null matched with mq4cLaNqTDQJ null S Kounev, AP Buchmann null null
+journals/sigmod/Kosch02 null H Kosch null null matched with _avm808LQocJ null H Kosch null null
+journals/sigmod/HaritsaS96 null J Haritsa, S Seshadri null null matched with qA7JBQahK3wJ null JR Haritsa null null
+conf/vldb/RamanRH99 null V Raman, B Raman, J Hellerstein null null matched with 6uP3E_WEkCAJ null V Raman, B Raman, JM Hellerstein null null
+conf/sigmod/GrayHOS96 null J Gray, P Helland, P O'Neil, D Shasha null null matched with dRwl6kpDBjEJ null J Gray, P Helland null null
+conf/sigmod/DohertyHR96 null M Doherty, R Hull, M Rupawalla null null matched with v3IA8Go4UjIJ null M Doherty, R Hull, M Rupawalla null null
+conf/vldb/AbiteboulMRVW98 null S Abiteboul, J McHugh, M Rys, V Vassalos, J Wiener null null matched with CDQHFdIK_cwJ null S Abiteboul, J McHugh, M Rys, V Vassalos, JL   null null
+conf/vldb/StanoiRAA01 null I Stanoi, M Riedewald, D Agrawal, A Abbadi null null matched with SBpUQ0L7KUgJ null I Stanoi, M Riedewald, D Agrawal, A El Abbadi null null
+conf/vldb/AgrawalK02 null R Agrawal, J Kiernan null null matched with 4weou-KgkM8J null R Agrawal, J Kiernan null null
+conf/sigmod/Mohan99 null C Mohan null null matched with XppwYYxOpksJ null C Mohan null null
+conf/vldb/ZengBNN01 null L Zeng, B Benatallah, P Nguyen, A Ngu null null matched with 3TivNLIErRkJ null L Zeng, B Benatallah, P Nguyen, AHH Ngu null null
+journals/sigmod/LometBCLN98 null D Lomet, R Barga, S Chaudhuri, P Larson, V Narasayya null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D290608%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null D Lomet, R Barga, S Chaudhuri null null
+conf/vldb/SayalCDS02 null M Sayal, F Casati, U Dayal, M Shan null null matched with 0acvmJtaI8QJ null M Sayal, F Casati, U Dayal, MC Shan null null
+journals/tods/OliverS94 null M Olivier, S Solms null null matched with RUyqFOxZyDoJ null MS Olivier, SH Von Solms null null
+journals/sigmod/GolabO03 null L Golab, M Özsu null null matched with lC5GjK5OpD0J null L Golab null null
+conf/vldb/SrivastavaDJL96 null D Srivastava, S Dar, H Jagadish, A Levy null null matched with 01ZVDudF4WAJ null D Srivastava, S Dar, HV Jagadish, AY Levy null null
+conf/sigmod/ZhouLP99 null T Zhou, L Liu, C Pu null null matched with 0OwKmPjQpd0J null T Zhou null null
+conf/vldb/ZhangL98 null W Zhang, P Larson null null matched with ZjHAEBJYahAJ null W Zhang, PA Larson null null
+conf/vldb/WangHH00 null K Wang, Y He, J Han null null matched with qbxHq9qXVrUJ null K Wang, Y He, J Han null null
+conf/vldb/BaumannDFRW99 null P Baumann, A Dehmel, P Furtado, R Ritsch, N Widmann null null matched with OV-zNC5uzHUJ null P Baumann, A Dehmel, P Furtado, R Ritsch, N   null null
+conf/vldb/BrinkhoffK94 null T Brinkhoff, H Kriegel null null matched with egvBPvtoaMMJ null T Brinkhoff, HP Kriegel null null
+journals/vldb/ChanGR03 null C Chan, M Garofalakis, R Rastogi null null matched with 7rn7AHVs1YUJ null CY Chan, M Garofalakis, R Rastogi null null
+conf/vldb/LometT95 null D Lomet, M Tuttle null null matched with 7KawVN8Kj10J null DB Lomet, MR Tuttle null null
+conf/vldb/KumarRRT99 null R Kumar, P Raghavan, S Rajagopalan, A Tomkins null null matched with fJn_2E8aihYJ null R Kumar, P Raghavan, S Rajagopalan, A Tomkins null null
+conf/vldb/SeegerBBKSDS01 null J Bercken, B Blohsfeld, J Dittrich, J Krämer, T Schäfer, M Schneider, B Seeger null null matched with WYGjQDmRwt8J null J Van den Bercken, B Blohsfeld, JP Dittrich, J   null null
+journals/sigmod/Colliat96 null G Colliat null null matched with FP-ribG9oVsJ null G Colliat null null
+conf/sigmod/BersonGMJ94 null S Berson, S Ghandeharizadeh, R Muntz, X Ju null null matched with bw_c9Mk0_7IJ null S Berson, S Ghandeharizadeh, R Muntz, X Ju null null
+journals/sigmod/KennedyMB96 null J Kennedy, K Mitchell, P Barclay null null matched with vBYtmDEYeK0J null JB Kennedy, KJ Mitchell, PJ Barclay null null
+conf/sigmod/ChristophidesACS94 null V Christophides, S Abiteboul, S Cluet, M Scholl null null matched with dGbuUkhWNhMJ null V Christophides, S Abiteboul, S Cluet, M Scholl null null
+conf/vldb/Brin95 null S Brin null null matched with dXegp-RmzXEJ null S Brin null null
+conf/sigmod/BlohsfeldKS99 null B Blohsfeld, D Korus, B Seeger null null matched with PQbi3PaRh84J null B Blohsfeld, D Korus, B Seeger null null
+conf/vldb/Hallmark95 null G Hallmark null null matched with xTKZ6OuegIEJ null G Hallmark null null
+conf/vldb/FlescaFM03 null S Flesca, F Furfaro, E Masciari null null matched with LXjSnbxB7EsJ null S Flesca, F Furfaro, E Masciari null null
+conf/vldb/TorloneA03 null R Torlone, P Atzeni null null matched with v6kudD3ItEoJ null R Torlone, P Atzeni null null
+journals/sigmod/BabuW01 null S Babu, J Widom null null matched with KJ26gUP0PyIJ null S Babu, J Widom null null
+conf/vldb/CherniackZ98 null M Cherniack, S Zdonik null null matched with So_H9Oer6lsJ null M Cherniack, SB Zdonik null null
+journals/sigmod/FlorescuLM98 null D Florescu, A Levy, A Mendelzon null null matched with _SR_pRTnA6IJ null D Florescu, A Levy, A Mendelzon null null
+conf/vldb/KilgerM94 null C Kilger, G Moerkotte null null matched with OzgnxugGCWMJ null C Kilger, G Moerkotte null null
+conf/vldb/RamakrishnanR96 null R Ramakrishnan, D Ram null null matched with 3y1e-H-FdC0J null R Ramakrishnan, DJ Ram null null
+conf/sigmod/ChangH02 null K Chang, S Hwang null null matched with 4zxRX5K-YSsJ null KCC Chang, S Hwang null null
+journals/vldb/RafieiM02 null D Rafiei, A Mendelzon null null matched with kZFfJieudW4J null D Rafiei, AO Mendelzon null null
+conf/vldb/ChenRS95 null L Chen, D Rotem, S Seshadri null null matched with 4TMZhO1wdwsJ null LT Chen, D Rotem null null
+conf/sigmod/HsiaoN00 null H Hsiao, I Narang null null matched with iY5wlS4jsg0J null HI Hsiao, I Narang null null
+conf/vldb/ShivakumarGC98 null N Shivakumar, H Garcia-Molina, C Chekuri null null matched with GHz2PmQwW2UJ null N Shivakumar, H Garcia-Molina, C Chekuri null null
+conf/sigmod/PossSKL02 null M Pöss, B Smith, L Kollár, P Larson null null matched with c3QptREmhgAJ null M Poess, B Smith, L Kollar, P Larson null null
+conf/vldb/GarciaLL98 null Y García, M Lopez, S Leutenegger null null matched with 5MO7a6e0-GQJ null YJ Garcia, MA Lopez, ST Leutenegger null null
+conf/vldb/KnorrN98 null E Knorr, R Ng null null matched with gQVLY8V1hekJ null EM Knorr, RT Ng null null
+conf/sigmod/RiedelFGN00 null E Riedel, C Faloutsos, G Ganger, D Nagle null null matched with ospJVA6AD1sJ null E Riedel, C Faloutsos, GR Ganger, DF Nagle null null
+conf/vldb/GolabO03 null L Golab, M Özsu null null matched with 6K9FhI2pFEgJ null L Golab null null
+conf/vldb/BunemanDHOW95 null P Buneman, S Davidson, K Hart, G Overton, L Wong null null matched with 95LnCs7V35YJ null P Buneman, SB Davidson, K Hart, C Overton, L Wong null null
+conf/vldb/EsterKSWX98 null M Ester, H Kriegel, J Sander, M Wimmer, X Xu null null matched with MC7KlhmEQt8J null M Ester, HP Kriegel, J Sander, M Wimmer, X Xu null null
+conf/vldb/AbiteboulACEMM99 null S Abiteboul, B Amann, S Cluet, A Eyal, L Mignet, T Milo null null matched with OYOTbj4m7JYJ null S Abiteboul null null
+journals/sigmod/Han98 null J Han null null matched with Y0GdVVrbzfQJ null J Han null null
+journals/sigmod/PhatakSSS96 null D Phatak, N Sarda, S Seshadri, S Sudarshan null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D381897%26type%3Dpdf%26dl%3Dportal%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null DB Phatak, NL Sarda, S Seshadri, S Sudarshan null null
+conf/vldb/BalminPP00 null A Balmin, T Papadimitriou, Y Papakonstantinou null null matched with FoAVdcYe0tsJ null A Balmin, T Papadimitriou, Y Papakonstantinou null null
+conf/vldb/ShanmugasundaramGTZDN99 null J Shanmugasundaram, K Tufte, C Zhang, G He, D DeWitt, J Naughton null null matched with GIlUG9H3gUUJ null J Shanmugasundaram, K Tufte null null
+conf/sigmod/CherniackZ96 null M Cherniack, S Zdonik null null matched with ZsHfcZJwFQQJ null M Cherniack, SB Zdonik null null
+journals/sigmod/Hanna95 null M Hanna null null matched with EKqpEdn3kDMJ null MS Hanna null null
+journals/tods/EiterLLS01 null T Eiter, J Lu, T Lukasiewicz, V Subrahmanian null null matched with lTwQVB8E7SIJ null T Eiter, JJ Lu, T Lukasiewicz, VS Subrahmanian null null
+conf/vldb/CiliaHB02 null M Cilia, P Hasselmayer, A Buchmann null null matched with _aEC8CgKod0J null M Cilia, AP Buchmann null null
+conf/vldb/Selinger02 null P Selinger null null matched with 76u3c8hIWqoJ null PG Selinger null null
+journals/sigmod/Nascimento03 null M Nascimento null null matched with url:http://portal.acm.org/citation.cfm%3Fid%3D776985.776996%26dl%3Dportal%26dl%3DACM%26idx%3D776985%26part%3Dperiodical%26WantType%3Dperiodical%26title%3DACM%2520SIGMOD%2520Record%26CFID%3D11111111%26CFTOKEN%3D2222222 null MA Nascimento null null
+conf/vldb/ShegalovWBL02 null G Shegalov, G Weikum, R Barga, D Lomet null null matched with CzVyfZe-kj0J null G Shegalov, G Weikum, RS Barga, DB Lomet null null
+conf/sigmod/SimmenSM96 null D Simmen, E Shekita, T Malkemus null null matched with XVP8s4K0Bg4J null DE Simmen, EJ Shekita, T Malkemus null null
+conf/vldb/FankhauserGLMT98 null P Fankhauser, G Gardarin, M Lopez, J Muñoz, A Tomasic null null matched with JnwUAxUMwvQJ null P Fankhauser, G Gardarin null null
+journals/vldb/SuHHHLWLPLL01 null S Su, C Huang, J Hammer, Y Huang, H Li, L Wang, Y Liu, C Pluempitiwiriyawej, M Lee, H Lam null null matched with xcRKDHBIUb8J null SYW Su, C Huang, J Hammer, Y Huang, H Li, L Wang,   null null
+journals/tods/JacoxS03 null E Jacox, H Samet null null matched with ujD_9YAZctUJ null EH Jacox, H Samet null null
+conf/vldb/PappasC00 null N Pappas, S Christodoulakis null null matched with url:http://portal.acm.org/citation.cfm%3Fid%3D645926.671850 null N Pappas, S Christodoulakis null null
+conf/vldb/TanGO99 null K Tan, C Goh, B Ooi null null matched with CcTZvs8xd2sJ null KL Tan, CH Goh, BC Ooi null null
+conf/sigmod/KornackerSH98 null M Kornacker, M Shah, J Hellerstein null null matched with bV8_CDuW2gMJ null M Kornacker, M Shah, JM Hellerstein null null
+conf/sigmod/GravanoGT94 null L Gravano, H Garcia-Molina, A Tomasic null null matched with H6fWl-cSuY4J null L Gravano, H Garcia-Molina, A Tomasic null null
+conf/vldb/LevySSZ94 null A Levy, A Silberschatz, D Srivastava, M Zemankova null null matched with MtScC-fTWCEJ null AY Levy, A Silberschatz, D Srivastava, M Zemankova null null
+journals/sigmod/TsotrasJS98 null V Tsotras, C Jensen, R Snodgrass null null matched with f3-E7x12K4gJ null VJ Tsotras, CS Jensen, RT Snodgrass null null
+conf/vldb/CarinoO98 null F Cariño, W O'Connell null null matched with lDNAWc5SrmIJ null F Carino, WO'Connell null null
+conf/vldb/PantiSG00 null M Panti, L Spalazzi, A Giretti null null matched with C7Vuxp5KVsAJ null M Panti, L Spalazzi, A Giretti null null
+journals/sigmod/HasanMV96 null M Hasan, A Mendelzon, D Vista null null matched with bLbjFFkQJdIJ null MZ Hasan, AO Mendelzon, D Vista null null
+journals/sigmod/ShethMKA01 null A Sheth, J Miller, K Kochut, I Arpinar null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D604286%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null A Sheth, J Miller, K Kochut, B Arpinar null null
+conf/vldb/SripadaW94 null S Sripada, B Wüthrich null null matched with VqNz3sp638UJ null SM Sripada null null
+conf/vldb/RothS97 null M Roth, P Schwarz null null matched with 1fQr1rJ4yCwJ null M Tork Roth, P Schwarz null null
+conf/vldb/ShaferA97 null J Shafer, R Agrawal null null matched with O4UcgdEM7vYJ null JC Shafer, R Agrawal null null
+conf/vldb/FuhDCMTLDRM99 null Y Fuh, S Deßloch, W Chen, N Mattos, B Tran, B Lindsay, L DeMichel, S Rielau, D Mannhaupt null null matched with nh2FuiC6fHgJ null YC Fuh, S DeÃ?loch, W Chen, NM Mattos, BT Tran, BG  null null
+conf/vldb/HvasshovdTBH95 null S Hvasshovd, Ø Torbjørnsen, S Bratsberg, P Holager null null matched with LVitsyrkl9AJ null SO Hvasshovd, Ã? TorbjÃ¸rnsen, SE Bratsberg, P   null null
+conf/sigmod/IvesLPST00 null Z Ives, A Levy, J Madhavan, R Pottinger, S Saroiu, I Tatarinov, S Betzler, Q Chen, E Jaslikowska, J Su, W Yeung null null matched with rtnpqb22gGcJ null ZG Ives, AY Levy, R Pottinger, I Tatarinov null null
+journals/sigmod/ZobelMR96 null J Zobel, A Moffat, K Ramamohanarao null null matched with 6NbNX8nSta0J null J Zobel, A Moffat, K Ramamohanarao null null
+journals/sigmod/KappelR98 null G Kappel, W Retschitzegger null null matched with tbZ0J3HLI18J null G Kappel, W Retschitzegger null null
+conf/vldb/AilamakiDHS01 null A Ailamaki, D DeWitt, M Hill, M Skounakis null null matched with gUJrOpj89tQJ null A Ailamaki, DJ DeWitt, MD Hill, M Skounakis null null
+conf/sigmod/HammerGIPUW95 null J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J Ullman, J Widom null null matched with ylzKvQxmX7cJ null J Hammer, H Garcia-Molina, K Ireland, Y   null null
+conf/vldb/LohmanL02 null G Lohman, S Lightstone null null matched with jC-TppzLPuEJ null GM Lohman, S Lightstone null null
+journals/vldb/ChienTZ02 null S Chien, V Tsotras, C Zaniolo null null matched with j4wcclZqY0oJ null SY Chien, VJ Tsotras, C Zaniolo null null
+journals/tods/SrivastavaSRN95 null D Srivastava, S Sudarshan, R Ramakrishnan, J Naughton null null matched with zm3D83ZiU4UJ null D Srivastava, S Sudarshan, R Ramakrishnan, JF   null null
+journals/sigmod/KramerNKRLKLZ97 null R Kramer, R Nikolai, A Koschel, C Rolker, P Lockemann, A Keitel, R Legat, K Zirm null null matched with 1sBvG9OXpMAJ null R Kramer, R Nikolai, A Koschel, C Rolker, P   null null
+journals/tods/FernandezKSMT02 null M Fernandez, Y Kadiyska, D Suciu, A Morishima, W Tan null null matched with ckrgSn0vBOMJ null M Fernandez, Y Kadiyska, D Suciu, A Morishima, WC   null null
+conf/sigmod/MamoulisP99 null N Mamoulis, D Papadias null null matched with z9MQwq7G3GYJ null N Mamoulis, D Papadias null null
+journals/sigmod/UlusoyB96 null Ö Ulusoy, A Buchmann null null matched with LclVYrb7vJoJ null O Ulusoy, A Buchmann null null
+conf/sigmod/KornM00 null F Korn, S Muthukrishnan null null matched with HlhXdvHzlvwJ null F Korn, S Muthukrishnan null null
+journals/sigmod/WenLMZ03 null J Wen, Q Li, W Ma, H Zhang null null matched with 5KdceadGf8cJ null JR Wen, Q Li, WY Ma, HJ Zhang null null
+conf/vldb/BamfordAP99 null R Bamford, R Ahad, A Pruscino null null matched with 2y9m1qzVu4EJ null R Bamford, R Ahad, A Pruscino null null
+conf/vldb/ChakrabartiSD98 null S Chakrabarti, S Sarawagi, B Dom null null matched with wnke8ff8hYUJ null S Chakrabarti, S Sarawagi, B Dom null null
+conf/sigmod/Whelan98 null D Whelan null null matched with Jp9LEvXjiJAJ null DS Whelan null null
+conf/sigmod/Blakeley96 null J Blakeley null null matched with jQ6eIao6R0EJ null JA Blakeley null null
+conf/sigmod/MohanN94 null C Mohan, I Narang null null matched with _2hj6snS3foJ null C Mohan, I Narang null null
+conf/vldb/ManolescuFKXO00 null I Manolescu, D Florescu, D Kossmann, F Xhumari, D Olteanu null null matched with c22l_WX_ADwJ null I Manolescu, D Florescu, D Kossmann, F Xhumari, D   null null
+journals/sigmod/Wong95 null L Wong null null matched with 7F9iCGggYVgJ null L Wong null null
+conf/vldb/RezendeS98 null F Rezende, G Sauter null null matched with niRuvMkp4r4J null F de Ferreira Rezende, G Sauter, AG Daimler-Benz null null
+conf/sigmod/BuchmannDZH95 null A Buchmann, A Deutsch, J Zimmermann, M Higa null null matched with MoNBLfTlYg0J null AP Buchmann, A Deutsch, J Zimmermann, M Higa null null
+journals/sigmod/Ioannidis96 null Y Ioannidis null null matched with IgQsVaud8BIJ null Y Ioannidis null null
+conf/sigmod/DeutschFS99 null A Deutsch, M Fernandez, D Suciu null null matched with QxtGOVsCF78J null A Deutsch, M Fernandez, D Suciu null null
+conf/sigmod/HsuLG00 null W Hsu, M Lee, K Goh null null matched with kxIpDxLD46gJ null W Hsu, ML Lee, KG Goh null null
+conf/vldb/BouganimCDDGS99 null L Bouganim, T Chan-Sine-Ying, T Dang-Ngoc, J Darroux, G Gardarin, F Sha null null matched with Ult4nmnmJp8J null L Bouganim, T Chan-Sine-Ying, TT Dang-Ngoc, JL   null null
+journals/tods/GraefeC95 null G Graefe, R Cole null null matched with Bn8s7u5T9SAJ null G Graefe, RL Cole null null
+conf/vldb/SantiniG02 null S Santini, A Gupta null null matched with J3cfnmFB4lsJ null S Santini, A Gupta null null
+conf/vldb/NetzCBF00 null A Netz, S Chaudhuri, J Bernhardt, U Fayyad null null matched with mRIRFxOC8A8J null A Netz, S Chaudhuri, J Bernhardt, UM Fayyad null null
+conf/sigmod/RundensteinerCLCZNJLW99 null E Rundensteiner, K Claypool, M Li, L Chen, X Zhang, C Natarajan, J Jin, S Lima, S Weiner null null matched with SADcQZhMqgEJ null EA Rundensteiner, KT Claypool, M Li, L Chen, X   null null
+conf/vldb/PopaVMHF02 null L Popa, Y Velegrakis, R Miller, M Hernández, R Fagin null null matched with qJ4lzBFzjdgJ null L Popa, Y Velegrakis, RJ Miller, MA Hernandez, R   null null
+conf/vldb/Sacks-Davis96 null R Sacks-Davis null null matched with GkINzG_IffAJ null R Sacks-Davis null null
+conf/vldb/FegarasE01 null L Fegaras, R Elmasri null null matched with pinPEM3Rvm0J null L Fegaras, R Elmasri null null
+conf/vldb/GravanoIJKMS01 null L Gravano, P Ipeirotis, H Jagadish, N Koudas, S Muthukrishnan, D Srivastava null null matched with iAYjhuQV_qMJ null L Gravano, PG Ipeirotis, HV Jagadish, N Koudas, S   null null
+conf/vldb/LakshmananSS99 null L Lakshmanan, F Sadri, S Subramanian null null matched with H5bVePnEohQJ null LVS Lakshmanan, F Sadri, SN Subramanian null null
+conf/sigmod/ChenRW02 null L Chen, E Rundensteiner, S Wang null null matched with 05ShsIGjnKkJ null L Chen, EA Rundensteiner, S Wang null null
+conf/sigmod/Agarwal96 null R Agarwal null null matched with ALk7huiKjWAJ null RC Agarwal null null
+journals/vldb/ChangG01 null K Chang, H Garcia-Molina null null matched with hYu2nw263UoJ null KCC Chang, H GarcÃ­a-Molina null null
+conf/vldb/ChakrabartiBD99 null S Chakrabarti, M Berg, B Dom null null matched with zmBMRUNv8sQJ null S Chakrabarti, M Van den Berg, B Dom null null
+conf/vldb/NinkHR99 null U Nink, T Härder, N Ritter null null matched with tZBIZ9ZHdTkJ null U Nink, T Haerder, N Ritter null null
+conf/sigmod/BreunigKKS01 null M Breunig, H Kriegel, P Kröger, J Sander null null matched with 3ET_IEkoGjYJ null MM Breunig, HP Kriegel, J Sander null null
+journals/sigmod/BusslerFM02 null C Bussler, D Fensel, A Maedche null null matched with RaOQG4YyzM4J null C Bussler, D Fensel, A Maedche null null
+conf/sigmod/HarinarayanRU96 null V Harinarayan, A Rajaraman, J Ullman null null matched with QHUtoLECZzgJ null V Harinarayan, A Rajaraman, JD Ullman null null
+conf/sigmod/ChangG99 null K Chang, H Garcia-Molina null null matched with 8Yt1Mba9-wQJ null CCK Chang, H Garcia-Molina null null
+conf/vldb/Amer-YahiaCD98 null S Amer-Yahia, S Cluet, C Delobel null null matched with 9nmG2KCklEcJ null S Amer-Yahia, S Cluet, C Delobel null null
+conf/sigmod/Keim96 null D Keim null null matched with AF9vuEJOr6cJ null DA Keim null null
+conf/vldb/AshwinRSSS97 null S Ashwin, P Roy, S Seshadri, A Silberschatz, S Sudarshan null null matched with 5VcKjo7jBOMJ null S Ashwin, P Roy, S Seshadri, A Silberschatz, S   null null
+conf/vldb/SadriZZA01 null R Sadri, C Zaniolo, A Zarkesh, J Adibi null null matched with 89l6j2Mbe2kJ null R Sadri, C Zaniolo, AM Zarkesh, J Adibi null null
+conf/sigmod/BerchtoldBK98 null S Berchtold, C Böhm, H Kriegel null null matched with 4Uf5sjXgwhoJ null S Berchtold, HP Kriegel null null
+conf/vldb/JermaineDO99 null C Jermaine, A Datta, E Omiecinski null null matched with eawaEzvWj4gJ null C Jermaine, A Datta, E Omiecinski null null
+conf/vldb/MoserKK95 null F Moser, A Kraiss, W Klas null null matched with 53hNU_r6-jgJ null F Moser, W Klas null null
+conf/vldb/CherniackFZ01 null M Cherniack, M Franklin, S Zdonik null null matched with 49EWG8vzsXUJ null M Cherniack, MJ Franklin, SB Zdonik null null
+conf/vldb/FerrandinaMZFM95 null F Ferrandina, T Meyer, R Zicari, G Ferran, J Madec null null matched with Ulg4PC4-auoJ null F Ferrandina, T Meyer, R Zicari, G Ferran, JE   null null
+journals/sigmod/YeungHL94 null C Yeung, S Hung, K Lam null null matched with yQv94p3tE1IJ null C Yeung, S Hung, K Lam null null
+conf/vldb/BassiliadesV95 null N Bassiliades, I Vlahavas null null matched with url:http://portal.acm.org/citation.cfm%3Fid%3D673137 null N Bassiliades, I Vlahavas null null
+conf/sigmod/RoussopoulosKV95 null N Roussopoulos, S Kelley, F Vincent null null matched with efwTNo1wRnMJ null N Roussopoulos, S Kelley, F Vincent null null
+journals/tods/Meo00 null R Meo null null matched with NQShGztSLaoJ null R Meo null null
+conf/vldb/MehtaD95 null M Mehta, D DeWitt null null matched with xkvXoYlg2-cJ null M Mehta null null
+conf/vldb/LimWV03 null L Lim, M Wang, J Vitter null null matched with aPJnWocHLUwJ null L Lim, M Wang, JS Vitter null null
+conf/vldb/GrustKT03 null T Grust, M Keulen, J Teubner null null matched with 25xRkmL_4BsJ null T Grust, M van Keulen, J Teubner null null
+journals/sigmod/EnglertGH95 null S Englert, R Glasstone, W Hasan null null matched with JRXuKm3E_foJ null S Englert, R Glasstone, W Hasan null null
+conf/vldb/MignetMAC01 null A Marian, S Abiteboul, G Cobena, L Mignet null null matched with VaDXNMtPZ4oJ null A Marian, S Abiteboul, G Cobena, L Mignet null null
+conf/vldb/LuL00 null H Lu, H Liu null null matched with Ih5hY-NRmFgJ null H Lu, H Liu null null
+conf/vldb/FerrandinaMZ94 null F Ferrandina, T Meyer, R Zicari null null matched with yQ2TMZ92GaIJ null F Ferrandina, T Meyer, R Zicari null null
+conf/sigmod/VanceM96 null B Vance, D Maier null null matched with CMMaMlYwgPkJ null B Vance, D Maier null null
+conf/sigmod/AbadiC02 null D Abadi, M Cherniack null null matched with f2Lea-RN8dsJ null DJ Abadi null null
+conf/vldb/LeeL99 null S Lee, T Ling null null matched with szHsyFiOuwAJ null SY Lee, TW Ling null null
+conf/vldb/Deshpande00 null A Deshpande null null matched with 2DiLFd0rgPgJ null A Deshpande null null
+conf/vldb/JonscherD94 null D Jonscher, K Dittrich null null matched with 1R21hO7j9sQJ null D Jonscher, KR Dittrich null null
+conf/sigmod/AvnurHLORRRW98 null R Avnur, J Hellerstein, B Lo, C Olston, B Raman, V Raman, T Roth, K Wylie null null matched with bEu_llku9NMJ null R Avnur, JM Hellerstein, B Lo, C Olston, B Raman,   null null
+conf/vldb/FlodinR95 null S Flodin, T Risch null null matched with WmtiDGY_BdoJ null S Flodin, T Risch null null
+journals/tods/KossmannS00 null D Kossmann, K Stocker null null matched with PnGVbzQCWY0J null D Kossmann, K Stocker null null
+conf/sigmod/DarR94 null S Dar, R Ramakrishnan null null matched with TtV6gGLQ9NMJ null S Dar, R Ramakrishnan null null
+conf/vldb/AmielBDS94 null E Amiel, M Bellosta, E Dujardin, E Simon null null matched with hBak02oe1GMJ null E Amiel, MJ Bellosta, E Dujardin, E Simon null null
+conf/vldb/KossmannRR02 null D Kossmann, F Ramsak, S Rost null null matched with iGlztgiSTe4J null D Kossmann, F Ramsak, S Rost null null
+journals/sigmod/OrlandicLS02 null R Orlandic, J Lukaszuk, C Swietlik null null matched with eLf0eStn5G4J null R Orlandic, J Lukaszuk, C Swietlik null null
+conf/vldb/VorugantiOU99 null K Voruganti, M Özsu, R Unrau null null matched with ItOlYY7ITt0J null K Voruganti, MT Ã?zsu, RC Unrau null null
+journals/vldb/ChanFGR02 null C Chan, P Felber, M Garofalakis, R Rastogi null null matched with ORkxHLb7dvcJ null CY Chan, P Felber, M Garofalakis, R Rastogi null null
+conf/vldb/WangYM97 null W Wang, J Yang, R Muntz null null matched with hcYKj7CHbWYJ null W Wang, J Yang, R Muntz null null
+conf/vldb/TengCY03 null W Teng, M Chen, P Yu null null matched with wJjaZnzD6pAJ null WG Teng, MS Chen, PS Yu null null
+journals/vldb/FengYLH02 null L Feng, J Yu, H Lu, J Han null null matched with Uxh3R2hfBOAJ null L Feng, JX Yu, H Lu, J Han null null
+journals/sigmod/KeetonPH98 null K Keeton, D Patterson, J Hellerstein null null matched with 6MtRlhEClPEJ null K Keeton, DA Patterson, JM Hellerstein null null
+journals/sigmod/Gardels97 null K Gardels null null matched with PlitMluIJyYJ null K Gardels null null
+conf/vldb/TanEO01 null K Tan, P Eng, B Ooi null null matched with 1A06w64wjvcJ null KL Tan, PK Eng, BC Ooi null null
+journals/sigmod/CaleroPR03 null C Calero, M Piattini, F Ruiz null null matched with zWoRcQffsq8J null C Calero, M Piattini, F Ruiz null null
+conf/vldb/Orenstein98 null J Orenstein null null matched with VfWJDzGt9JYJ null JA Orenstein null null
+conf/vldb/WienerN94 null J Wiener, J Naughton null null matched with PrUWsoySLGcJ null JL Wiener, JF Naughton null null
+conf/sigmod/GeorgeH97 null B George, J Haritsa null null matched with Ah9B3bWU0jEJ null B George, J Haritsa null null
+conf/sigmod/LakshmananNHP99 null L Lakshmanan, R Ng, J Han, A Pang null null matched with DfOLEzMoEaEJ null LVS Lakshmanan, RT Ng, J Han, A Pang null null
+conf/sigmod/AntonJLPZZ02 null J Anton, L Jacobs, X Liu, J Parker, Z Zeng, T Zhong null null matched with 89P3EdEDuOEJ null J Anton, L Jacobs, X Liu, J Parker, Z Zeng, T   null null
+conf/sigmod/Golding95 null R Golding null null matched with uJj9OgotYeEJ null R Goldring null null
+journals/sigmod/ShanmugasundaramSKKVNT01 null J Shanmugasundaram, E Shekita, J Kiernan, R Krishnamurthy, S Viglas, J Naughton, I Tatarinov null null matched with wTJy5XquCpsJ null J Shanmugasundaram, EJ Shekita, J Kiernan, R   null null
+conf/sigmod/ZhangRL96 null T Zhang, R Ramakrishnan, M Livny null null matched with hk9P76dJfcAJ null T Zhang, R Ramakrishnan, M Livny null null
+conf/sigmod/PolyzotisG02 null N Polyzotis, M Garofalakis null null matched with obfTDYVJb4gJ null N Polyzotis, MN Garofalakis null null
+journals/tods/GoldmanL94 null K Goldman, N Lynch null null matched with VxMarpzwtzQJ null KJ Goldman, N Lynch null null
+conf/sigmod/ChoiC02 null Y Choi, C Chung null null matched with D8a4umAppIcJ null YJ Choi, CW Chung null null
+conf/vldb/BouganimP02 null L Bouganim, P Pucheral null null matched with PhERWOcOkOgJ null L Bouganim, P Pucheral null null
+conf/vldb/GraefeBC98 null G Graefe, R Bunker, S Cooper null null matched with v-kvo2hnsgkJ null G Graefe, R Bunker, S Cooper null null
+conf/sigmod/WoelkBJOTU95 null D Woelk, W Bohrer, N Jacobs, K Ong, C Tomlinson, C Unnikrishnan null null matched with --PsNHvlpbIJ null D Woelk null null
+conf/sigmod/LazaridisM01 null I Lazaridis, S Mehrotra null null matched with IvMJ4bK708kJ null I Lazaridis, S Mehrotra null null
+conf/sigmod/CookKWZ96 null J Cook, A Klauser, A Wolf, B Zorn null null matched with 5MTgNlhnyTgJ null JE Cook, AW Klauser, AL Wolf, BG Zorn null null
+conf/vldb/Blecken00 null C Blecken null null matched with hCSzil0nuVEJ null C Blecken null null
+conf/sigmod/IpeirotisGS01 null P Ipeirotis, L Gravano, M Sahami null null matched with bo7ArXlXypQJ null PG Ipeirotis, L Gravano, M Sahami null null
+conf/vldb/LiRS99 null J Li, D Rotem, J Srivastava null null matched with Bf44yXvb6EAJ null J Li null null
+conf/vldb/CosleyLP02 null D Cosley, S Lawrence, D Pennock null null matched with BTalXWt3faUJ null D Cosley, S Lawrence, DM Pennock null null
+conf/sigmod/AgichteinGV01 null E Agichtein, L Gravano, J Pavel, V Sokolova, A Voskoboynik null null matched with GDoFPiEzEhQJ null E Agichtein, L Gravano, J Pavel, V Sokolova, A   null null
+conf/sigmod/RamaswamyRS00 null S Ramaswamy, R Rastogi, K Shim null null matched with VJIHPbki2uAJ null S Ramaswamy null null
+conf/sigmod/LangS01 null C Lang, A Singh null null matched with FFQc9XpGFRsJ null CA Lang, AK Singh null null
+conf/vldb/ClaussenKMP97 null J Claußen, A Kemper, G Moerkotte, K Peithner null null matched with EyTvjJCb5WkJ null J Claussen, A Kemper, G Moerkotte, K Peithner null null
+journals/tods/WangBBJ97 null X Wang, C Bettini, A Brodsky, S Jajodia null null matched with NYQMkdaH2egJ null XS Wang, C Bettini, A Brodsky, S Jajodia null null
+journals/sigmod/KokkotosIPS95 null S Kokkotos, E Ioannidis, T Panayiotopoulos, C Spyropoulos null null matched with -IvY8_ki_psJ null S Kokkotos, EV Ioannidis, T Panayiotopoulos, CD   null null
+journals/sigmod/Aberer02 null K Aberer null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D507353%26type%3Dpdf%26dl%3Dportal%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null AAO Approach null null
+journals/sigmod/Aberer02a null K Aberer null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D507353%26type%3Dpdf%26dl%3Dportal%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null AAO Approach null null
+journals/sigmod/Aberer02b null K Aberer null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D507353%26type%3Dpdf%26dl%3Dportal%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null AAO Approach null null
+journals/sigmod/Aberer02c null K Aberer null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D507353%26type%3Dpdf%26dl%3Dportal%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null AAO Approach null null
+conf/vldb/BliujuteJSS98 null R Bliujute, C Jensen, S Saltenis, G Slivinskas null null matched with oBpe7jg0YHYJ null R Bliujute, CS Jensen, S Saltenis, G Slivinskas null null
+journals/vldb/NguSHL01 null A Ngu, Q Sheng, D Huynh, R Lei null null matched with djYvVVRYNTwJ null AHH Ngu, QZ Sheng, DQ Huynh, R Lei null null
+conf/vldb/SubietaKL95 null K Subieta, Y Kambayashi, J Leszczylowski null null matched with gEFY87Ma0XUJ null K Subieta, Y Kambayashi, J Leszczylowski null null
+journals/tods/MuralidharS99 null K Muralidhar, R Sarathy null null matched with dKvepAPYBmcJ null K Muralidhar, R Sarathy null null
+conf/vldb/Meier95 null A Meier null null matched with C_lenwvj88AJ null A Meier null null
+conf/sigmod/AggarwalY00 null C Aggarwal, P Yu null null matched with dfSPs7YoyWsJ null CC Aggarwal, PS Yu null null
+conf/vldb/WitkowskiBBFGSS03 null A Witkowski, S Bellamkonda, T Bozkaya, N Folkert, A Gupta, L Sheng, S Subramanian null null matched with Oti_CoAPH9IJ null A Witkowski, S Bellamkonda, T Bozkaya, N Folkert,   null null
+conf/sigmod/WolfsonSXZC99 null O Wolfson, A Sistla, B Xu, J Zhou, S Chamberlain null null matched with 4dbCEDwsluQJ null O Wolfson null null
+journals/sigmod/Sidell96 null J Sidell null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D245906%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null J Sidell null null
+journals/sigmod/RamirezSP94 null J Ramirez, L Smith, L Peterson null null matched with V2WMOB42Gj0J null JCG Ramirez, LA Smith null null
+conf/vldb/BonifatiCDS01 null A Bonifati, F Casati, U Dayal, M Shan null null matched with tCrfb27dXiwJ null A Bonifati, F Casati, U Dayal, MC Shan null null
+journals/sigmod/ClementLGMK97 null G Clement, C Larouche, D Gouin, P Morin, H Kucera null null matched with J7Y20fYLGbcJ null G Clement, C Larouche, D Gouin, P Morin, H Kucera null null
+journals/sigmod/Rosenthal98 null A Rosenthal null null matched with ZMMeRrWUlOoJ null A Rosenthal null null
+conf/vldb/Mattos96 null N Mattos null null matched with EpBlTCJ0_dUJ null N Mattos null null
+conf/vldb/HasanM95 null W Hasan, R Motwani null null matched with -aml_OMAQNgJ null W Hasan, R Motwani null null
+conf/vldb/BestavrosB95 null A Bestavros, S Braoudakis null null matched with lGyhpsPV6ogJ null A Bestavros, S Braoudakis null null
+conf/vldb/LiCHPALHAY01 null W Li, K Candan, W Hsiung, O Po, D Agrawal, Q Luo, W Huang, Y Akca, C Yilmaz null null matched with Nn0x6RmkrVwJ null WS Li, KS Candan, WP Hsiung, O Po, D Agrawal, Q   null null
+journals/sigmod/KuoM96 null T Kuo, A Mok null null matched with vmwgqLkw0NUJ null TW Kuo null null
+conf/sigmod/GibbonsM98 null P Gibbons, Y Matias null null matched with 4EgMtIywBRUJ null PB Gibbons, Y Matias null null
+conf/sigmod/AdelbergGK95 null B Adelberg, H Garcia-Molina, B Kao null null matched with NbLabaGWoh4J null B Adelberg, H Garcia-Molina, B Kao null null
+conf/vldb/ChakrabartiM00 null K Chakrabarti, S Mehrotra null null matched with 7P1LlDStRGYJ null K Chakrabarti, S Mehrotra null null
+journals/tods/GibbonsMP02 null P Gibbons, Y Matias, V Poosala null null matched with QKnjF3UgncMJ null PB Gibbons, Y Matias, V Poosala null null
+journals/sigmod/GlavitschSW94 null U Glavitsch, P Schäuble, M Wechsler null null matched with IQjGtYPrUFUJ null U Glavitsch, P Schauble, M Wechsler null null
+conf/vldb/GehaniJR94 null N Gehani, H Jagadish, W Roome null null matched with MxYiwR2f9UYJ null NH Gehani, HV Jagadish, WD Roome null null
+journals/tods/KemmeA00 null B Kemme, G Alonso null null matched with wiUPadLpCvoJ null B Kemme, G Alonso null null
+journals/sigmod/Huyn01 null N Huyn null null matched with KNYDz76C_HsJ null N Huyn null null
+journals/sigmod/NobleS95 null B Noble, M Satyanarayanan null null matched with rRvcD6HKhasJ null BD Noble, M Satyanarayanan null null
+conf/vldb/BelloDDFNSWZ98 null R Bello, K Dias, A Downing, J Jr., J Finnerty, W Norcott, H Sun, A Witkowski, M Ziauddin null null matched with zrMFWOX1h2MJ null RG Bello, K Dias, A Downing, J Feenan, J Finnerty,  null null
+conf/vldb/YuAA03 null H Yu, D Agrawal, A Abbadi null null matched with 4bvjebYsdRkJ null H Yu, D Agrawal null null
+conf/sigmod/Aulakh98 null K Aulakh null null matched with xFK4CkKj14EJ null K Aulakh null null
+journals/sigmod/BargaL02 null R Barga, D Lomet null null matched with QTzV3iNq2O8J null R Barga, D Lomet null null
+journals/tods/HjaltasonS03 null G Hjaltason, H Samet null null matched with 9Wan9sPNUAYJ null GR Hjaltason, H Samet null null
+conf/sigmod/DarEGP98 null S Dar, G Entin, S Geva, E Palmon null null matched with ewnL82c8kiMJ null S Dar, G Entin, S Geva, E Palmon null null
+conf/vldb/SkubiszewskiV97 null M Skubiszewski, P Valduriez null null matched with MJAw_2C6ErAJ null M Skubiszewski, P Valduriez null null
+journals/sigmod/LabrinidisM01 null A Labrinidis, A Mendelzon null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D603886%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null A Labrinidis, AO Mendelzon null null
+conf/vldb/ChenL03 null C Lin, M Chen null null matched with WaSgR87oMpcJ null CC Lin, MS Chen null null
+conf/vldb/Campbell99 null D Campbell null null matched with m1eeQnYWL0oJ null D Campbell null null
+journals/sigmod/Keim96 null D Keim null null matched with vkUvhZOw-1YJ null DA Keim null null
+conf/vldb/RamamrithamABEGP00 null K Ramamritham, Y Atfi, C Batini, M Eitan, V Gregg, D Phatak null null matched with jYGXFESkS-YJ null K Ramamritham, C Batini, M Eitan, V Gregg, DB   null null
+conf/vldb/AgrawalPWZ95 null R Agrawal, G Psaila, E Wimmers, M Zaït null null matched with x_ykbVlfyP8J null R Agrawal, G Psaila, EL Wimmers null null
+conf/vldb/Sripada02 null S Sripada null null matched with UXm0EWCXxpIJ null SM Sripada null null
+journals/vldb/ManegoldBK00 null S Manegold, P Boncz, M Kersten null null matched with xWYu2JWiF_kJ null S Manegold, PA Boncz, ML Kersten null null
+journals/sigmod/GottlobKP03 null G Gottlob, C Koch, R Pichler null null matched with rDRdlwdHGb0J null G Gottlob, C Koch, R Pichler null null
+conf/sigmod/MumickP94 null I Mumick, H Pirahesh null null matched with hUQBQ_9ohcgJ null IS Mumick, H Pirahesh null null
+conf/vldb/OoiYTJ01 null C Yu, B Ooi, K Tan, H Jagadish null null matched with RFEE_MNM8IUJ null C Yu, BC Ooi, KL Tan, HV Jagadish null null
+conf/sigmod/GebhardtJJ97 null M Gebhardt, M Jarke, S Jacobs null null matched with 9mbr0dyW1NgJ null M Gebhardt, M Jarke null null
+journals/sigmod/Jannink95 null J Jannink null null matched with 22yR9rN5xuQJ null J Jannink null null
+conf/vldb/Jermaine03 null C Jermaine null null matched with 393ZqH9szo0J null C Jermaine null null
+conf/vldb/KoudasGGSV03 null S Guha, D Gunopulos, N Koudas, D Srivastava, M Vlachos null null matched with d8BBxc5Ato8J null S Guha, D Gunopulos, N Koudas, D Srivastava, M   null null
+journals/sigmod/GroskyFS94 null W Grosky, F Fotouhi, I Sethi null null matched with zMK02pxd4OEJ null WI Grosky, F Fotouhi, IK Sethi null null
+conf/vldb/HelmerNM03 null S Helmer, T Neumann, G Moerkotte null null matched with 8-HpAN0xpjcJ null S Helmer, T Neumann, G Moerkotte null null
+conf/sigmod/BilirisDGJR94 null A Biliris, S Dar, N Gehani, H Jagadish, K Ramamritham null null matched with 3Lzo6p8X-n4J null A Biliris, S Dar, N Gehani, HV Jagadish, K   null null
+conf/sigmod/GuptaHR97 null R Gupta, J Haritsa, K Ramamritham null null matched with pGix0qZ6Uz4J null R Gupta, J Haritsa, K Ramamritham null null
+conf/vldb/ColletCS94 null C Collet, T Coupaye, T Svensen null null matched with uMutI8spj1QJ null C Collet, T Coupaye, T Svensen null null
+conf/sigmod/AnkerstBKS99 null M Ankerst, M Breunig, H Kriegel, J Sander null null matched with Hj3vyh0TJVsJ null M Ankerst, MM Breunig, HP Kriegel, J Sander null null
+journals/sigmod/ChakravarthyAEFO03 null S Chakravarthy, Y Aslandogan, R Elmasri, L Fegaras, J Oh null null matched with url:http://portal.acm.org/citation.cfm%3Fid%3D641006 null S Chakravarthy, A Aslandogan, R Elmasri, L Fegaras  null null
+conf/vldb/CarneyCCCLSSTZ02 null D Carney, U Çetintemel, M Cherniack, C Convey, S Lee, G Seidman, M Stonebraker, N Tatbul, S Zdonik null null matched with 1J26mBTxdS0J null D Carney, U Cetintemel, M Cherniack, C Convey, S   null null
+conf/vldb/LamKR02 null K Lam, A Kwan, K Ramamritham null null matched with GdvZvvRTXIAJ null K Lam, A Kwan, K Ramamritham null null
+journals/sigmod/RafanelliBT96 null M Rafanelli, A Bezenchek, L Tininini null null matched with MfWZUBAVPFUJ null M Rafanelli, A Bezenchek, L Tininini null null
+conf/vldb/GotoK02 null K Goto, Y Kambayashi null null matched with 2Pc6rKYB8ykJ null K Goto, Y Kambayashi null null
+conf/vldb/LiM01 null Q Li, B Moon null null matched with vkMYwC5tzUgJ null Q Li, B Moon null null
+conf/vldb/VriesDBA99 null A Vries, M Doorn, H Blanken, P Apers null null matched with 3o-rUvRsdUwJ null A De Vries, M Van Doorn, H Blanken, P Apers null null
+conf/vldb/CasatiS00 null F Casati, M Shan null null matched with OjOQRHgD-qwJ null F Casati, MC Shan null null
+conf/vldb/SeligmanBNSW95 null L Seligman, N Belkin, E Neuhold, M Stonebraker, G Wiederhold null null matched with url:http://portal.acm.org/citation.cfm%3Fid%3D645921.673303%26coll%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null LJ Seligman, NJ Belkin, EJ Neuhold, M Stonebraker,  null null
+journals/vldb/RamanRH00 null V Raman, B Raman, J Hellerstein null null matched with CgiCp6N9XZQJ null V Raman, B Raman, JM Hellerstein null null
+conf/vldb/AggarwalY02 null C Aggarwal, P Yu null null matched with W9wJnFy0TDAJ null CC Aggarwal, PS Yu null null
+journals/sigmod/SilberschatzSU96 null A Silberschatz, M Stonebraker, J Ullman null null matched with _ZsI_bVIJMwJ null A Silberschatz, M Stonebraker, J Ullman null null
+conf/sigmod/JarkeQCLFLVV00 null M Jarke, C Quix, D Calvanese, M Lenzerini, E Franconi, S Ligoudistianos, P Vassiliadis, Y Vassiliou null null matched with bl_VrPzIIPwJ null M Jarke, C Quix, D Calvanese, M Lenzerini, E   null null
+conf/vldb/PolyzotisG02 null N Polyzotis, M Garofalakis null null matched with krAZ7iDMEOQJ null N Polyzotis, MN Garofalakis null null
+conf/vldb/JaedickeM99 null M Jaedicke, B Mitschang null null matched with zh6yaOX2xiQJ null M Jaedicke, B Mitschang null null
+conf/vldb/BaumgartnerFG01a null R Baumgartner, S Flesca, G Gottlob null null matched with GGyAHg9kwysJ null R Baumgartner, S Flesca, G Gottlob null null
+conf/sigmod/AgrawalW00 null R Agrawal, E Wimmers null null matched with wivJNEQEWzMJ null R Agrawal, EL Wimmers null null
+journals/sigmod/GerlhofKM96 null C Gerlhof, A Kemper, G Moerkotte null null matched with eq249ewqsHMJ null CA Gerlhof null null
+conf/sigmod/Han96 null J Han null null matched with DlQd7WIkVF0J null J Han null null
+journals/sigmod/HasanFV96 null W Hasan, D Florescu, P Valduriez null null matched with m2CCumFeAWgJ null W Hasan, D Florescu, P Valduriez null null
+conf/vldb/MendelzonV00 null A Mendelzon, A Vaisman null null matched with AQLsLBctUI4J null AO Mendelzon, AA Vaisman null null
+journals/tods/MelnikG03 null S Melnik, H Garcia-Molina null null matched with y2dZ5cRja_IJ null S Melnik, H Garcia-Molina null null
+conf/vldb/BaumgartnerFG01 null R Baumgartner, S Flesca, G Gottlob null null matched with I1xHtA3f3MsJ null R Baumgartner, S Flesca, G Gottlob null null
+journals/sigmod/McHughAGQW97 null J McHugh, S Abiteboul, R Goldman, D Quass, J Widom null null matched with FUXcNB3HHi4J null J McHugh, S Abiteboul, R Goldman, D Quass, J Widom null null
+conf/vldb/SevcikK96 null K Sevcik, N Koudas null null matched with GiHrMj3vbSAJ null KC Sevcik, N Koudas null null
+conf/vldb/RamasamyPNK00 null K Ramasamy, J Patel, J Naughton, R Kaushik null null matched with wR0R0jS5J6oJ null K Ramasamy, JM Patel null null
+journals/sigmod/SlivinskasJS02 null G Slivinskas, C Jensen, R Snodgrass null null matched with xTPSs2k_pUIJ null G Slivinskas, CS Jensen, RT Snodgrass null null
+conf/sigmod/WilschutFA95 null A Wilschut, J Flokstra, P Apers null null matched with vgoFTdXYHZ0J null AN Wilschut, J Flokstra, PMG Apers null null
+conf/sigmod/ColbyGLMT96 null L Colby, T Griffin, L Libkin, I Mumick, H Trickey null null matched with MgphE2z3NqYJ null LS Colby, L Libkin, IS Mumick, H Trickey null null
+journals/sigmod/DunhamH95a null M Dunham, A Helal null null matched with CyzIFxmvc1cJ null MH Dunham null null
+conf/vldb/BlokWZPAKJ01 null H Blok, M Windhouwer, R Zwol, M Petkovic, P Apers, M Kersten, W Jonker null null matched with jxPqWIuxhvwJ null HE Blok, M Windhouwer, R van Zwol, M Petkovic, PMG  null null
+conf/vldb/WangZ00 null H Wang, C Zaniolo null null matched with eDa9jQWsTMoJ null H Wang, C Zaniolo null null
+conf/vldb/ChatziantoniouR97 null D Chatziantoniou, K Ross null null matched with Xx-pSjq7Mv8J null D Chatziantoniou null null
+conf/vldb/BunkerCCMMW01 null C Bunker, L Colby, R Cole, W McKenna, G Mulagund, D Wilhite null null matched with bKfF2TdyKDwJ null CJ Bunker, LS Colby, RL Cole, WJ McKenna, G   null null
+journals/sigmod/BunemanLSTW94 null P Buneman, L Libkin, D Suciu, V Tannen, L Wong null null matched with lkreWUl_euYJ null P Buneman, L Libkin, D Suciu, V Tannen, L Wong null null
+conf/vldb/Suciu96a null D Suciu null null matched with tJtSq968rwgJ null D Suciu null null
+journals/tods/DattaVCK99 null A Datta, D VanderMeer, A Celik, V Kumar null null matched with L_EKDuVUoIEJ null A Datta, DE VanderMeer, A Celik, V Kumar null null
+journals/sigmod/Klein94 null H Klein null null matched with kG86HB6N1xEJ null HJ Klein null null
+conf/vldb/ChoALS02 null S Cho, S Amer-Yahia, L Lakshmanan, D Srivastava null null matched with _-JZT1cOuZ8J null SR Cho, S Amer-Yahia, LVS Lakshmanan, D Srivastava null null
+conf/vldb/Pound99 null C Pound null null matched with zWp_JdEQ8MgJ null C Pound null null
+conf/vldb/LuoN01 null Q Luo, J Naughton null null matched with TRWSf77xoWsJ null Q Luo, JF Naughton null null
+journals/vldb/HalkidiNVV03 null M Halkidi, B Nguyen, I Varlamis, M Vazirgiannis null null matched with J0hrpRuvSgMJ null M Halkidi, B Nguyen, I Varlamis, M Vazirgiannis null null
+conf/vldb/SetzerZ94 null V Setzer, A Zisman null null matched with 1tmW1mOCZqIJ null VW Setzer, A Zisman null null
+journals/tods/StoreyCDGS97 null V Storey, R Chiang, D Dey, R Goldstein, S Sundaresan null null matched with NL_8pNIYC-0J null VC Storey, RHL Chiang, D Dey, RC Goldstein, S   null null
+conf/vldb/BaumannFRW97 null P Baumann, P Furtado, R Ritsch, N Widmann null null matched with 7BgXVuviUvoJ null P Baumann, P Furtado, R Ritsch, N Widmann null null
+conf/sigmod/RaoR98 null J Rao, K Ross null null matched with WlSXiMaxGlQJ null J Rao, KA Ross null null
+conf/vldb/SimonD95 null E Simon, A Dittrich null null matched with lLARMvKaIQMJ null E Simon, A Kotz-Dittrich null null
+journals/sigmod/DarwenD95 null H Darwen, C Date null null matched with DVnOcHunv7MJ null H Darwen, CJ Date null null
+conf/sigmod/JoshiA01 null M Joshi, R Agarwal null null matched with H9bMRYKnXMQJ null MV Joshi, RC Agarwal, V Kumar null null
+conf/vldb/RoussopoulosK98 null N Roussopoulos, Y Kotidis null null matched with Mg0A5yz-_wYJ null N Roussopoulos, Y Kotidis null null
+conf/sigmod/LuMSS95 null J Lu, G Moerkotte, J Schü, V Subrahmanian null null matched with Kk87yanaI1AJ null JJ Lu, G Moerkotte null null
+journals/sigmod/TaninBS96 null E Tanin, R Beigel, B Shneiderman null null matched with KUB7XvwH30AJ null E Tanin null null
+conf/vldb/GarofalakisG01 null M Garofalakis, P Gibbons null null matched with SHDQQrfJ3BMJ null MN Garofalakis, PB Gibbon null null
+journals/sigmod/BunemanRU97 null P Buneman, L Raschid, J Ullman null null matched with 5qg4BNiroqMJ null P Buneman, L Raschid, JD Ullman null null
+conf/vldb/ZimbraoS98 null G Zimbrao, J Souza null null matched with 1KckBFVfgyMJ null G Zimbrao null null
+journals/tods/ChoG03 null J Cho, H Garcia-Molina null null matched with HqAWyuB11loJ null J Cho, H Garcia-Molina null null
+conf/vldb/HaasB03 null P Brown, P Haas null null matched with -sWlL27yCP0J null PG Brown, PJ Haas null null
+conf/sigmod/ChenZCKR01 null J Chen, X Zhang, S Chen, A Koeller, E Rundensteiner null null matched with q49c-IEX7N8J null J Chen, X Zhang, S Chen, A Koeller, EA   null null
+conf/vldb/ChakravarthyKAK94 null S Chakravarthy, V Krishnaprasad, E Anwar, S Kim null null matched with L9eva_gsxrIJ null S Chakravarthy, V Krishnaprasad, E Anwar, SK Kim null null
+conf/vldb/AnSVKIG01 null N An, A Sivasubramaniam, N Vijaykrishnan, M Kandemir, M Irwin, S Gurumurthi null null matched with HosSI1GtRY8J null N An, A Sivasubramaniam, N Vijaykrishnan, M   null null
+conf/sigmod/YanMHF01 null L Yan, R Miller, L Haas, R Fagin null null matched with 8hRWaIVZ2ykJ null LL Yan, RJ Miller, LM Haas, R Fagin null null
+conf/vldb/HelmerWM98 null S Helmer, T Westmann, G Moerkotte null null matched with 5ipPVLRhDqoJ null S Helmer, T Westmann, G Moerkotte null null
+journals/sigmod/GroskySF02 null W Grosky, D Sreenath, F Fotouhi null null matched with HA3wM_i-y3YJ null WI Grosky, DV Sreenath null null
+journals/vldb/DattaDVRN01 null A Datta, K Dutta, D VanderMeer, K Ramamritham, S Navathe null null matched with icK75z3VuGIJ null A Datta, K Dutta, D VanderMeer, K Ramamritham, SB   null null
+conf/vldb/AcharyaGP99 null S Acharya, P Gibbons, V Poosala null null matched with -7tsGpHin24J null S Acharya, PB Gibbons, V Poosala null null
+journals/sigmod/Dogac96 null A Dogac null null matched with url:http://portal.acm.org/citation.cfm%3Fid%3D234889.234900%26dl%3DGUIDE%26dl%3DACM%26idx%3DJ689%26part%3Dperiodical%26WantType%3Dperiodical%26title%3DACM%2520SIGMOD%2520Record%26CFID%3D11111111%26CFTOKEN%3D2222222 null A Dogac null null
+conf/sigmod/PatelYKTNBHRLEKGDN97 null J Patel, J Yu, N Kabra, K Tufte, B Nag, J Burger, N Hall, K Ramasamy, R Lueder, C Ellmann, J Kupsch, S Guo, D DeWitt, J Naughton null null matched with 0inuMFZSQ50J null J Patel, JB Yu, N Kabra, K Tufte, B Nag, J Burger,  null null
+conf/vldb/AgrawalKSX02 null R Agrawal, J Kiernan, R Srikant, Y Xu null null matched with XK-KPRa2qjcJ null R Agrawal, J Kiernan, R Srikant, Y Xu null null
+conf/vldb/TaoPS02 null Y Tao, D Papadias, Q Shen null null matched with o0WQjRyBQ5kJ null Y Tao, D Papadias, Q Shen null null
+conf/vldb/GardarinST96 null G Gardarin, F Sha, Z Tang null null matched with OHR5iQWPuyYJ null G Gardarin, F Sha, ZH Tang null null
+conf/sigmod/ChanI99 null C Chan, Y Ioannidis null null matched with kNT7yt823K8J null CY Chan null null
+conf/vldb/DattaRT99 null A Datta, K Ramamritham, H Thomas null null matched with gckQTLQjsj8J null A Datta, K Ramamritham, H Thomas null null
+conf/vldb/Duranti01 null L Duranti null null matched with gQW6iYG5Vh0J null L Duranti null null
+conf/sigmod/AggarwalWY99 null C Aggarwal, J Wolf, P Yu null null matched with s9hhR-EdDGgJ null CC Aggarwal, JL Wolf, PS Yu null null
+conf/vldb/KeimH99 null A Hinneburg, D Keim null null matched with 28GZ8M1ZPVYJ null A Hinneburg, DA Keim null null
+conf/vldb/RahmM95 null E Rahm, R Marek null null matched with 6ioboOxJvQIJ null E Rahm, R Marek null null
+journals/tods/CastanoAFP98 null S Castano, V Antonellis, M Fugini, B Pernici null null matched with X7wtR1g63qEJ null S Castano, V De Antonellis, MG Fugini, B Pernici null null
+journals/vldb/FiebigHKMNSW02 null T Fiebig, S Helmer, C Kanne, G Moerkotte, J Neumann, R Schiele, T Westmann null null matched with w_FOwUavk0kJ null T Fiebig, S Helmer, CC Kanne, G Moerkotte, J   null null
+conf/vldb/BonczMK99 null P Boncz, S Manegold, M Kersten null null matched with 8yhbBSPKZEoJ null PA Boncz null null
+conf/sigmod/Shyy95 null Y Shyy, H Au-Yeung, C Chou null null matched with OjZoGJLFGqIJ null YM Shyy, HS Au-Yeung, CP Chou null null
+conf/sigmod/SzalayGKT00 null A Szalay, P Kunszt, A Thakar, J Gray, D Slutz null null matched with GYR0v7CFkP0J null AS Szalay, PZ Kunszt, A Thakar null null
+conf/vldb/RusinkiewiczKTWM95 null M Rusinkiewicz, W Klas, T Tesch, J Wäsch, P Muth null null matched with T2fm7Wb1ak4J null M Rusinkiewicz, W Klas, T Tesch, J Waesch, P Muth null null
+journals/sigmod/MedeirosP94 null C Medeiros, F Pires null null matched with chmPCuLihZoJ null CB Medeiros, F Pires null null
+conf/vldb/ChaudhuriGS95 null S Chaudhuri, S Ghandeharizadeh, C Shahabi null null matched with 77Sb5mlyASgJ null S Chaudhuri, S Ghandeharizadeh, C Shahabi null null
+journals/vldb/ChirkovaHS02 null R Chirkova, A Halevy, D Suciu null null matched with NdmocXlpq9QJ null R Chirkova, AY Halevy, D Suciu null null
+journals/sigmod/Qian96a null X Qian null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D234903%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null X Qian null null
+conf/sigmod/Vaskevitch94 null D Vaskevitch null null matched with cr7xWKidCnYJ null D Vaskevitch null null
+conf/vldb/Dasgupta96 null A Dasgupta null null matched with A0c2Gd1lP5QJ null AR Dasgupta null null
+conf/vldb/AshwinGG02 null T Ashwin, R Gupta, S Ghosal null null matched with YiJojduGXXkJ null TV Ashwin, R Gupta, S Ghosal null null
+conf/sigmod/GoldmanW00 null R Goldman, J Widom null null matched with Ol886Ck3jz4J null R Goldman, J Widom null null
+conf/sigmod/WangJLY03 null W Wang, H Jiang, H Lu, J Yu null null matched with EQsWWZdE45wJ null W Wang, H Jiang, H Lu, JX Yu null null
+conf/sigmod/Greer99 null R Greer null null matched with oNPjyBZrURgJ null R Greer null null
+conf/vldb/MuthOPW98 null P Muth, P O'Neil, A Pick, G Weikum null null matched with cy0zVqmNba4J null P Muth, A Pick, G Weikum null null
+conf/sigmod/Fernandez94 null P Fernandez null null matched with PmrthJYk66cJ null PM Fernandez null null
+conf/sigmod/AltinelABFSZ99 null M Altinel, D Aksoy, T Baby, M Franklin, W Shapiro, S Zdonik null null matched with ebmulQBhqZEJ null M Altinel, D Aksoy, T Baby, M Franklin, W Shapiro,  null null
+conf/vldb/GoldsteinR00 null J Goldstein, R Ramakrishnan null null matched with ylZFc8RNoeQJ null J Goldstein, R Ramakrishnan null null
+conf/vldb/ChaHKK01 null S Cha, S Hwang, K Kim, K Kwon null null matched with VyOa5Uqsj6AJ null SK Cha, S Hwang, K Kim, K Kwon null null
+conf/sigmod/Keim99 null D Keim null null matched with GBZiTCbChZQJ null DA Keim null null
+conf/vldb/Baumann03 null P Baumann null null matched with pJ2UEKVG_hoJ null P Baumann null null
+conf/vldb/YanL95 null W Yan, P Larson null null matched with VwsS71_KQX8J null WP Yan, PA Larson null null
+conf/vldb/LakshmananPH02 null L Lakshmanan, J Pei, J Han null null matched with _hNiD_QLDdAJ null LVS Lakshmanan, J Pei, J Han null null
+conf/sigmod/CookWZ94 null J Cook, A Wolf, B Zorn null null matched with LiIWlw3oNgUJ null JE Cook, AL Wolf, BG Zorn null null
+conf/vldb/KoudasIM00 null P Indyk, N Koudas, S Muthukrishnan null null matched with VSR4PwHmGWsJ null P Indyk, N Koudas, S Muthukrishnan null null
+journals/tods/KarpSP03 null R Karp, S Shenker, C Papadimitriou null null matched with mAQIVsd2VOMJ null RM Karp, S Shenker, CH Papadimitriou null null
+journals/sigmod/Widom94 null J Widom null null matched with lAbG3uFZvVUJ null J Widom null null
+conf/sigmod/LiVCAHMWBCHIKSS99 null W Li, Q Vu, E Chang, D Agrawal, K Hirata, S Mukherjea, Y Wu, C Bufi, K Chang, Y Hara, R Ito, Y Kimura, K Shimazu, Y Saito null null matched with P25_yh3lBhoJ null WS Li, Q Vu, D Agrawal, Y Hara, H Takano null null
+conf/vldb/DarFJST96 null S Dar, M Franklin, B Jónsson, D Srivastava, M Tan null null matched with gkbM-pRDcSwJ null S Dar, MJ Franklin null null
+conf/vldb/PapadiasZMT03 null D Papadias, J Zhang, N Mamoulis, Y Tao null null matched with hJ8VP7FyOL0J null D Papadias, J Zhang, N Mamoulis, Y Tao null null
+conf/vldb/UrhanF01 null T Urhan, M Franklin null null matched with 0-FUXURm1FQJ null T Urhan, MJ Franklin null null
+conf/sigmod/ChaudhuriMN98 null S Chaudhuri, R Motwani, V Narasayya null null matched with hvMTb3FYOjQJ null S Chaudhuri, R Motwani, V Narasayya null null
+conf/vldb/KemperK94 null A Kemper, D Kossmann null null matched with qUfWV4VVxegJ null A Kemper, D Kossmann null null
+journals/sigmod/ChaudhuriD97 null S Chaudhuri, U Dayal null null matched with zlbJ-7JZdP0J null S Chaudhuri, U Dayal null null
+conf/vldb/LifantsevC02 null M Lifantsev, T Chiueh null null matched with gPvyDDUyrg4J null M Lifantsev, T Chiueh null null
+journals/vldb/RamakrishnanSSS94 null R Ramakrishnan, D Srivastava, S Sudarshan, P Seshadri null null matched with rgA2DgNVPBUJ null R Ramakrishnan, D Srivastava, S Sudarshan, P   null null
+journals/sigmod/CabreraLM01 null J Cabrera, L Lewis, R Mehra null null matched with b201QeqnlNkJ null JBD Cabrera, L Lewis, RK Mehra null null
+conf/vldb/DeWittKLPY94 null D DeWitt, N Kabra, J Luo, J Patel, J Yu null null matched with cehAAlTq4s8J null DJ DeWitt, N Kabra, J Luo, JM Patel, JB Yu null null
+conf/sigmod/JosifovskiSHL02 null V Josifovski, P Schwarz, L Haas, E Lin null null matched with xA9KNostV4cJ null V Josifovski, PM Schwarz null null
+conf/sigmod/ShatdalN95 null A Shatdal, J Naughton null null matched with nbU59lK7JJYJ null A Shatdal, JF Naughton null null
+conf/sigmod/CorralMTV00 null A Corral, Y Manolopoulos, Y Theodoridis, M Vassilakopoulos null null matched with TsShfxPwF6YJ null A Corral, Y Manolopoulos, Y Theodoridis, M   null null
+journals/vldb/MecellaP01 null M Mecella, B Pernici null null matched with _JwGwZUTAOEJ null M Mecella, B Pernici null null
+conf/vldb/YuPM03 null C Yu, G Philip, W Meng null null matched with ZEEZqsnVCyYJ null C Yu, G Philip, W Meng null null
+conf/sigmod/GarofalakisI96 null M Garofalakis, Y Ioannidis null null matched with MfPbk62EdyQJ null MN Garofalakis, YE Ioannidis null null
+journals/tods/Lerner00 null B Lerner null null matched with ETqxTcvf7K4J null BS Lerner null null
+conf/sigmod/GreenwaldK01 null M Greenwald, S Khanna null null matched with 8but_7FuryIJ null M Greenwald, S Khanna null null
+conf/vldb/AbiteboulBMMW02 null S Abiteboul, O Benjelloun, I Manolescu, T Milo, R Weber null null matched with mm3mXWb8QS0J null S Abiteboul, O Benjelloun, I Manolescu, T Milo, R   null null
+conf/vldb/ZhangL97 null W Zhang, P Larson null null matched with QGopit06CLEJ null W Zhang, PA Larson null null
+conf/sigmod/PoosalaIHS96 null V Poosala, Y Ioannidis, P Haas, E Shekita null null matched with hHGQKstQ2PQJ null V Poosala, EJ Shekita null null
+journals/vldb/Li03 null C Li null null matched with HlXyqUIDobMJ null C Li null null
+conf/vldb/ChungCLL01 null S Chun, C Chung, J Lee, S Lee null null matched with mJiDvbtTKWoJ null SJ Chun, CW Chung, JH Lee, SL Lee null null
+conf/vldb/GarofalakisRS99 null M Garofalakis, R Rastogi, K Shim null null matched with Xm3ygCvkmN8J null M Garofalakis, R Rastogi, K Shim null null
+conf/vldb/SarawagiS96 null S Sarawagi, M Stonebraker null null matched with GzBmx-QUxFYJ null S Sarawagi, M Stonebraker null null
+conf/vldb/LuTD95 null H Lu, K Tan, S Dao null null matched with qX-uYKXVk7EJ null H Lu, KL Tan, S Dao null null
+conf/vldb/LuSL95 null H Lu, R Setiono, H Liu null null matched with h7_7SZrI7M0J null H Lu, R Setiono, H Liu null null
+conf/vldb/MatiasVW00 null Y Matias, J Vitter, M Wang null null matched with 7SeTnikjovEJ null Y Matias, JS Vitter, M Wang null null
+conf/vldb/Hamilton99 null J Hamilton null null matched with _zPTedzhFhQJ null J Hamilton null null
+conf/sigmod/HristidisKP01 null V Hristidis, N Koudas, Y Papakonstantinou null null matched with mg9ABNG06O4J null V Hristidis, N Koudas, Y Papakonstantinou null null
+journals/sigmod/DreyerDS94 null W Dreyer, A Dittrich, D Schmidt null null matched with GCf11c7YuucJ null W Dreyer, AK Dittrich, D Schmidt null null
+conf/vldb/IoannidisP99 null Y Ioannidis, V Poosala null null matched with umrivnVIoj0J null YE Ioannidis, V Poosala null null
+conf/sigmod/AndersonBKW98 null T Anderson, Y Breitbart, H Korth, A Wool null null matched with j6v2b9hN-R4J null T Anderson, Y Breitbart, HF Korth, A Wool null null
+conf/vldb/ChoG00 null J Cho, H Garcia-Molina null null matched with 9MI4jOOqkn4J null J Cho, H Garcia-Molina null null
+conf/sigmod/JagadishLS99 null H Jagadish, L Lakshmanan, D Srivastava null null matched with uXZXfQgn4doJ null HV Jagadish, D Srivastava null null
+journals/sigmod/JukicV97 null N Jukic, S Vrbsky null null matched with yZbJS0Cd6cAJ null NA Jukic, SV Vrbsky null null
+conf/vldb/HuebschHLLSS03 null R Huebsch, J Hellerstein, N Lanham, B Loo, S Shenker, I Stoica null null matched with 7y9SomIIAG0J null R Huebsch, JM Hellerstein, N Lanham, BT Loo, S   null null
+journals/sigmod/Chen94 null A Chen null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D187460%26type%3Dpdf%26coll%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null ALP Chen null null
+conf/vldb/BernsteinHJRW00 null P Bernstein, L Haas, M Jarke, E Rahm, G Wiederhold null null matched with KlPsHutXQi8J null PA Bernstein null null
+conf/vldb/Huyn97 null N Huyn null null matched with 9OYLimeDdj0J null N Huyn null null
+conf/sigmod/ChakrabartiDI98 null S Chakrabarti, B Dom, P Indyk null null matched with qtVVVrzTLr4J null S Chakrabarti, B Dom null null
+conf/vldb/MiloZ98 null T Milo, S Zohar null null matched with Nd7-CTB1lRgJ null T Milo, S Zohar null null
+conf/vldb/ZhouLZLZJT01 null A Zhou, H Lu, S Zheng, Y Liang, L Zhang, W Ji, Z Tian null null matched with fJQ7Col2vYsJ null A Zhou, H Lu, S Zheng null null
+journals/vldb/HuntAI02 null E Hunt, M Atkinson, R Irving null null matched with LiYp5oaDwbMJ null E Hunt, MP Atkinson, RW Irving null null
+conf/sigmod/FegarasM95 null L Fegaras, D Maier null null matched with LSWVPfB8TC4J null L Fegaras, D Maier null null
+conf/vldb/GarofalakisIO98 null M Garofalakis, Y Ioannidis, B Özden null null matched with ReV4xpbiC6EJ null MN Garofalakis, YE Ioannidis, B Oezden null null
+conf/vldb/HalversonBKKRTVWND03 null A Halverson, J Burger, L Galanis, A Kini, R Krishnamurthy, A Rao, F Tian, S Viglas, Y Wang, J Naughton, D DeWitt null null matched with oR7DmJ9JJDYJ null A Halverson, J Burger, L Galanis, A Kini, R   null null
+conf/vldb/AbrolLMMMRTWZ01 null M Abrol, N Latarche, U Mahadevan, J Mao, R Mukherjee, P Raghavan, M Tourn, J Wang, G Zhang null null matched with w9Ma-YjZHYkJ null M Abrol, N Latarche, U Mahadevan, J Mao, R   null null
+conf/vldb/Bowker00 null G Bowker null null matched with fAHjV8C1hLcJ null GC Bowker null null
+conf/vldb/Greco98 null S Greco null null matched with CCr8CUlHeNsJ null S Greco null null
+conf/sigmod/Chan98 null A Chan null null matched with oo2mr5fbMggJ null A Chan null null
+conf/vldb/AnkerstBKS98 null M Ankerst, B Braunmüller, H Kriegel, T Seidl null null matched with DbLGmJX7UJ8J null M Ankerst, B Braunmueller, HP Kriegel, T Seidl null null
+conf/vldb/PereiraFLS00 null J Pereira, F Fabret, F Llirbat, R Preotiuc-Pietro, K Ross, D Shasha null null matched with KAW0nLm2wVAJ null J Pereira, F Fabret, F Llirbat, R Preotiuc-Pietro,  null null
+conf/sigmod/BrunoCG01 null N Bruno, S Chaudhuri, L Gravano null null matched with 8KJ9XFv1ESAJ null N Bruno, S Chaudhuri, L Gravano null null
+conf/vldb/IyerW94 null B Iyer, D Wilhite null null matched with 5smJVUm1KAYJ null BR Iyer, D Wilhite null null
+journals/sigmod/YanG95 null T Yan, H Garcia-Molina null null matched with tMXkkRDxvkQJ null TW Yan, H Garcia-Molina null null
+journals/sigmod/WolfsonSDNR95 null O Wolfson, A Sistla, S Dao, K Narayanan, R Raj null null matched with R51Yi7sWJ6EJ null O Wolfson, P Sistla, S Dao null null
+conf/vldb/DidriksenGD95 null T Didriksen, C Galindo-Legaria, E Dahle null null matched with 0TNJ5d1tfkEJ null T Didriksen null null
+conf/sigmod/KornackerMH97 null M Kornacker, C Mohan, J Hellerstein null null matched with O81USJg2EhwJ null M Kornacker null null
+journals/sigmod/Fagin02 null R Fagin null null matched with C3swZi1md5YJ null R Fagin null null
+conf/sigmod/HanPDW01 null J Han, J Pei, G Dong, K Wang null null matched with ue3gCyIirokJ null J Han, J Pei, G Dong, K Wang null null
+journals/sigmod/WinslettCDHZZ02 null M Winslett, K Chang, A Doan, J Han, C Zhai, Y Zhou null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D601881%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null M Winslett, KCC Chang, AH Doan, J Han, C Zhai, Y   null null
+conf/vldb/StohrMR00 null T Stöhr, H Märtens, E Rahm null null matched with 7fCRAqLTNeUJ null T Stoehr, H Maertens, E Rahm null null
+conf/vldb/George98 null F George null null matched with xACnzf6RhVwJ null FAW George null null
+journals/vldb/AntoshenkovZ96 null G Antoshenkov, M Ziauddin null null matched with N8syKKPN6IoJ null G Antoshenkov, M Ziauddin null null
+conf/sigmod/JagadishKS00 null H Jagadish, N Koudas, D Srivastava null null matched with OZRYdxoJqXMJ null HV Jagadish null null
+conf/sigmod/SagonasSW94a null K Sagonas, T Swift, D Warren null null matched with nDGblldnEGAJ null K Sagonas, T Swift, DS Warren null null
+journals/sigmod/BarclayBGS94 null T Barclay, R Barnes, J Gray, P Sundaresan null null matched with wPhDoeiINQsJ null T Barclay, R Barnes, J Gray, P Sundaresan null null
+journals/tods/RaschidL96 null L Raschid, J Lobo null null matched with rUpu2pcFa8cJ null L Raschid, J Lobo null null
+conf/sigmod/LibkinMW96 null L Libkin, R Machlin, L Wong null null matched with OfZWx8jhQvwJ null L Libkin null null
+journals/sigmod/FreemanG96 null E Freeman, D Gelernter null null matched with Em3qp7RGalkJ null E Freeman, D Gelernter null null
+conf/vldb/ChaudhuriG99 null S Chaudhuri, L Gravano null null matched with l-Sn0enuHxkJ null S Chaudhuri, L Gravano null null
+journals/sigmod/ShinM94 null D Shin, A Meltzer null null matched with hnpTcGMYR80J null DK Shin, AC Meltzer null null
+conf/vldb/Slutz98 null D Slutz null null matched with 1blbGQk5ZpUJ null DR Slutz null null
+conf/vldb/PoosalaI97 null V Poosala, Y Ioannidis null null matched with negC_a7QQnMJ null V Poosala, YE Ioannidis null null
+conf/vldb/MargaritisFT01 null D Margaritis, C Faloutsos, S Thrun null null matched with z2EsEsrBfsYJ null D Margaritis, C Faloutsos, S Thrun null null
+journals/vldb/MihailaRT02 null G Mihaila, L Raschid, A Tomasic null null matched with my7mYCzEEJAJ null GA Mihaila, L Raschid, A Tomasic null null
+conf/vldb/CohenMKS03 null S Cohen, J Mamou, Y Kanza, Y Sagiv null null matched with gRoNHWLN1WMJ null S Cohen, J Mamou, Y Kanza, Y Sagiv null null
+journals/sigmod/BrunieK96 null L Brunie, H Kosch null null matched with spI2g7jFHuYJ null L Brunie, H Kosch null null
+conf/sigmod/ChaudhuriDN01 null S Chaudhuri, G Das, V Narasayya null null matched with qfohkpyTawoJ null S Chaudhuri, G Das, V Narasayya null null
+conf/vldb/ShengBDM02 null Q Sheng, B Benatallah, M Dumas, E Mak null null matched with 6GxdJ4jZUokJ null QZ Sheng, B Benatallah, M Dumas, EOY Mak null null
+journals/sigmod/Manola98 null F Manola null null matched with VIjfH9f94xkJ null F Manola null null
+conf/sigmod/ShintaniK98 null T Shintani, M Kitsuregawa null null matched with JfxEos8BQDAJ null T Shintani, M Kitsuregawa null null
+journals/tods/SalemGS94 null K Salem, H Garcia-Molina, J Shands null null matched with 7IBL1cudvR0J null K Salem, H Garcia-Molina, J Shands null null
+conf/vldb/LabioYCGW00 null W Labio, J Yang, Y Cui, H Garcia-Molina, J Widom null null matched with -UILVcP4CZ8J null W Labio, J Yang, Y Cui, H Garcia-Molina, J Widom null null
+journals/sigmod/AbelTK97 null D Abel, K Taylor, D Kuo null null matched with yK-yqVAiXekJ null DJ Abel, K Taylor, D Kuo null null
+journals/vldb/ShanmugasundaramSBCLPR01 null J Shanmugasundaram, E Shekita, R Barr, M Carey, B Lindsay, H Pirahesh, B Reinwald null null matched with HKM-zP0LT_UJ null J Shanmugasundaram, E Shekita, R Barr, M Carey, B   null null
+conf/vldb/GantiLR00 null V Ganti, M Lee, R Ramakrishnan null null matched with V7byawkFcZMJ null V Ganti, ML Lee, R Ramakrishnan null null
+journals/sigmod/ChangGKRS98 null S Chang, L Gravano, G Kaiser, K Ross, S Stolfo null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D290607%26type%3Dpdf%26dl%3Dportal%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null SF Chang, L Gravano, GE Kaiser, KA Ross, SJ Stolfo null null
+conf/vldb/Moerkotte98 null G Moerkotte null null matched with HcCevkoobDsJ null G Moerkotte null null
+journals/vldb/JagadishKNS00 null H Jagadish, O Kapitskaia, R Ng, D Srivastava null null matched with GtXc02EJjCgJ null HV Jagadish, O Kapitskaia, RT Ng, D Srivastava null null
+conf/sigmod/LiuHBPT99 null L Liu, W Han, D Buttler, C Pu, W Tang null null matched with PKQ1dCQIwi0J null L Liu, W Han, D Buttler, C Pu, W Tang null null
+conf/sigmod/ChakrabartiM99 null K Chakrabarti, S Mehrotra null null matched with Jg81WYtxtZoJ null K Chakrabarti, S Mehrotra null null
+conf/sigmod/Kim94 null W Kim null null matched with GzJII5F7OzAJ null W Kim null null
+conf/vldb/SchieferKBLF98 null K Schiefer, J Kleewein, K Brannon, G Lohman, G Fuh null null matched with 1LATgSt5o_EJ null KB Schiefer, J Kleewein, K Brannon, GM Lohman, G   null null
+conf/vldb/HulgeriS02 null A Hulgeri, S Sudarshan null null matched with xGcM9AuhrBMJ null A Hulgeri, S Sudarshan null null
+journals/sigmod/Qian95b null X Qian null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D219772%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null X Qian null null
+journals/vldb/LeeSC01 null C Lee, C Shih, Y Chen null null matched with Hz_TU6kUj08J null C Lee, CS Shih, YH Chen null null
+conf/sigmod/LiuPTBBZBHY98 null L Liu, C Pu, W Tang, D Buttler, J Biggs, T Zhou, P Benninghoff, W Han, F Yu null null matched with ezlAkB7ijDUJ null L Liu, C Pu, W Tang, D Buttler, J Biggs, T Zhou, W  null null
+conf/vldb/PereiraFJLS01 null J Pereira, F Fabret, H Jacobsen, F Llirbat, D Shasha null null matched with Cd6A4nsDnkQJ null J Pereira, F Fabret, D Shasha null null
+journals/tods/WinslettSQ94 null M Winslett, K Smith, X Qian null null matched with lvZTVlP7s7oJ null M Winslett, K Smith, X Qian null null
+conf/vldb/LabioG96 null W Labio, H Garcia-Molina null null matched with B3unqvqyJrMJ null W Labio, H Garcia-Molina null null
+conf/vldb/WhiteheadSM97 null S Whitehead, H Sinha, M Murphy null null matched with CiYPfP3-5_kJ null S Whitehead, H Sinha, M Murphy null null
+journals/sigmod/FininJ02 null T Finin, A Joshi null null matched with rg8576nvnkUJ null T Finin, A Joshi null null
+conf/vldb/ChangG97 null E Chang, H Garcia-Molina null null matched with 2SYiXa0vGN4J null E Chang, H Garcia-Molina null null
+conf/vldb/MeoPC96 null R Meo, G Psaila, S Ceri null null matched with Opm5VlTzQTAJ null R Meo null null
+journals/sigmod/CheungF98 null K Cheung, A Fu null null matched with ig7B9agTOMAJ null KL Cheung, AWC Fu null null
+conf/sigmod/LuWYBLY02 null H Lu, G Wang, G Yu, Y Bao, J Lv, Y Yu null null matched with JKQ1qE-naxQJ null H Lu, G Wang, G Yu, Y Bao, J Lv, Y Yu null null
+conf/vldb/RisheYACLMVSV00 null N Rishe, J Yuan, R Athauda, S Chen, X Lu, X Ma, A Vaschillo, A Shaposhnikov, D Vasilevsky null null matched with 0WYMHga_bt4J null N Rishe, J Yuan, R Athauda, SC Chen, X Lu, X Ma, A  null null
+journals/sigmod/Baeza-YatesN96 null R Baeza-Yates, G Navarro null null matched with 1avO1fqtQ6QJ null R Baeza-Yates, G Navarro null null
+conf/vldb/LakshmananPZ03 null L Lakshmanan, J Pei, Y Zhao null null matched with zbzO-4fuIwUJ null LVS Lakshmanan, J Pei, Y Zhao null null
+conf/sigmod/OlstonWL01 null C Olston, B Loo, J Widom null null matched with I_YprPVQ45QJ null C Olston, BT Loo, J Widom null null
+conf/vldb/DeenJNNW00 null S Deen, A Jhingran, S Navathe, E Neuhold, G Wiederhold null null matched with jpJMa9UNggoJ null SM Deen null null
+conf/vldb/KornackerB95 null M Kornacker, D Banks null null matched with IN_sibgHb9MJ null M Kornacker, D Banks null null
+conf/sigmod/PopaDST00 null L Popa, A Deutsch, A Sahuguet, V Tannen null null matched with gAwckIiPpTEJ null L Popa null null
+conf/vldb/SrinivasanDFCJYKTDB00 null J Srinivasan, S Das, C Freiwald, E Chong, M Jagannath, A Yalamanchi, R Krishnan, A Tran, S DeFazio, J Banerjee null null matched with RmyORCW6qn8J null J Srinivasan, S Das, C Freiwald, EI Chong, M   null null
+journals/sigmod/RisheSBDOALOSS95 null N Rishe, W Sun, D Barton, Y Deng, C Orji, M Alexopoulos, L Loureiro, C 0002, M Sanchez, A Shaposhnikov null null matched with pGU2Ew1AQkoJ null N Rishe, A Shaposhnikov, W Sun, D Barton, Y Deng,   null null
+conf/vldb/BettiniJWW02 null C Bettini, S Jajodia, X Wang, D Wijesekera null null matched with ghIMekzCkMQJ null C Bettini, S Jajodia, XS Wang, D Wijesekera null null
+conf/vldb/JagadishLRSS94 null H Jagadish, D Lieuwen, R Rastogi, A Silberschatz, S Sudarshan null null matched with Yiwh22hbTAcJ null HV Jagadish, D Lieuwen, R Rastogi null null
+journals/tods/DiaoAFZF03 null Y Diao, M Altinel, M Franklin, H Zhang, P Fischer null null matched with fREDZIbZVdEJ null Y Diao, M Altinel, MJ Franklin, H Zhang, P Fischer null null
+conf/vldb/ParkMC02 null C Park, J Min, C Chung null null matched with WFmae47kgN4J null CW Park, JK Min, CW Chung null null
+journals/sigmod/Finkelstein95 null R Finkelstein null null matched with gbnxN3MpucMJ null R Finkelstein null null
+conf/vldb/SteenhagenABB94 null H Steenhagen, P Apers, H Blanken, R By null null matched with Xr2RguUzt-gJ null HJ Steenhagen, PMG Apers, HM Blanken, RA De By null null
+conf/vldb/RizviH02 null S Rizvi, J Haritsa null null matched with 3ku_XOqYuawJ null SJ Rizvi, JR Haritsa null null
+journals/sigmod/GuptaHR97 null A Gupta, V Harinarayan, A Rajaraman null null matched with -ha8fD8Kj_oJ null A Gupta, V Harinarayan, A Rajaraman null null
+conf/sigmod/YuMWL01 null C Yu, W Meng, W Wu, K Liu null null matched with h95306-8rjEJ null C Yu, W Meng, W Wu, KL Liu null null
+conf/vldb/SumiyaYTSI95 null K Sumiya, K Yasutake, H Tanaka, N Sanada, Y Imai null null matched with ZoMjwB0ps2kJ null K Sumiya, K Yasutake, H Tanaka, N Sanada null null
+conf/vldb/Gawlick96 null D Gawlick null null matched with Y5OJk6_D-ZUJ null D Gawlick null null
+journals/sigmod/Roussopoulos98 null N Roussopoulos null null matched with GfjHZswtM0EJ null N Roussopoulos null null
+conf/sigmod/NguyenS96 null T Nguyen, V Srinivasan null null matched with Cd4NNuZnIn8J null T Nguyen, V Srinivasan null null
+journals/sigmod/AdelbergKG96 null B Adelberg, B Kao, H Garcia-Molina null null matched with GfiQygac5twJ null B Adelberg, B Kao, H Garcia-Molina null null
+conf/vldb/DiligentiCLGG00 null M Diligenti, F Coetzee, S Lawrence, C Giles, M Gori null null matched with XCP3p-Hk8bMJ null M Diligenti, F Coetzee, S Lawrence, CL Giles, M   null null
+journals/vldb/ChakrabartiGRS01 null K Chakrabarti, M Garofalakis, R Rastogi, K Shim null null matched with PTmCbogNUpAJ null K Chakrabarti, M Garofalakis, R Rastogi, K Shim null null
+journals/sigmod/CampbellEM03 null C Campbell, A Eisenberg, J Melton null null matched with N9u28V6NZTIJ null CE Campbell, J Melton null null
+conf/vldb/MaratheS97 null A Marathe, K Salem null null matched with vBUROMKYmQYJ null AP Marathe, K Salem null null
+conf/vldb/McKennaBHT96 null W McKenna, L Burger, C Hoang, M Truong null null matched with 0tZaTV3W05wJ null WJ McKenna, L Burger, C Hoang, M Truong null null
+conf/vldb/BouganimFV96 null L Bouganim, D Florescu, P Valduriez null null matched with TiffIV1Y6AMJ null L Bouganim, D Florescu, P Valduriez null null
+conf/sigmod/SeshadriLR94 null P Seshadri, M Livny, R Ramakrishnan null null matched with 60I0j0qUHVYJ null P Seshadri, M Livny, R Ramakrishnan null null
+conf/sigmod/DavulcuFKR99 null H Davulcu, J Freire, M Kifer, I Ramakrishnan null null matched with TDyW6V4cc7MJ null H Davulcu, J Freire null null
+journals/tods/GunopulosKMSTS03 null D Gunopulos, R Khardon, H Mannila, S Saluja, H Toivonen, R Sharm null null matched with -q1BFuUI27EJ null D Gunopulos, R Khardon, H Mannila, S Saluja, H   null null
+conf/vldb/YanG95 null T Yan, H Garcia-Molina null null matched with lr_Kq9SZLY8J null TW Yan, H Garcia-Molina null null
+journals/tods/BrunoCG02 null N Bruno, S Chaudhuri, L Gravano null null matched with tkCWrg5OsIwJ null N Bruno, S Chaudhuri, L Gravano null null
+conf/sigmod/SubramanianV98 null S Subramanian, S Venkataraman null null matched with KxwymZ2AGNQJ null SN Subramanian, S Venkataraman null null
+conf/sigmod/ChenR94 null C Chen, N Roussopoulos null null matched with 4Hhh-d__bksJ null CM Chen, N Roussopoulos null null
+journals/tods/LiC01 null C Li, E Chang null null matched with _gwfttQaTEkJ null C Li, E Chang null null
+conf/vldb/OuzzaniAB94 null M Ouzzani, M Atroun, N Belkhodja null null matched with CgoUJ7DogcwJ null M Ouzzani, MA Atroun, NL Belkhodja null null
+journals/sigmod/Yang94 null L Yang null null matched with sHJ914nPZtUJ null L Yang null null
+conf/sigmod/WaasG00 null F Waas, C Galindo-Legaria null null matched with xnoCdNeQykAJ null F Waas, C Galindo-Legaria null null
+conf/sigmod/Meseck01 null R Meseck null null matched with hWiIngXs5I0J null RM Meseck null null
+journals/sigmod/Hoffner03 null V Hoffner null null matched with url:http://portal.acm.org/citation.cfm%3Fid%3D776985.776995%26coll%3DGUIDE%26dl%3DACM%26idx%3DJ689%26part%3Dperiodical%26WantType%3Dperiodical%26title%3DACM%2520SIGMOD%2520Record%26CFID%3D11111111%26CFTOKEN%3D2222222 null V Hoffner null null
+conf/sigmod/MistryRSR01 null H Mistry, P Roy, S Sudarshan, K Ramamritham null null matched with r62IMncHe0IJ null H Mistry, P Roy, S Sudarshan, K Ramamritham null null
+conf/vldb/GoldmanW97 null R Goldman, J Widom null null matched with 3zf3WSt0B6UJ null R Goldman, J Widom null null
+conf/sigmod/SagonasSW94 null K Sagonas, T Swift, D Warren null null matched with 0hHYO7tQJUgJ null KST Swift, DS Warren null null
+journals/tods/EiterGM97 null T Eiter, G Gottlob, H Mannila null null matched with WXWcO2ulDQUJ null T Eiter, G Gottlob, H Mannila null null
+conf/sigmod/DewanSHH94 null H Dewan, S Stolfo, M Hernández, J Hwang null null matched with GUdXGx4blW8J null HM Dewan, SJ Stolfo, M Hernandez, JJ Hwang null null
+conf/vldb/LeeWMS02 null Y Lee, K Whang, Y Moon, I Song null null matched with c-MP8R47zVIJ null YK Lee, KY Whang, YS Moon, IY Song null null
+conf/vldb/WaasCB01 null I Bartolini, P Ciaccia, F Waas null null matched with y_gKGtzupHIJ null I Bartolini, P Ciaccia, F Waas null null
+conf/sigmod/BilirisP94 null A Biliris, E Panagos null null matched with KYhmilHkq_IJ null A Biliris, E Panagos null null
+conf/vldb/GuPS00 null J Gu, T Pedersen, A Shoshani null null matched with mRWLGqueLNsJ null J Gu, TB Pedersen, A Shoshani null null
+conf/vldb/GionisIM99 null A Gionis, P Indyk, R Motwani null null matched with A8rGBQif7MIJ null A Gionis, P Indyk, R Motwani null null
+conf/vldb/StohrR01 null T Stöhr, E Rahm null null matched with jn3pvb3hRzwJ null T Stoehr, E Rahm null null
+conf/vldb/RaghavanG01 null S Raghavan, H Garcia-Molina null null matched with LcX8Pm2ABJsJ null S Raghavan, H Garcia-Molina null null
+conf/sigmod/AtzeniT97 null P Atzeni, R Torlone null null matched with i2LI1TWifbYJ null P Atzeni, R Torlone null null
+journals/sigmod/SchmidtWKFCMB01 null A Schmidt, F Waas, M Kersten, D Florescu, M Carey, I Manolescu, R Busse null null matched with fc8y9x82jqAJ null A Schmidt, F Waas, M Kersten, D Florescu, MJ Carey  null null
+journals/vldb/DoanMDDH03 null A Doan, J Madhavan, R Dhamankar, P Domingos, A Halevy null null matched with HmE1BtE68dYJ null AH Doan, J Madhavan, R Dhamankar, P Domingos, A   null null
+journals/sigmod/Eisenberg96 null A Eisenberg null null matched with tFbkjO2wcFMJ null A Eisenberg null null
+conf/vldb/CareyKRLABFLOPQRSSUVWY01 null M Carey, S Kirsch, M Roth, B Linden, N Adiba, M Blow, D Florescu, D Li, I Oprencak, R Panwar, R Qi, D Rieber, J Shafer, B Sterling, T Urhan, B Vickery, D Wineman, K Yee null null matched with _pAcjtd1nbEJ null M Carey, S Kirsch, M Roth, B Van der Linden, N   null null
+conf/sigmod/ZhaoDNS98 null Y Zhao, P Deshpande, J Naughton, A Shukla null null matched with mBC03oUT8yAJ null Y Zhao, P Deshpande, JF Naughton, A Shukla null null
+journals/sigmod/KoksalAD98 null P Koksal, S Arpinar, A Dogac null null matched with enYoi4XT7n0J null P Koksal, SN Arpinar, A Dogac null null
+conf/vldb/Graefe99 null G Graefe null null matched with 3m-KKBVF8KkJ null G Graefe null null
+conf/sigmod/LarsonG98 null P Larson, G Graefe null null matched with QmBz3hMOFh4J null PA Larson null null
+conf/vldb/HelmerM97 null S Helmer, G Moerkotte null null matched with xsh0C_nCllsJ null S Helmer, G Moerkotte null null
+conf/vldb/PedersenJD99 null T Pedersen, C Jensen, C Dyreson null null matched with sAUncbolYJ8J null TB Pedersen, CS Jensen, CE Dyreson null null
+conf/sigmod/VossenW99 null G Vossen, M Weske null null matched with 9PhYz-N58A8J null G Vossen, M Weske null null
+journals/sigmod/GobleR02a null C Goble, D Roure null null matched with B-u4advaVBkJ null C Goble null null
+journals/vldb/Navarro02 null G Navarro null null matched with UDQsHc_ps4IJ null G Navarro null null
+journals/sigmod/MedskerCS95 null C Medsker, M Christensen, I Song null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D202673%26type%3Dpdf%26coll%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null C Medsker, M Christensen, IY Song null null
+conf/sigmod/Jagadish94 null H Jagadish null null matched with eH69_dCm18wJ null HV Jagadish null null
+conf/vldb/MohaniaS94 null M Mohania, N Sarda null null matched with JORYEDHKYSMJ null MK Mohania, NL Sarda null null
+conf/sigmod/CallanCD99 null J Callan, M Connell, A Du null null matched with eWVreKOw_QgJ null J Callan, M Connell, A Du null null
+conf/sigmod/LiYVGPUV98 null C Li, R Yerneni, V Vassalos, H Garcia-Molina, Y Papakonstantinou, J Ullman, M Valiveti null null matched with 6jeHlSgjCskJ null C Li, R Yerneni, V Vassalos, H Garcia-Molina, Y   null null
+journals/sigmod/MalaikaEM03 null S Malaika, A Eisenberg, J Melton null null matched with OGh0R54BW0MJ null S Malaika null null
+conf/vldb/ChoN02 null J Cho, A Ntoulas null null matched with 4tTQJrG4pn8J null J Cho, A Ntoulas null null
+conf/vldb/PellenkoftLK97 null A Pellenkoft, C Galindo-Legaria, M Kersten null null matched with 793XPMTdcBEJ null A Pellenkoft, CA Galindo-Legaria, M Kersten null null
+journals/tods/FegarasM00 null L Fegaras, D Maier null null matched with eCQjRu0EiagJ null L Fegaras, D Maier null null
+journals/sigmod/Eisenberg96 null A Eisenberg null null matched with ODNMCIJO6xMJ null A Eisenherg null null
+conf/sigmod/ShouCTRH01 null L Shou, J Chionh, K Tan, Y Ruan, Z Huang null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D375755%26type%3Dpdf%26dl%3DGUIDE%26dl%3DGUIDE%26CFID%3D11111111%26CFTOKEN%3D2222222 null L Shou, CH Chionh, Z Huang, Y Ruan, KL Tan null null
+conf/vldb/ShuklaDNR96 null A Shukla, P Deshpande, J Naughton, K Ramasamy null null matched with vnezjPI8jYIJ null A Shukla, P Deshpande null null
+conf/vldb/PoosalaI96 null V Poosala, Y Ioannidis null null matched with NTlGMs3lqNEJ null V Poosala, YE Ioannidis null null
+conf/sigmod/DeshpandeRSN98 null P Deshpande, K Ramasamy, A Shukla, J Naughton null null matched with BXB96UFPHn8J null PM Deshpande, A Shukla null null
+conf/sigmod/ChangBCLLS00 null Y Chang, L Bergman, V Castelli, C Li, M Lo, J Smith null null matched with bqtRaOoJ87AJ null YC Chang, L Bergman, V Castelli, CS Li, ML Lo, JR   null null
+conf/vldb/LabrinidisR03 null A Labrinidis, N Roussopoulos null null matched with 0GMNedjfVV0J null A Labrinidis, N Roussopoulos null null
+conf/sigmod/WangSCRZP97 null J Wang, D Shasha, G Chang, L Relihan, K Zhang, G Patel null null matched with chcojj8yN1sJ null JTL Wang, GJS Chang null null
+conf/vldb/ShuklaDN98 null A Shukla, P Deshpande, J Naughton null null matched with 1eCp1f8DhasJ null A Shukla, P Deshpande, JF Naughton null null
+journals/sigmod/Loeffen94 null A Loeffen null null matched with gb-yIDOxaEkJ null A Loeffen null null
+conf/vldb/DongHLPW01 null G Dong, J Han, J Lam, J Pei, K Wang null null matched with C_H34ddegI8J null G Dong, J Han, J Lam, J Pei, K Wang null null
+conf/sigmod/RossSS96 null K Ross, D Srivastava, S Sudarshan null null matched with iurxdvB6oLAJ null KA Ross null null
+journals/tods/MumickFPR96 null I Mumick, S Finkelstein, H Pirahesh, R Ramakrishnan null null matched with kaZA2eBctgUJ null IS Mumick, SJ Finkelstein, H Pirahesh, R   null null
+journals/sigmod/Fankhauser01 null P Fankhauser null null matched with _sltXCfRKhYJ null P Fankhauser null null
+journals/vldb/LiCHH01 null W Li, K Candan, K Hirata, Y Hara null null matched with Tw8-f4saqb0J null WS Li, KS Candan, K Hirata, Y Hara null null
+conf/vldb/GardarinGT96 null G Gardarin, J Gruser, Z Tang null null matched with 4NKqwzC5A_wJ null G Gardarin, JR Gruser, ZH Tang null null
+conf/vldb/FuC94 null A Fu, D Cheung null null matched with ReboDjzo5y0J null AWC Fu, DWL Cheung null null
+journals/sigmod/ErdurD02 null R Erdur, O Dikenelli null null matched with 9OcrAEypDhMJ null RC Erclur, OO Dikenelli null null
+conf/sigmod/LahiriJJC98 null T Lahiri, A Josji, A Jasuja, S Chatterjee null null matched with qtwJ7XWG9JIJ null T Lahiri, A Joshi, A Jasuja, S Chatterjee null null
+journals/sigmod/DogacDKOONEHAKKM95 null A Dogac, C Dengi, E Kilic, G Özhan, F Ozcan, S Nural, C Evrendilek, U Halici, I Arpinar, P Koksal, N Kesim, S Mancuhan null null matched with UAO4T_2ylPkJ null A Dogac, E Kilic, G Ozhan, F Ozcan, S Nural, B   null null
+conf/vldb/Madnick95 null S Madnick null null matched with CVQyvLe8w38J null SE Madnick null null
+conf/vldb/Sheth96 null A Sheth null null matched with xoD5vxZQJ8AJ null A Sheth null null
+conf/vldb/ShethKMWDLPLS96 null A Sheth, K Kochut, J Miller, D Worah, S Das, C Lin, D Palaniswami, J Lynch, I Shevchenko null null matched with jWZkmgGziVoJ null A Sheth, K Kochut, J Miller, D Worah, S Das, C Lin  null null
+conf/vldb/Gibbons01 null P Gibbons null null matched with tYtl6ZxQ-_YJ null PB Gibbons null null
+journals/sigmod/PourabbasR02 null E Pourabbas, M Rafanelli null null matched with QyNfyYDySawJ null E Pourabbas, M Rafanelli null null
+conf/vldb/GuptaM96 null A Gupta, I Mumick null null matched with I83l_B0knOgJ null A Gupta, IS Mumick null null
+conf/vldb/McHughW99 null J McHugh, J Widom null null matched with bXRF6rASxhgJ null J McHugh, J Widom null null
+conf/vldb/FangSGMU98 null M Fang, N Shivakumar, H Garcia-Molina, R Motwani, J Ullman null null matched with MdwCZg0RBHYJ null M Fang, N Shivakumar, H Garcia-Molina, R Motwani,   null null
+conf/vldb/BernsteinD94 null P Bernstein, U Dayal null null matched with rNNtyNCgHLoJ null PA Bernstein, U Dayal null null
+conf/sigmod/BohmBKK01 null C Böhm, B Braunmüller, F Krebs, H Kriegel null null matched with C4XcBh6anhAJ null C Boehm, B Braunmueller, F Krebs, HP Kriegel null null
+conf/vldb/KornMS02 null F Korn, S Muthukrishnan, D Srivastava null null matched with mClzTQppJE4J null F Korn, S Muthukrishnan, D Srivastava null null
+conf/vldb/PapadiasTS03 null Y Tao, D Papadias, J Sun null null matched with TmcyYF1CNsYJ null Y Tao, D Papadias, J Sun null null
+conf/vldb/Vaskevitch95 null D Vaskevitch null null matched with s6Ax0WdZp6IJ null D Vaskevitch null null
+conf/vldb/CatozziR01 null J Catozzi, S Rabinovici null null matched with x_mqIy3GCmAJ null J Catozzi, S Rabinovici null null
+conf/sigmod/CruzJ99 null I Cruz, K James null null matched with vXMwU21-7HMJ null IF Cruz, KM James null null
+conf/vldb/ChenHWW02 null Y Chen, G Dong, J Han, B Wah, J Wang null null matched with kgXRJZKRxZQJ null Y Chen, G Dong, J Han, BW Wah, J Wang null null
+conf/sigmod/SlivinskasJS01 null G Slivinskas, C Jensen, R Snodgrass null null matched with oAVbM_vepr8J null G Slivinskas, CS Jensen, RT Snodgrass null null
+conf/vldb/BargaP95 null R Barga, C Pu null null matched with Rp6i1uA3RYQJ null RS Barga, C Pu null null
+conf/vldb/WangZL03 null H Wang, C Zaniolo, C Luo null null matched with tbuNzuDUSFYJ null H Wang, C Zaniolo, CR Luo null null
+conf/sigmod/FaloutsosSTT00 null C Faloutsos, B Seeger, A Traina, C Jr. null null matched with qsWDIfzBxiQJ null C Faloutsos, B Seeger, A Traina null null
+conf/sigmod/ChanI98 null C Chan, Y Ioannidis null null matched with VC7Jbwgn_O0J null CY Chan, YE Ioannidis null null
+journals/sigmod/Wiegand02 null N Wiegand null null matched with RAcoVQuEzD8J null N Wiegand null null
+conf/vldb/Wang95 null Y Wang null null matched with 7FUOWtSbiogJ null Y Wang null null
+conf/vldb/GarofalakisI97 null M Garofalakis, Y Ioannidis null null matched with -cCndG3a8ukJ null MN Garofalakis, YE Ioannidis null null
+conf/vldb/AboulnagaAN01 null A Aboulnaga, A Alameldeen, J Naughton null null matched with OBbDFGQNEDQJ null A Aboulnaga, AR Alameldeen, JF Naughton null null
+conf/vldb/SreenathS94 null B Sreenath, S Seshadri null null matched with sUcJBJwvKTUJ null B Sreenath null null
+conf/sigmod/BaruFGHJPW95 null C Baru, G Fecteau, A Goyal, H Hsiao, A Jhingran, S Padmanabhan, W Wilson null null matched with C60KJG_xVm0J null C Baru, G Fecteau, A Goyal, HI Hsiao, A Jhingran,   null null
+journals/tods/ShashaLSV95 null D Shasha, F Llirbat, E Simon, P Valduriez null null matched with 0aVKzjogLlAJ null D Shasha, F Llirbat, E Simon, P Valduriez null null
+conf/vldb/Suciu96 null D Suciu null null matched with D45fvUWVon0J null D Suciu null null
+conf/sigmod/GuptaMR95 null A Gupta, I Mumick, K Ross null null matched with ELtcV7mOQDgJ null A Gupta null null
+journals/sigmod/SonDT96 null S Son, R David, B Thuraisingham null null matched with 62uEWBKYqgoJ null SH Son, R David, B Thuraisingham null null
+conf/sigmod/LlirbatFS97 null F Llirbat, F Fabret, E Simon null null matched with hJiwQ2CQRBkJ null F Llirbat, F Fabret, E Simon null null
+conf/sigmod/KabraD98 null N Kabra, D DeWitt null null matched with V9XUvirmVEEJ null N Kabra, DJ DeWitt null null
+conf/vldb/BarjaPFWD94 null M Barja, N Paton, A Fernandes, M Williams, A Dinn null null matched with qhl9_KGvjcUJ null ML Barja, NW Paton, AAA Fernandes, MH Williams null null
+conf/sigmod/RajagopalanML98 null G Manku, S Rajagopalan, B Lindsay null null matched with wO6VeeLIXAsJ null GS Manku, S Rajagopalan, BG Lindsay null null
+conf/sigmod/YangWYH02 null J Yang, W Wang, P Yu, J Han null null matched with xsaovu54vl4J null J Yang, W Wang, PS Yu, J Han null null
+conf/vldb/TaoP02 null Y Tao, D Papadias null null matched with 7ZyV9ivZySQJ null Y Tao, D Papadias null null
+conf/vldb/RamsakMFZEB00 null F Ramsak, V Markl, R Fenk, M Zirkel, K Elhardt, R Bayer null null matched with 4fN0QEu0KeAJ null F Ramsak, V Markl, R Fenk, M Zirkel, K Elhardt, R   null null
+journals/sigmod/EisenbergM01 null A Eisenberg, J Melton null null matched with GKUflKzgAVEJ null A Eisenberg, J Melton null null
+conf/vldb/GravanoG95 null L Gravano, H Garcia-Molina null null matched with 4HVB6aRvsk8J null L Gravano, H Garcia-Molina null null
+journals/sigmod/ElmagarmidJF95 null A Elmagarmid, J Jing, T Furukawa null null matched with CJK2SWLYrRYJ null A Elmagarmid, J Jing, T Furukawa null null
+conf/vldb/Moni96 null M Moni null null matched with gbjXwFztQTsJ null M Moni null null
+journals/sigmod/HadzilacosT97 null T Hadzilacos, N Tryfona null null matched with a8YsBAmwFjoJ null T Hadzilacos, N Tryfona null null
+journals/sigmod/HummerLW02 null W Hümmer, W Lehner, H Wedekind null null matched with url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D507345%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222 null W Hthnmer, W Lehner, H Wedekind null null
+conf/sigmod/SeshadriHPLRSSS96 null P Seshadri, J Hellerstein, H Pirahesh, T Leung, R Ramakrishnan, D Srivastava, P Stuckey, S Sudarshan null null matched with 3OxZS395vDcJ null P Seshadri, JM Hellerstein, H Pirahesh, TYC Leung,  null null
+journals/vldb/Sarawagi01 null S Sarawagi null null matched with Xx6kw0tCeQIJ null S Sarawagi null null
+conf/vldb/CeriFP99 null S Ceri, P Fraternali, S Paraboschi null null matched with 8OrOAQnaveIJ null S Ceri, P Fraternali, S Paraboschi null null
+journals/sigmod/ChangASS98 null C Chang, A Acharya, A Sussman, J Saltz null null matched with CPzROuDNZqgJ null C Chang, A Acharya, A Sussman, J Saltz null null
+conf/vldb/JiangSLB00 null L Jiang, B Salzberg, D Lomet, M García null null matched with eZwzDZ7QhzoJ null L Jiang, B Salzberg null null
+journals/vldb/AguileraCMVV02 null V Aguilera, S Cluet, T Milo, P Veltri, D Vodislav null null matched with SdVmepmUgQIJ null V Aguilera, S Cluet, T Milo, P Veltri, D Vodislav null null
+journals/tods/ChomickiTB01 null J Chomicki, D Toman, M Böhlen null null matched with MqgSlx1jbPsJ null J Chomicki, D Toman, MH Bohlen null null
+conf/vldb/GingrasL98 null F Gingras, L Lakshmanan null null matched with 9rJeZSGswxYJ null F Gingras, LVS Lakshmanan null null
+conf/vldb/SatheS01 null G Sathe, S Sarawagi null null matched with L1IBwD8w1G0J null G Sathe, S Sarawagi null null
+conf/vldb/CochinwalaB94 null M Cochinwala, J Bradley null null matched with Bp69wMYw9DAJ null M Cochinwala, J Bradley null null
+journals/tods/BohlenJS00 null M Böhlen, C Jensen, R Snodgrass null null matched with 6eheB6Kct4MJ null MH Boehlen, CS Jensen, RT Snodgrass null null
+conf/vldb/GalhardasFSSS01 null H Galhardas, D Florescu, D Shasha, E Simon, C Saita null null matched with nlOAkKW_ry8J null H Galhardas, D Florescu, D Shasha, E Simon, CA   null null
+conf/vldb/DarmontS99 null J Darmont, M Schneider null null matched with Ebi8v9FZXcgJ null J Darmont, M Schneider null null
+conf/vldb/StolteA02 null E Stolte, G Alonso null null matched with N3Bry6sSMw8J null E Stolte, G Alonso null null
+conf/sigmod/ZhangNDLL01 null C Zhang, J Naughton, D DeWitt, Q Luo, G Lohman null null matched with ryaV3kTsJ2IJ null C Zhang, J Naughton, D DeWitt, Q Luo, G Lohman null null
+journals/vldb/AnGSVKI02 null N An, S Gurumurthi, A Sivasubramaniam, N Vijaykrishnan, M Kandemir, M Irwin null null matched with kBzZ1GUoa1AJ null N An, S Gurumurthi, A Sivasubramaniam, N   null null
+conf/vldb/CabreraRH95 null L Cabrera, R Rees, W Hineman null null matched with x3WHLHvq-SEJ null LF Cabrera, R Rees, W Hineman null null
+journals/sigmod/KeetonPH98 null K Keeton, D Patterson, J Hellerstein null null matched with 9xH94cKF-CYJ null K Keeton, D Patterson, J Hellerstein null null
+conf/vldb/LeslieJBY95 null H Leslie, R Jain, D Birdsall, H Yaghmai null null matched with zmwPMSd8rGgJ null H Leslie, R Jain, D Birdsall, H Yaghmai null null
+journals/sigmod/Seshadri98 null P Seshadri null null matched with _nIg_hi8PAAJ null P Seshadri null null
+journals/sigmod/EisenbergM02 null A Eisenberg, J Melton null null matched with wgK6p4mDSIMJ null A Eisenberg, J Melton null null
+conf/vldb/PedersenJD00 null T Pedersen, C Jensen, C Dyreson null null matched with bSRLP5_ErFMJ null TB Pedersen, CS Jensen, CE Dyreson null null
+journals/tods/LakshmananSS01 null L Lakshmanan, F Sadri, S Subramanian null null matched with FqrVkPwzd3kJ null LVS Lakshmanan, F Sadri, SN Subramanian null null
+conf/vldb/Shaw98 null D Shaw null null matched with sZZVwXivu-kJ null DE Shaw null null
+conf/sigmod/YerneniLGU99 null R Yerneni, C Li, H Garcia-Molina, J Ullman null null matched with hnMltY0uSf0J null R Yerneni, C Li, H Garcia-Molina, J Ullman null null
+conf/sigmod/Kennamer98 null S Kennamer null null matched with url:http://portal.acm.org/citation.cfm%3Fid%3D276304.276373%26dl%3Dportal%26dl%3DACM%26type%3Dseries%26idx%3D276304%26part%3DProceedings%26WantType%3DProceedings%26title%3DInternational%2520Conference%2520on%2520Management%2520of%2520Data%26CFID%3D11111111%26CFTOKEN%3D2222222 null S Kennamer null null
+journals/sigmod/CoxEH96 null K Cox, S Eick, T He null null matched with pqzGz7zfpDgJ null KC Cox null null
+conf/vldb/JagadishKNS99 null H Jagadish, O Kapitskaia, R Ng, D Srivastava null null matched with W8O7pgTYGTYJ null HV Jagadish, O Kapitskaia, RT Ng, D Srivastava null null
+conf/vldb/AgrawalCN00 null S Agrawal, S Chaudhuri, V Narasayya null null matched with U8CMJBaJyX8J null S Agrawal, S Chaudhuri, VR Narasayya null null

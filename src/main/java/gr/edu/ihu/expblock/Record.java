@@ -23,8 +23,18 @@ public class Record {
     public int survivals = 0;
     public String bKey = "";
 
+    public String title; 
+    public String authors;
+    public String Fauthor;
+    public String venue;
+    public String year;
+
     public String getBlockingKey(MinHash minHash) {
-        String bKey = minHash.hash(surname)+ "_" + poBox;
+        String bKey;
+        if(!Fauthor.isEmpty())
+            bKey = minHash.hash(Fauthor)+ "_" + year;        
+        else 
+            bKey=year.toString();
         return bKey;
     }
 

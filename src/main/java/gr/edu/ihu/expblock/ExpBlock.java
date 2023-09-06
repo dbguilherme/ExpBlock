@@ -165,7 +165,7 @@ public class ExpBlock {
         String Fauthor = (authors).split(",")[0];
         String temp[]=Fauthor.split(" ");
         if (temp.length>1)
-            Fauthor=temp[temp.length-1];
+            Fauthor=temp[0];
         String venue = lineInArray[3];
         String year = lineInArray[4];
    
@@ -183,7 +183,7 @@ public class ExpBlock {
         rec.origin = d;//id.charAt(0) + "";
     
         
-        System.out.println(Fauthor + " "+ year );               
+        //System.out.println(Fauthor + " "+ year );               
         return rec;
     }
 

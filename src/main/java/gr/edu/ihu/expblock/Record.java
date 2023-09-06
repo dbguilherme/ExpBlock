@@ -32,7 +32,7 @@ public class Record {
     public String getBlockingKey(MinHash minHash) {
         String bKey;
         if(!Fauthor.isEmpty())
-            bKey = minHash.hash(Fauthor)+ "_" + year;        
+            bKey = minHash.hash(Fauthor);//+ "_" + year;        
         else 
             bKey=year.toString();
         return bKey;

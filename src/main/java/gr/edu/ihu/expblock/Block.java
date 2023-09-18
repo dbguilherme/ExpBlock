@@ -103,7 +103,7 @@ public class Block {
                 }
                 this.comparisonsNo++;
                 //if ((editDistance(rec1.surname, rec.surname) <= 2) && (editDistance(rec1.name, rec.name) <= 2)) {
-                if ((editDistance(rec1.title, rec.title) <= 2) && (editDistance(rec1.title, rec.title) <= 2)) {
+               // if ((editDistance(rec1.title, rec.title) <= 2) && (editDistance(rec1.title, rec.title) <= 2)) {
                     //Report a match
                     //System.out.println("A matching pair identified.");
                     //if (rec.getIdNo().equals(rec1.getIdNo())) {                       
@@ -114,35 +114,36 @@ public class Block {
                         if (keyB!=null)
                             if (ground.get(key).equals(value)){
                             //System.out.print("----key "+key + " value "+ value);
-                            VPPairsNo++;
+                                VPPairsNo++;
+                                ground.remove(key);
                             }else{
-                            FPPairsNo++; 
+                                FPPairsNo++; 
                             }
-                        String s = rec1.id + " " + rec1.surname + " " + rec1.name + " " + rec1.town + " " + rec1.poBox + " matched with " + rec.id + " " + rec.surname + " " + rec.name + " " + rec.town + " " + rec.poBox;
-                        try {
-                            writer.write(s + "\r\n");
-                        } catch (Exception ex) {
-                            ex.printStackTrace();
-                        }
+                        //String s = rec1.id + " " + rec1.surname + " " + rec1.name + " " + rec1.town + " " + rec1.poBox + " matched with " + rec.id + " " + rec.surname + " " + rec.name + " " + rec.town + " " + rec.poBox;
+                        // try {
+                        //     writer.write(s + "\r\n");
+                        // } catch (Exception ex) {
+                        //     ex.printStackTrace();
+                        // }
                         //matchingPairsNo++;
                     //}
-                }else{
-                   //System.out.println("----key "+key + " value "+ ground.get(key));
-                    String keyB =ground.get(key);
-                    if (keyB!=null){
-                        if (keyB.equals(value)){
-                            //System.out.println("----key "+key + " value "+ value);
-                            FNPairs++;
-                        }
-                     }
-                }
+                // }else{
+                //    //System.out.println("----key "+key + " value "+ ground.get(key));
+                //     String keyB =ground.get(key);
+                //     if (keyB!=null){
+                //         if (keyB.equals(value)){
+                //             //System.out.println("----key "+key + " value "+ value);
+                //             FNPairs++;
+                //         }
+                //      }
+                // }
             }           
         } 
        
-        
+        int evicted = 0;
         if (arr.size() == w) {
             ArrayList<Record> newArr = new ArrayList<Record>();
-            int evicted = 0;
+            
             for (int i = 0; i < arr.size(); i++) {
                 double chance = r.nextDouble();
                 Record rec1 = arr.get(i);
@@ -157,7 +158,8 @@ public class Block {
         } else {
             arr.add(rec);
         }
-
+        if (evicted>0)
+            System.out.println("evicted: "+evicted);
         this.recNo++;
         this.lastRoundUsed = round;
         //return matchingPairsNo;

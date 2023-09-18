@@ -308,6 +308,8 @@
 "journals/sigmod/ArpinarD00","Provision of Market Services for eCo Compliant Electronic Market Places","S Arpinar, A Dogac","SIGMOD Record",2000
 "conf/sigmod/SunAA03","Hardware Acceleration for Spatial Selections and Joins","C Sun, D Agrawal, A Abbadi","SIGMOD Conference",2003
 "conf/sigmod/ReissK03","A Characterization of the Sensitivity of Query Optimization to Storage Access Cost Parameters","F Reiss, T Kanungo","SIGMOD Conference",2003
+"L1m30vG-d5sJ","A Characterization of the Sensitivity of Query Optimization to Storage Access Cost Parameters","F Reiss, T Kanungo","SIGMOD Conference,",2003
+
 "journals/sigmod/KantM00","Workshop on Performance and Architecture of Web Servers (PAWS-2000, held in conjection with SIGMETRICS-2000)","N/A","N/A",2000
 "conf/sigmod/LometT03","A Theory of Redo Recovery","D Lomet, M Tuttle","SIGMOD Conference",2003
 "journals/sigmod/LudwigG00","Report in ISDO '00: The CAiSE*00 Workshop on Infrastructures for Dynamic Business-to-Business Service Outsourcinga","N/A","N/A",2000

@@ -34,9 +34,11 @@ public class ExpBlock {
     public int occupied = 0;
     public double xi = .08;
     public int currentRound = 1;
-    public int matchingPairsNo = 0;
-    public int FPPairsNo = 0;
-    public int TPPairsNo = 0;
+    
+    public int globalFPPairsNo = 0;
+    public int globalTPPairsNo = 0;
+
+    public int globalBlockEvictions=0;
     
     public int trulyMatchingPairsNo = 1000000;
     public MinHash minHash = new MinHash();
@@ -96,6 +98,7 @@ public class ExpBlock {
                 if (block.degree <= 0) {
                     arr[i] = null;
                     v++;
+                    globalBlockEvictions++;
                 } else {
                     block.recNo = block.recNo - avg;
                 }
@@ -123,8 +126,8 @@ public class ExpBlock {
             if (block != null) {
                 if (block.key.equals(key)) {
                     block.put(rec, w, currentRound, writer,ground);
-                    this.TPPairsNo = this.TPPairsNo + block.VPPairsNo;
-                    this.FPPairsNo = this.FPPairsNo + block.FPPairsNo;
+                    this.globalTPPairsNo = this.globalTPPairsNo + block.VPPairsNo;
+                    this.globalFPPairsNo = this.globalFPPairsNo + block.FPPairsNo;
                     blockExists = true;
                     break;
                 }
@@ -146,7 +149,7 @@ public class ExpBlock {
                     }
                 }
             }
-            this.matchingPairsNo = this.matchingPairsNo + newBlock.VPPairsNo;
+           
         }
         long stopTime = System.nanoTime();
         long elapsedTime = stopTime - startTime;
@@ -165,7 +168,7 @@ public class ExpBlock {
         String Fauthor = (authors).split(",")[0];
         String temp[]=Fauthor.split(" ");
         if (temp.length>1)
-            Fauthor=temp[0];
+            Fauthor=temp[1];
         String venue = lineInArray[3];
         String year = lineInArray[4];
    
@@ -188,7 +191,7 @@ public class ExpBlock {
     }
 
     public static void main(String[] args) {
-        ExpBlock e = new ExpBlock(0.05, 1.0 / 3, 1000);
+        ExpBlock e = new ExpBlock(0.005, 0.2, 10000);
         System.out.println("Running ExpBlock using b=" + e.b + " w=" + e.w);
         int recNoA = 0;
         int recNoB = 0;
@@ -198,12 +201,13 @@ public class ExpBlock {
             // CSVReader readerA = new CSVReader(new FileReader("./dataset//test_voters_A.txt"));
             // CSVReader readerB = new CSVReader(new FileReader("./dataset//test_voters_B.txt"));
             // CSVReader groundFile = new CSVReader(new FileReader("./dataset//ground_voters.txt"));
-            CSVReader readerA = new CSVReader(new FileReader("./dataset/dblp-scholar/DBLP1.csv"));
-            CSVReader readerB = new CSVReader(new FileReader("./dataset/dblp-scholar/Scholar.csv"));
-            CSVReader groundFile = new CSVReader(new FileReader("./dataset/dblp-scholar/DBLP-Scholar_perfectMapping.csv"));
+            CSVReader readerA = new CSVReader(new FileReader("./dataset/dblp-scholar/clean_dataset1_dblps.txt"));
+            CSVReader readerB = new CSVReader(new FileReader("./dataset/dblp-scholar/clean_dataset2_scholar.txt"));
+            CSVReader groundFile = new CSVReader(new FileReader("./dataset/dblp-scholar/clean_duplicatas_dblp_scholar.txt"));
             String[] lineInArray1;
             String[] lineInArray2;
 
+            int groundsize=0;
             while (true){
                 lineInArray1 = groundFile.readNext();
                 if (lineInArray1 != null) {
@@ -212,6 +216,7 @@ public class ExpBlock {
                         String idB = lineInArray1[1];
                         //System.out.println("ids "+ idA +" --- "+idB);
                         ground.put(idA,idB);
+                        groundsize++;
                     }
                 }
                 
@@ -219,6 +224,7 @@ public class ExpBlock {
                     break;
                 }
             }
+            e.trulyMatchingPairsNo=groundsize;
 
            // int c = 0;
             while (true) {
@@ -250,7 +256,7 @@ public class ExpBlock {
                     long stopTimeCycle = System.currentTimeMillis();
                     long elapsedTime = stopTimeCycle - startTimeCycle;
                     System.out.println("====== processed " + (recNoA + recNoB) + " records in " + (elapsedTime / 1000) + " seconds.");
-                    System.out.println("====== identified " + e.TPPairsNo + " matching pairs.");
+                    System.out.println("====== identified " + e.globalTPPairsNo + " matching pairs.");
                     startTimeCycle = System.currentTimeMillis();
                 }
                 if ((lineInArray1 == null) && (lineInArray2 == null)) {
@@ -264,8 +270,12 @@ public class ExpBlock {
             System.out.println(" ==================== processed " + (recNoA + recNoB) + " records in total.");
             System.out.println(" ==================== processed " + (recNoA) + " records from A.");
             System.out.println(" ==================== processed " + (recNoB) + " records from B.");
-            System.out.println(" ==================== identified " + e.TPPairsNo + " in total. Recall = " + (e.TPPairsNo * 1.0 / e.trulyMatchingPairsNo));
-            System.out.println(" ==================== identified " + e.FPPairsNo + " in total. Precision = " + (e.FPPairsNo * 1.0 / e.trulyMatchingPairsNo));
+            System.out.println(" ==================== identified " + e.globalTPPairsNo + " in total. Recall = " + (e.globalTPPairsNo * 1.0 / e.trulyMatchingPairsNo));
+            System.out.println(" ==================== identified " + e.globalFPPairsNo + " in total. Precision = " + (e.globalTPPairsNo * 1.0 / (e.globalFPPairsNo+ e.globalTPPairsNo)));
+            System.out.println(" ==================== blocos eliminidos " + e.globalBlockEvictions);
+            for (Map.Entry<String, String> set :ground.entrySet()) {
+                //System.out.println(set.getKey() + " = "                 + set.getValue());
+            }
         } catch (Exception ex) {
             ex.printStackTrace();
             try {
